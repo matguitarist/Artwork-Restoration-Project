@@ -249,7 +249,7 @@
     <year>1983</year>
     <developer>Gem International Corp.</developer>
     <publisher>Dimax</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>An alien crashed on Earth and to get back to his planet he must find the four pieces of his spacecraft. Go
@@ -262,7 +262,7 @@
     <year>1983</year>
     <developer>Children's Computer Workshop, Inc.</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1-2</players>
     <story>Ernie's ship has run out of fuel and it is up to you to help him.
@@ -293,7 +293,7 @@
     <year>1982</year>
     <developer>M Network</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Shooter</genre>
     <players>1-2</players>
     <story>Armor Ambush is a game that gives players control over tanks that battle one another over terrain that offers
@@ -311,7 +311,7 @@
     <year>1983</year>
     <developer>Xonox</developer>
     <publisher>Xonox</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1-2</players>
     <story>In this two player game each player controls an artillery gun set in a mountain landscape with the goal of
@@ -327,7 +327,7 @@
     <year>1983</year>
     <developer>Bomb</developer>
     <publisher>Bomb</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>A mothership drops aliens, up to three on screen at a time. There are ten per level. You must shoot them but
@@ -398,7 +398,7 @@
     <year>1982</year>
     <developer>Mattel Electronics</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Shooter</genre>
     <players>1-2</players>
     <story>For 1 player at a time- compete with friends for the best peak score! 2 firing modes- 2 speed options. Shoot
@@ -416,7 +416,7 @@
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
     <score>0.7</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with
       weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city
@@ -431,7 +431,7 @@
     <year>1982</year>
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with
@@ -471,7 +471,7 @@
     <developer>Mystique</developer>
     <publisher>Mystique</publisher>
     <score>0.2</score>
-    <genre>Action-Educational</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>This was a double-ended cartridge that contained Bachelorette Party on one end and Burning Desire on the
       other.
@@ -564,7 +564,7 @@
     <developer>QuelleSoft</developer>
     <publisher>Home Vision</publisher>
     <score>0.65</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>2</players>
     <story>Base Attack is a Home-Visions reversal of the ''Atlantis'' formula from Imagic. Instead of defending the
       cities from an aerial attack, you're attacking the cities from the air.
@@ -597,7 +597,7 @@
     <year>1986</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Various</genre>
     <players>1</players>
     <story>Ever wanted to try your hand at computer programming but had no idea where to start? BASIC Programming for
@@ -647,7 +647,7 @@
     <developer>Activision</developer>
     <publisher>Activision</publisher>
     <score>0.65</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>Beamrider is a 3-D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors
       of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of
@@ -700,7 +700,7 @@
     <year>1983</year>
     <developer>Coleco Industries, Inc.</developer>
     <publisher>Coleco Industries, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1</players>
     <story>In this children's learning game, you play as the Berenstain bear called Brother. On your unicycle, first you
@@ -752,7 +752,7 @@
     <year>1983</year>
     <developer>Children's Computer Workshop, Inc.</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1-2</players>
     <story>Big Bird wants to win the county fair egg contest and you can help him.
@@ -830,7 +830,7 @@
     <year>1989</year>
     <developer>Sculptured Software</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1-2</players>
     <story>In this game, you ride your BMX doing various tricks.
@@ -844,7 +844,7 @@
   </game>
   <game name="Bobby is Going Home (USA)">
     <description>Bobby is Going Home (USA)</description>
-    <year />
+    <year>NA</year>
     <developer>Bit Corp.</developer>
     <publisher>Bit Corp.</publisher>
     <score>0.5</score>
@@ -860,7 +860,7 @@
     <year>1983</year>
     <developer>First Star Software</developer>
     <publisher>First Star Software</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>This is a game rather reminiscent of Q*bert.
@@ -1006,8 +1006,8 @@
     <year>1983</year>
     <developer>SEGA</developer>
     <publisher>SEGA</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Action</genre>
     <players>1</players>
     <story>It's the 25th century. You are Buck Rogers fighting the battle of Planet Zoom. This is a race against death.
       Your ultimate and most powerful enemy is the deadly MOTHER SHIP!
@@ -1028,7 +1028,7 @@
     <year>1983</year>
     <developer>Data Age</developer>
     <publisher>Data Age</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You have been sent to a long-dead planet to investigate life sign readings. When you get there, giant bugs
@@ -1073,7 +1073,7 @@
     <year>1983</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>This is a pinball game for the Atari 2600. You use the buttons on a paddle controller. To pull down the
@@ -1121,7 +1121,7 @@
     <year>1982</year>
     <developer>Playground</developer>
     <publisher>Mystique</publisher>
-    <score />
+    <score>NA</score>
     <genre>Various</genre>
     <players>1</players>
     <story>Rescue a damsel in distress from being burned alive by moving around in your helicopter and putting out the
@@ -1160,7 +1160,7 @@
   <game name="California Games (USA)">
     <description>California Games (USA)</description>
     <year>1988</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Epyx</publisher>
     <score>0.6</score>
     <genre>Sports</genre>
@@ -1271,7 +1271,7 @@
     <year>1983</year>
     <developer>Emerson Radio Corp</developer>
     <publisher>AtariAge</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>This is the among the oldest of battles: cat vs. dog.
@@ -1288,7 +1288,7 @@
     <year>1982</year>
     <developer>Atari</developer>
     <publisher>Mystique</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In Cathouse Blues, you are a horny guy who has to memorize which 7 houses the ladies of ill repute wander
@@ -1384,7 +1384,7 @@
     <year>1980</year>
     <developer>Zellers</developer>
     <publisher>Home Entertainment Suppliers</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You as a duck must work your way through the maze from the bottom right-hand corner of the screen to the top
@@ -1395,7 +1395,7 @@
     <year>1982</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are trying to become a Spectra-Warrior. To do this, you must fly through the levels of warp zones,
@@ -1483,7 +1483,7 @@
     <developer>Activision</developer>
     <publisher>Activision</publisher>
     <score>0.8</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>Chopper Command is a side scrolling shooter. As the pilot of a helicopter gunship, your mission is to protect
       the convoy of trucks which is travelling at the bottom of the screen. Each wave consists of numerous enemy
@@ -1517,7 +1517,7 @@
     <year>1980</year>
     <developer>Exidy, Inc.</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1-2</players>
     <story>Pop the balloons and score points. A wall of red, blue and white balloons will appear at the top of the
@@ -1534,7 +1534,7 @@
     <year>1982</year>
     <developer>Telesys</developer>
     <publisher>Telesys</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>In CocoNuts Stanley the intrepid jungle explorer is under attack from Coco the monkey! Coco is up in the
@@ -1595,7 +1595,7 @@
     <developer>U.S. Games</developer>
     <publisher>U.S. Games</publisher>
     <score>0.55</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>Your city is under attack by commando raiders, and it's your job to defend it! You control a large gun at the
       bottom of the screen. Choppers will be flying in paratroopers, both of which need to be destroyed. If a
@@ -1626,8 +1626,8 @@
     <year>1982</year>
     <developer>Ultravision</developer>
     <publisher>Ultravision</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>A Demon Attack rip-off. Sometimes the condors will explode before you shoot them and the game will become to
       fast to soon. However, that doesn't happen always, so it's pretty unexpected.</story>
@@ -1650,7 +1650,7 @@
     <year>1983</year>
     <developer>Children's Computer Workshop</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1-2</players>
     <story>Cookie Monster hungry! Want cookie!
@@ -1783,7 +1783,7 @@
     <developer>Activision</developer>
     <publisher>Activision</publisher>
     <score>0.8</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>1-2</players>
     <story>A barrage of bugs are attacking your home, and you need to defend it with potted plants! You control your
       character at the top of the screen where there are six potted plants. These can be dropped on the bugs to destroy
@@ -1799,7 +1799,7 @@
     <year>1983</year>
     <developer>Fox Video Games</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>The object of this game is to use your flying sub, the Sea Hunter, to destroy enemies and get treasures.
@@ -1871,7 +1871,7 @@
     <year>1983</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>It seems as if forever that the evil Morplus from the planet Tzoris have terrorized the galaxy, leaving death
@@ -1963,8 +1963,8 @@
     <year>1983</year>
     <developer>QuelleSoft</developer>
     <publisher>Bit Corp.</publisher>
-    <score />
-    <genre>Action</genre>
+    <score>NA</score>
+    <genre>Strategy</genre>
     <players>1</players>
     <story>Would you like to try this traditional Chinese variety dancing plate game? Now it's your turn! Have several
       plates revolve on the tops of different wands and keep them all in balance. If a plate falls, rush to get it,
@@ -1975,7 +1975,7 @@
     <year>1982</year>
     <developer>M Network</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>It's a battle for survival in an underground cavern! You have five men. They enter the cavern one at a time
@@ -2034,7 +2034,7 @@
     <year>1983</year>
     <developer>Avalon Hill</developer>
     <publisher>Avalon Hill</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1</players>
     <story>You have been sent to deliver a message. Suddenly, you run into the giant ship IT. IT doesn't want that
@@ -2087,7 +2087,7 @@
     <developer>Sears</developer>
     <publisher>Williams</publisher>
     <score>0.75</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien
       forces.
@@ -2126,7 +2126,7 @@
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
     <score>0.75</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at
       the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around
@@ -2141,7 +2141,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.5</score>
-    <genre>Racing</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>In Demons to Diamonds, you control a laser zapper which moves horizontally at either the top or the bottom of
       the screen. Your goal is to earn as many points as possible by shooting objects in the center of the screen.
@@ -2177,7 +2177,7 @@
     <year>1983</year>
     <developer>Panda, Inc.</developer>
     <publisher>Sancho</publisher>
-    <score />
+    <score>NA</score>
     <genre>Puzzle</genre>
     <players>1</players>
     <story>If you enjoy games like Rubik's Cube, then you'll like this one. The object of Dice Puzzle is to get all 16
@@ -2207,8 +2207,8 @@
     <year>1983</year>
     <developer>QuelleSoft</developer>
     <publisher>Bit Corp.</publisher>
-    <score />
-    <genre>Action</genre>
+    <score>NA</score>
+    <genre>Strategy</genre>
     <players>1</players>
     <story>Would you like to try this traditional Chinese variety dancing plate game? Now it's your turn! Have several
       plates revolve on the tops of different wands and keep them all in balance. If a plate falls, rush to get it,
@@ -2313,7 +2313,7 @@
     <developer>Technos Japan Corp.</developer>
     <publisher>Activision</publisher>
     <score>0.5</score>
-    <genre>Beat'em Up</genre>
+    <genre>Beat-'Em-Up</genre>
     <players>1-2</players>
     <story>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained
       in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their
@@ -2331,7 +2331,7 @@
     <year>1989</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1-2</players>
     <story>Play a fast paced two-on-two game of half court basket ball. Using only half the court means you need to be
@@ -2344,8 +2344,8 @@
     <year>1983</year>
     <developer>Ariola</developer>
     <publisher>Rainbow Vision</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>The object of the game was to take control of a dragon that had to fight its way through waves of attackers
       that came at you from the right hand side of the screen. Strange ball type enemies came at you but although they
@@ -2378,7 +2378,7 @@
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
     <score>0.65</score>
-    <genre>RPG</genre>
+    <genre>Role-Playing</genre>
     <players>1</players>
     <story>Long ago, a Druid magician created an amulet of great power that could subdue a dragon. Heading to the
       dragon's lair, the Druid accidentally dropped the amulet and it fell deep into its lair. Over time, the amulet
@@ -2411,9 +2411,9 @@
     <year>1983</year>
     <developer>Mark R. Hahn</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
-    <players />
+    <players>NA</players>
     <story>Dukes of Hazzard is a driving game with an overhead perspective, based on the popular television series of
       the same name. Players take on the role of the Duke boys driving the infamous "General Lee," while trying to avoid
       the police and rescue their sister Daisy from Boss Hogg. While development of this game was reportedly complete,
@@ -2426,7 +2426,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.2</score>
-    <genre>Action-Adventure-Action</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>E.T. The Extra-Terrestrial is a licensed adventure game, based on the movie. The adventure takes place on
       several screens with pits scattered about. The object of the game is to find pieces of E.T.'s phone. Once all
@@ -2445,8 +2445,8 @@
     <year>1983</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
-    <genre>Shooter-Shoot'em Up-Action</genre>
+    <score>NA</score>
+    <genre>Shooter</genre>
     <players>1</players>
     <story>You are a space destroyer defending Earth against the Trillians.
 
@@ -2483,7 +2483,7 @@
     <year>1982</year>
     <developer>Simage</developer>
     <publisher>Simage</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1-2</players>
     <story>This game was designed to help teach children addition, subtraction and counting. Eli needs to return to his
@@ -2514,7 +2514,7 @@
     <year>1982</year>
     <developer>Data Age</developer>
     <publisher>Data Age</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Using an anti-matter launcher, you must defend the starbase L5 against a non-stop horde of blue Megalyte
@@ -2554,7 +2554,7 @@
     <developer>Western Technologies</developer>
     <publisher>U.S. Games</publisher>
     <score>0.6</score>
-    <genre>Strategy-Adventure</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <story>What started out as a nice little archaeological expedition has suddenly become a nightmarish fight for
       survival! A team of archaeologists is trapped in an underground maze of dark, winding tunnels. All around them,
@@ -2571,7 +2571,7 @@
     <year>1982</year>
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>You've been abducted! Kidnapped! Shanghaied! You find yourself in a huge maze being watched by the
@@ -2611,7 +2611,7 @@
     <year>1983</year>
     <developer>Orca Corporation</developer>
     <publisher>Tigervision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are a space attack pilot flying at death range over a gigantic space ship. You must fight through the
@@ -2626,9 +2626,9 @@
     <year>1983</year>
     <developer>Skill Screen Games</developer>
     <publisher>Skill Screen Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
-    <players />
+    <players>NA</players>
     <story>When the Personal Computer Museum first discovered Extra Terrestrials, the find itself was enough to send
       shockwaves through the Atari community. Not only had a previously unknown (but commercially released) title
       surfaced but it has also been recognized as the only Canadian developed Atari 2600 game. The group was hoping to
@@ -2642,7 +2642,7 @@
     <year>1982</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Fantastic Voyage is a vertically scrolling shooter for one player. The premise of the game follows that of
@@ -2661,9 +2661,9 @@
     <year>1983</year>
     <developer>Suntek</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
-    <players />
+    <players>NA</players>
     <story>Farmyard Fun is a PAL conversion. Originally release in Europe by a Taiwan company</story>
   </game>
   <game name="Fast Eddie (USA)">
@@ -2671,7 +2671,7 @@
     <year>1982</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>As Fast Eddie, you must go from floor to floor, collecting prizes.
@@ -2693,7 +2693,7 @@
     <year>1982</year>
     <developer>Telesys</developer>
     <publisher>Telesys</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Eat! Eat all the calories you can but watch out for the purple pickles. They stay with you and give you
@@ -2759,7 +2759,7 @@
     <year>1982</year>
     <developer>Apollo, Inc.</developer>
     <publisher>Apollo, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1-2</players>
     <story>You are an air traffic controller at an international airport. You must guide planes in to landing safely.
@@ -2838,9 +2838,9 @@
     <year>1983</year>
     <developer>Vidco</developer>
     <publisher>Suntek</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
-    <players />
+    <players>NA</players>
     <story>Firebug is a half hearted attempt at a 3D target shooting game. This is probably something that shouldn't
       have ever been attempted on the 2600, but Vidco decided to try it anyway. The result is a game that looks decent,
       but plays horribly. The goal of the game is to have your wizard create and shoot a fireball at the catapult that
@@ -2851,7 +2851,7 @@
     <year>1982</year>
     <developer>Arcadia Corporation</developer>
     <publisher>Arcadia Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-4</players>
     <story>Fireball is an arcade action game similar to Breakout. You are a juggler, and you need to keep multiple
@@ -2915,7 +2915,7 @@
     <year>1983</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are Flash Gordon. Many spacemen have entered Spider City but never returned. Your job, Flash, is two
@@ -2965,10 +2965,10 @@
   </game>
   <game name="Forest (Europe)">
     <description>Forest (Europe)</description>
-    <year />
+    <year>NA</year>
     <developer>Sancho</developer>
     <publisher>Sancho</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Ah, you poor woodcutter. You just want to cut some wood to sell so your family can eat but an evil witch has
@@ -3039,11 +3039,11 @@
   <game name="Frisco (USA)">
     <description>Frisco (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
-    <players />
+    <players>NA</players>
     <story>This game is based on the code of Pac-Man.
 
       It's still not known where the initials R.J.P.G. stand for.</story>
@@ -3070,8 +3070,8 @@
     <year>1984</year>
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
-    <score />
-    <genre>Action-Action</genre>
+    <score>NA</score>
+    <genre>Action</genre>
     <players>1</players>
     <story>In Frogger II, you need to guide your frog to safety in three different locations. Starting out underwater,
       reach the top of the pond while avoiding dangerous alligators and fish (you can ride a turtle for safety!). Once
@@ -3085,7 +3085,7 @@
     <year>1982</year>
     <developer>Mattel Electronics</developer>
     <publisher>QuelleSoft</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>2</players>
     <story>The object of the game is to make frogs catch flies. Points are won by manipulating a frog so that he jumps
@@ -3129,8 +3129,8 @@
     <year>1983</year>
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Action</genre>
     <players>1-3</players>
     <story>The headquarters of the G.I. Joe Special Mission Forces is under siege by the archenemy COBRA! An evil
       organization determined to take over the world, COBRA has appeared in the form of a giant cobra snake. Right now,
@@ -3143,7 +3143,7 @@
     <developer>Namco</developer>
     <publisher>Atari</publisher>
     <score>0.6</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>Galaxian is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens
       at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien
@@ -3156,7 +3156,7 @@
     <year>1983</year>
     <developer>Gammation</developer>
     <publisher>Gammation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You are the commander of the only Gamma ship in this stellar field. The Vegan war fleet has taken control of
@@ -3172,7 +3172,7 @@
     <year>1983</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>S.B.I. (Spectravision Bureau of Investigation) file on Chicago Joe and his gang:
@@ -3213,7 +3213,7 @@
     <year>1983</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are in your vehicle which has terrible fuel efficiency. A real gas hog. You are trying to travel along
@@ -3233,7 +3233,7 @@
     <year>1983</year>
     <developer>Answer Software</developer>
     <publisher>Answer Software</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>This game has nothing to do with the Atari arcade game or any of the home-ported versions.
@@ -3335,11 +3335,11 @@
   <game name="Gigolo (USA)">
     <description>Gigolo (USA)</description>
     <year>1982</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Mystique</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
-    <players />
+    <players>NA</players>
     <story>In Gigolo, you are a lady out for a man or two -- hit the bank to get some cash, then sneak into one of many
       houses to find the gigolos and score some 'scores' before the cops catch you in the act! (The male and female
       roles of both games were swapped in the publisher's clones, Bachelorette Party and Cathouse Blues.)</story>
@@ -3349,7 +3349,7 @@
     <year>1983</year>
     <developer>VSS, Inc.</developer>
     <publisher>Telegames</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Defend the earth from an alien mother ship with a sinister plot to cover the surface of the planet with ice.
@@ -3363,8 +3363,8 @@
     <year>1983</year>
     <developer>Qualtronic Devices, Inc.</developer>
     <publisher>Selchow &amp; Righter Company</publisher>
-    <score />
-    <genre>Action</genre>
+    <score>NA</score>
+    <genre>Strategy</genre>
     <players>1-2</players>
     <story>This is a version of Scrabble for the Atari 2600.
 
@@ -3397,7 +3397,7 @@
     <year>1982</year>
     <developer>U.S. Games</developer>
     <publisher>U.S. Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>A pesky gopher is after your carrot patch! Your goal is to stop it before all of your carrots are gone. The
@@ -3478,8 +3478,8 @@
     <year>1983</year>
     <developer>Bomb</developer>
     <publisher>Bomb</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>In the space shooter, you move your ship by moving the joystick in the direction you want to go. You fire by
       holding down the button and moving the joystick in the direction you want to shoot. You can shoot from the front
@@ -3501,7 +3501,7 @@
     <year>1984</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>This game is based on the Steven Spielberg movie of the same name but is different than the other versions.
@@ -3537,7 +3537,7 @@
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
     <score>0.6</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>The entire solar system is being attacked by the vicious Gyrusians, and it's up to you to save the day! You
       will need to fly your spaceship to each of the nine planets and then clear three stages of enemies to rid that
@@ -3634,11 +3634,11 @@
   <game name="Hole Hunter (USA)">
     <description>Hole Hunter (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
-    <players />
+    <players>NA</players>
     <story>You have 20 minutes left for you to hit the scampering mice with your hammer before you go for a picnic on
       this sunny morning. However, do not be hasty, or you will drop into the hole where the mice live. Also, beware of
       the snake whose bite is deadly. If you drop your hammer, you have to retrieve it. Now, hit as many mice as you
@@ -3701,7 +3701,7 @@
     <developer>Zimag</developer>
     <publisher>Zimag</publisher>
     <score>0.5</score>
-    <genre>Racing</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>Open, Sesame! is an action platform game. You control Ali Baba, and your goal is to reach the cave of
       treasures. The treasury entrance is at the top of the screen, and you begin each level at the bottom and need to
@@ -3715,11 +3715,11 @@
   <game name="I.Q. 180 (USA)">
     <description>I.Q. 180 (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Puzzle</genre>
-    <players />
+    <players>NA</players>
     <story>I.Q. Memory Teaser is a matching game. While the music plays, you have to remember the positions of all the
       letters in two panels. Then you have to match up letters in the first panel with letters in the second.</story>
   </game>
@@ -3780,7 +3780,7 @@
     <year>1981</year>
     <developer>Apollo, Inc.</developer>
     <publisher>Apollo, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1-2</players>
     <story>You are a secret agent sent on an important mission to recover enemy documents. There are enemy assassins
@@ -3821,8 +3821,8 @@
     <year>1982</year>
     <developer>M Network</developer>
     <publisher>M Network</publisher>
-    <score />
-    <genre>Sports-Sports / Soccer-Action</genre>
+    <score>NA</score>
+    <genre>Sports</genre>
     <players>2</players>
     <story>This Game is 2-Player Only. In this version of soccer, each player controls 4 men, though only one at a time.
       The computer moves the other 3 for you. A computer-controlled goalie will help out when a goal attempt is made.
@@ -3831,11 +3831,11 @@
   <game name="IQ 180 (USA)">
     <description>IQ 180 (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Puzzle</genre>
-    <players />
+    <players>NA</players>
     <story>I.Q. Memory Teaser is a matching game. While the music plays, you have to remember the positions of all the
       letters in two panels. Then you have to match up letters in the first panel with letters in the second.</story>
   </game>
@@ -4033,7 +4033,7 @@
     <year>1983</year>
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>For decades, the weapons satellites have orbited Earth harmlessly. Now, for unknown reasons, they have
@@ -4073,7 +4073,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.7</score>
-    <genre>Puzzle</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <story>Klax features a conveyor belt at the top of the screen. It constantly rolls toward the playing area,
       delivering a steady supply of blocks. The player controls a small device which sits at the interface between the
@@ -4149,11 +4149,11 @@
   <game name="Lady In Wading (USA)">
     <description>Lady In Wading (USA)</description>
     <year>1982</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Mystique</publisher>
-    <score />
+    <score>NA</score>
     <genre>Various</genre>
-    <players />
+    <players>NA</players>
     <story>Lady in Wading is a gender reversed version of Knight on the Town in which you are a lady knight trying to
       get to your prince. The game is otherwise identical, including the sexual 'reward' at the end.</story>
   </game>
@@ -4193,11 +4193,11 @@
   <game name="Lilly Adventure (USA)">
     <description>Lilly Adventure (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
-    <players />
+    <players>NA</players>
     <story>Lilly Adventure is a platform game released by Home Vision. The goal is to run and jump over static and
       moving obstacles while moving across the screen. The game is divided into several levels, with the player going
       from the left to the right in each level.</story>
@@ -4241,7 +4241,7 @@
     <year>1983</year>
     <developer>Avalon Hill</developer>
     <publisher>Avalon Hill</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1</players>
     <story>During WWII German bombers turned daily existence in London into a nightmare. Most bombs exploded on impact
@@ -4303,7 +4303,7 @@
     <year>1982</year>
     <developer>U.S. Games</developer>
     <publisher>QuelleSoft</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>M.A.D. (which stands for Missile Attack and Defense) is an arcade action game somewhat similar to Missile
@@ -4321,7 +4321,7 @@
     <developer>Fox Video Games</developer>
     <publisher>Fox Video Games</publisher>
     <score>0.65</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>M*A*S*H was one of the many attempts by various software companies to take a successful movie or television
       show and convert it into a playable game.
@@ -4339,20 +4339,20 @@
   </game>
   <game name="MagiCard (USA)">
     <description>MagiCard (USA)</description>
-    <year />
-    <developer />
+    <year>NA</year>
+    <developer>NA</developer>
     <publisher>Computer Magic</publisher>
-    <score />
+    <score>NA</score>
     <genre>Various</genre>
-    <players />
-    <story />
+    <players>NA</players>
+    <story>NA</story>
   </game>
   <game name="Malagai (USA)">
     <description>Malagai (USA)</description>
     <year>1983</year>
     <developer>Answer Software</developer>
     <publisher>Answer Software</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You are Commander Harrington "Harry" Crag of the starship "Endless Search". You are put into a Malagai base
@@ -4389,7 +4389,7 @@
     <year>1983</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Mama Mia! That's a lots a pasta!
@@ -4426,8 +4426,8 @@
     <year>1982</year>
     <developer>On-Line Systems</developer>
     <publisher>Tigervision</publisher>
-    <score />
-    <genre>Strategy</genre>
+    <score>NA</score>
+    <genre>Action</genre>
     <players>1</players>
     <story>You've landed on an alien planet and penetrated the enemy base defended by armed attack robots. Your mission
       is to find your way to the heart of the base and to destroy the power center of the enemy's weapon system.
@@ -4445,7 +4445,7 @@
     <year>1983</year>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You are a battleship firing shells at attacking battleships and/or attacking bomber planes.
@@ -4499,7 +4499,7 @@
     <year>1983</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>WANTED: A master builder to create structures per blueprints for Spectraville. To apply, insert cartridge
@@ -4523,7 +4523,7 @@
     <year>1982</year>
     <developer>Mattel Electronics</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In Masters of the Universe, you control He-Man as he battles Skeletor in two different types of arcade action
@@ -4587,7 +4587,7 @@
     <year>1982</year>
     <developer>Fox Video Games</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are a member of MegaForce and have been sent to the city of Sardoun. Sardoun is under attack and you must
@@ -4628,12 +4628,12 @@
   </game>
   <game name="MegaBoy (USA)">
     <description>MegaBoy (USA)</description>
-    <year />
-    <developer />
+    <year>NA</year>
+    <developer>NA</developer>
     <publisher>Dynacom</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
-    <players />
+    <players>NA</players>
     <story>This 64K educational game came packed with the handheld MegaBoy.</story>
   </game>
   <game name="MegaMania - A Space Nightmare (USA)">
@@ -4663,7 +4663,7 @@
     <year>1986</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Various</genre>
     <players>1-2</players>
     <story>Midnight Magic utilized the Atari 2600 joystick for performing simulated pinball functions, such as
@@ -4697,7 +4697,7 @@
     <year>1984</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1</players>
     <story>Mind Maze is played somewhat like those old mind reading experiments where a scientist would hold up a card
@@ -4710,7 +4710,7 @@
     <year>1982</year>
     <developer>Big Five Software</developer>
     <publisher>Tigervision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>"Bounty Bob" is mining a radioactive mine in the year 2049. Help him "claim" all of the various stations
@@ -4722,7 +4722,7 @@
     <year>1983</year>
     <developer>Big Five Software</developer>
     <publisher>Big Five Software</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Bounty Bob has tracked Yukon Yohan into Nuclear Ned's uranium mine. Bob must 'claim' each section of each
@@ -4743,7 +4743,7 @@
   </game>
   <game name="Mines of Minos (USA)">
     <description>Mines of Minos (USA)</description>
-    <year />
+    <year>NA</year>
     <developer>CommaVid, Inc.</developer>
     <publisher>CommaVid, Inc.</publisher>
     <score>0.75</score>
@@ -4842,9 +4842,9 @@
   <game name="Missile Control (Europe)">
     <description>Missile Control (Europe)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Video Gems</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Missile Control is a Missile Command-style game. The player has to defend their cities from incoming bombs
@@ -4865,7 +4865,7 @@
     <developer>Bit Corp.</developer>
     <publisher>Bit Corp.</publisher>
     <score>0.2</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>Good Rip-off of the Atari 2600 game "Asteroids". You are flying in space, trying to dodge or shoot asteroids
       and escape from the enemy.</story>
@@ -4875,8 +4875,8 @@
     <year>1983</year>
     <developer>Video Gems</developer>
     <publisher>Video Gems</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>You're in command of the last all-terrestrial Battle Speedster. The enemy is all around you dropping smart
       bombs, blasting your roadway and throwing up obstacles to challenge your skill and test your will to survive.
@@ -4942,7 +4942,7 @@
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
     <score>0.65</score>
-    <genre>Sports</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>In Moonsweeper your goal is to rescue miners from the moons in Star Quadrant Jupiter. You begin your mission
       in space where you must avoid deadly aurora flares, photon torches and space bullets from the sun in this
@@ -4956,20 +4956,20 @@
   </game>
   <game name="Morse Code Tutor (USA)">
     <description>Morse Code Tutor (USA)</description>
-    <year />
-    <developer />
-    <publisher />
-    <score />
-    <genre />
-    <players />
-    <story />
+    <year>NA</year>
+    <developer>NA</developer>
+    <publisher>NA</publisher>
+    <score>NA</score>
+    <genre>NA</genre>
+    <players>NA</players>
+    <story>NA</story>
   </game>
   <game name="Motocross (USA)">
     <description>Motocross (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>QuelleSoft</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1-2</players>
     <story>Motocross is a motorcycle racing game viewed from a top-down perspective. The player rides a bike against an
@@ -5000,7 +5000,7 @@
     <year>1990</year>
     <developer>Axlon</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1-2</players>
     <story>This is a monster truck race that features true split screen action on an Atari 2600.
@@ -5068,7 +5068,7 @@
   <game name="Mr. Do! (USA)">
     <description>Mr. Do! (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Coleco Industries, Inc.</publisher>
     <score>0.65</score>
     <genre>Action</genre>
@@ -5112,9 +5112,9 @@
   <game name="Mr. Postman (USA)">
     <description>Mr. Postman (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Bit Corp.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
     <players>1</players>
     <story>Your mission is to protect the Mr. Postman sending a secret letter safely to Silent City. To press the button
@@ -5150,7 +5150,7 @@
     <year>1983</year>
     <developer>Christian Software Development</developer>
     <publisher>HomeComputer Software</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1-2</players>
     <story>In this game, you play as Stevie and Nancy.
@@ -5188,9 +5188,9 @@
     <year>1990</year>
     <developer>Absolute Entertainment</developer>
     <publisher>Home Entertainment Suppliers</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
-    <players />
+    <players>NA</players>
     <story>This golf game (as you couldn't tell by the title) comes from HES games. It is a pretty decent little game
       with some nice graphics of the golfer and even two different views of the greens. You get the option of switching
       clubs and you have the power bar to gauge how hard you hit it. If you like golf games, then this will be a welcome
@@ -5202,7 +5202,7 @@
     <developer>U.S. Games</developer>
     <publisher>U.S. Games</publisher>
     <score>0.45</score>
-    <genre>Sports</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>You have just discovered some buried treasure at the bottom of the sea, and now you have to protect it! You
       control a diver at the bottom of the screen, and there is a giant octopus and killer shark you need to deal with.
@@ -5254,8 +5254,8 @@
     <year>1983</year>
     <developer>TechnoVision</developer>
     <publisher>TechnoVision</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>You're a hard working squirrel. All year you've been storing food in your treetop home. Suddenly, when you're
       away, the Wily Weasel steals it all. Don't let him get away with it! Throw nuts at him! Knock him off the branch!
@@ -5288,7 +5288,7 @@
     <year>1989</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Off The Wall is an arcade action game with Breakout style gameplay. You control Kung Fu Lu, whose mission is
@@ -5338,7 +5338,7 @@
     <year>1983</year>
     <developer>Bally Midway</developer>
     <publisher>CBS Electronics</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>This is a remake of a Bally-Midway arcade game. You control a spaceship and shoot down the enemy "Droid"
@@ -5363,7 +5363,7 @@
     <developer>Zimag</developer>
     <publisher>Zimag</publisher>
     <score>0.5</score>
-    <genre>Racing</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>Open, Sesame! is an action platform game. You control Ali Baba, and your goal is to reach the cave of
       treasures. The treasury entrance is at the top of the screen, and you begin each level at the bottom and need to
@@ -5379,7 +5379,7 @@
     <year>1983</year>
     <developer>Children's Computer Workshop</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1-2</players>
     <story>It is the Grouch Day Picnic and three little grouches (Herman, Grungetta and Sloppy) want to win the Trash
@@ -5432,7 +5432,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.75</score>
-    <genre>Board Game</genre>
+    <genre>Board Games</genre>
     <players>1-2</players>
     <story>Othello is a conversion of the board game. Each player tries to fill the game board with as many discs of his
       color as possible. On each turn the player places a disc on the board by selecting a location where the opponents
@@ -5445,7 +5445,7 @@
     <year>1983</year>
     <developer>Avalon Hill</developer>
     <publisher>Avalon Hill</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1</players>
     <story>This is an obstacle race in a space ship. The ship controls in a rather Asteroids-like way, in that you push
@@ -5531,7 +5531,7 @@
     <year>1983</year>
     <developer>Starpath Corporation</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1</players>
     <story>Guide the parachutist through various obstacles to safety below.</story>
@@ -5541,9 +5541,9 @@
     <year>1983</year>
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
-    <players />
+    <players>NA</players>
     <story>This tape contains five two or four player games in one package. They are:
 
       Bop a Buggy: Drive your buggy through the course fastest to the finish line. Watch out for the buggy boppers, as
@@ -5586,7 +5586,7 @@
     <year>2002</year>
     <developer>Absolute Entertainment</developer>
     <publisher>Absolute Entertainment</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>2</players>
     <story>This baseball game licenses former Cincinnati Reds player Pete Rose. It allows the player to play every
@@ -5618,7 +5618,7 @@
     <year>1983</year>
     <developer>TechnoVision</developer>
     <publisher>TechnoVision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>The Pharaoh's Curse, or simply Pharaoh's Curse, is a 1983 platform adventure game written by Steve Coleman
@@ -5669,7 +5669,7 @@
     <year>1990</year>
     <developer>Ubisoft</developer>
     <publisher>Ubisoft</publisher>
-    <score />
+    <score>NA</score>
     <genre>Puzzle</genre>
     <players>1-2</players>
     <story>Pick 'n Pile is a Tetris-style puzzle game. On each level there are a variety of symbols arranged in columns
@@ -5706,7 +5706,7 @@
     <year>1982</year>
     <developer>U.S. Games</developer>
     <publisher>U.S. Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In Piece o' Cake you are a chef, and your goal is to successfully build cakes! At the bottom of the screen is
@@ -5726,7 +5726,7 @@
     <year>1983</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Now it's time for...PIIIIIIGS IN SPAAAAACE!!!
@@ -5838,7 +5838,7 @@
     <year>1983</year>
     <developer>Taito</developer>
     <publisher>Tigervision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You're the commander of a Polaris class nuclear submarine. Your mission is to defend your country from enemy
@@ -6069,7 +6069,7 @@
     <year>1983</year>
     <developer>Western Technologies</developer>
     <publisher>Parker Brothers</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist
@@ -6083,7 +6083,7 @@
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
     <score>0.4</score>
-    <genre>Strategy</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>Q*Bert's Qubes is the sequel to the game Q*Bert and features similar gameplay, but is now in three
       dimensions. Once again your goal is to change multicolored blocks to a target color, but now you must make sure
@@ -6125,7 +6125,7 @@
     <year>1984</year>
     <developer>VSS, Inc.</developer>
     <publisher>Sunrise Software</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>You are Yucatan Sam on a quest to explore the temple of Quintana Roo. Your goal is to find the vault which is
@@ -6145,7 +6145,7 @@
     <year>1983</year>
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>In Quick Step a kangaroo and squirrel are competing against each other to earn points by jumping on
@@ -6167,7 +6167,7 @@
     <year>1983</year>
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You are a rabbit who is just trying to get to where you can get a mate and make like a mathematician by
@@ -6185,11 +6185,11 @@
   <game name="Racing Car (USA)">
     <description>Racing Car (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
-    <players />
+    <players>NA</players>
     <story>Control your car in a race on a large motorway.
       In Racing Car, the player speeds up his car while diverting from the other vehicles on this great motorway, but be
       careful because some cars may be moving very slowly, or worse, heading toward you.</story>
@@ -6220,8 +6220,8 @@
     <year>1987</year>
     <developer>Froggo Games Corporation</developer>
     <publisher>Froggo Games Corporation</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>In Cruise Missile, you first pilot a spacecraft over the surface, shooting the defense towers in your path.
       The larger towers are too large to fly around, and they must be hit at the point where they fire. When you have
@@ -6247,7 +6247,7 @@
     <year>1982</year>
     <developer>U.S. Games</developer>
     <publisher>U.S. Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In Raft Rider you are floating down a river on a raft made out of logs. Your goal is to guide the raft as far
@@ -6285,7 +6285,7 @@
     <year>1983</year>
     <developer>Telesys</developer>
     <publisher>Telesys</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>EEEEEK! Green is going wild! Red on your right! Blue at your back! Yipes, yellow! Quick! Jam it, slam it. Ram
@@ -6309,7 +6309,7 @@
     <year>1989</year>
     <developer>Bally Midway</developer>
     <publisher>Activision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a
@@ -6323,10 +6323,10 @@
   <game name="Raumpatrouille (USA)">
     <description>Raumpatrouille (USA)</description>
     <year>1984</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>With confusing graphics and far from being enjoyable, X'Mission is a game that takes time for the player to
       make sense of. But once you learn how the game works, everything becomes too easy.
@@ -6432,7 +6432,7 @@
     <year>1982</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1-2</players>
     <story>Volleyball is an action game which can be played by one or two players. The game follows traditional
@@ -6448,7 +6448,7 @@
     <year>1983</year>
     <developer>Steve Stack, Inc.</developer>
     <publisher>Steve Stack, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>One of the rarest Atari 2600 games known to exist. According to the ad below, the game was accompanied by a
@@ -6459,7 +6459,7 @@
     <year>1982</year>
     <developer>VentureVision</developer>
     <publisher>VentureVision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Terra I supplies Earth with Zenbar crystals, which is used to supply 72% of the power to Earth. Ordinarily, a
@@ -6483,7 +6483,7 @@
     <year>1983</year>
     <developer>Fox Video Games</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You must build three walls above the tomato plants at the bottom. You must also dodge tomato bombs shot by
@@ -6547,7 +6547,7 @@
     <year>1984</year>
     <developer>Orca Corporation</developer>
     <publisher>Tigervision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are captain of the boat trying to make it upriver while saving
@@ -6620,7 +6620,7 @@
     <year>1983</year>
     <developer>Xonox</developer>
     <publisher>Xonox</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Robin Hood is an action game where you need to rescue Maid Marian who is being held by the Sheriff of
@@ -6702,9 +6702,9 @@
     <year>1982</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Puzzle</genre>
-    <players />
+    <players>NA</players>
     <story>Help Marvin the Cube Master solve the magical Rubik's cube. He picks up and drops colors at your command -
       and you have billions of possible combinations! Rubik's Cube is fast paced fun for the whole family.</story>
   </game>
@@ -6713,7 +6713,7 @@
     <year>1983</year>
     <developer>TechnoVision</developer>
     <publisher>TechnoVision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You're the captain of a capital ship, sailing the Spanish Main. Suddenly you're attacked by hordes of
@@ -6725,7 +6725,7 @@
     <year>1983</year>
     <developer>APh Technological Consulting</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>2</players>
     <story>Sea Battle is a strategic game for two players only. Each player controls a fleet of ships including
@@ -6741,8 +6741,8 @@
     <year>1983</year>
     <developer>Sancho</developer>
     <publisher>Sancho</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>You command the Sea Hawk fighter plane in this military battle! Your mission is to destroy enemy helicopters
       and ships traveling through the battle zone. But watch out! Enemy ships will attack your Sea Hawk with ship-to-air
@@ -6753,10 +6753,10 @@
   </game>
   <game name="Sea Hunt ~ Scuba Diver (USA)">
     <description>Sea Hunt ~ Scuba Diver (USA)</description>
-    <year />
+    <year>NA</year>
     <developer>Froggo Games Corporation</developer>
     <publisher>Froggo Games Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>You are diving for treasure in perilous waters infested with man-eating fish and vicious sea monsters! You
@@ -6856,20 +6856,20 @@
   </game>
   <game name="See Saw (Europe)">
     <description>See Saw (Europe)</description>
-    <year />
-    <developer />
-    <publisher />
-    <score />
-    <genre />
-    <players />
-    <story />
+    <year>NA</year>
+    <developer>NA</developer>
+    <publisher>NA</publisher>
+    <score>NA</score>
+    <genre>NA</genre>
+    <players>NA</players>
+    <story>NA</story>
   </game>
   <game name="Sentinel (USA)">
     <description>Sentinel (USA)</description>
     <year>1990</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Sentinel is a side scrolling action game. Several worlds have fallen victim of an alien attack, and you need
@@ -6887,7 +6887,7 @@
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
     <score>0.55</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>Shootin' Gallery is a target shooting game similar to Sega's Carnival. You control a gun at the bottom of the
       screen while various types of targets move left and right above. Given a limited amount of ammo, you need to earn
@@ -6985,7 +6985,7 @@
     <year>1983</year>
     <developer>Home Vision</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1</players>
     <story>Ski. Shoot. Repeat.</story>
@@ -6993,11 +6993,11 @@
   <game name="Ski Run (USA)">
     <description>Ski Run (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Suntek</publisher>
     <score>0.4</score>
-    <genre>Sports-Sports / Skydiving</genre>
-    <players />
+    <genre>Sports</genre>
+    <players>NA</players>
     <story>When you turn on Ski Run you're bombarded by an obnoxious jumble of noise. Not the best first impression!
       Your goal is to ski down a rigidly-defined mountain course lined with orange trees, rocks, and snow men. Your
       skier is colorfully rendered and even uses his poles to turn from side-to-side. I also like how the mountains in
@@ -7062,7 +7062,7 @@
     <year>1983</year>
     <developer>Nintendo</developer>
     <publisher>Parker Brothers</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You pilot a plane and must rescue animals from cages where they were placed by gorillas. To do this, you fly
@@ -7124,7 +7124,7 @@
     <year>1982</year>
     <developer>Coleco Industries, Inc.</developer>
     <publisher>Coleco Industries, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
     <players>1-2</players>
     <story>Gargamel has kidnapped Smurfette. As a Smurf, the player has to walk from the Smurf village through a forest
@@ -7142,7 +7142,7 @@
     <year>1983</year>
     <developer>Coleco Industries, Inc.</developer>
     <publisher>Coleco Industries, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Educational</genre>
     <players>1</players>
     <story>In this children's learning game, you learn music, sorting and color mixing.
@@ -7298,9 +7298,9 @@
   <game name="Space Attack (USA)">
     <description>Space Attack (USA)</description>
     <year>1982</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Simulation</genre>
     <players>1</players>
     <story>The object of the game is to defend your Mother Ship from attacking aliens. You have 3 squadrons, with 3
@@ -7330,7 +7330,7 @@
     <developer>Taito</developer>
     <publisher>Atari</publisher>
     <score>0.7</score>
-    <genre>Shooter-Shooter / Space Invaders Like-Shoot'em Up-Shoot'em up / Vertical-Action-Simulation</genre>
+    <genre>Shooter</genre>
     <players>1-2</players>
     <story>Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin
       at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points
@@ -7383,8 +7383,8 @@
     <year>1982</year>
     <developer>Puzzy</developer>
     <publisher>Bit Corp.</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>Here is a new game that will satisfy your curiosity and desire for exploration and will enrich your life for
       its colors and sounds. You, captain of a space fleet, enter into a universe tunnel accidentally where you are
@@ -7462,7 +7462,7 @@
     <year>1983</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1</players>
     <story>You are an assault ship that was designed to destroy Hyperion military bases.
@@ -7510,11 +7510,11 @@
   <game name="Spider Maze (USA)">
     <description>Spider Maze (USA)</description>
     <year>1982</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Quelle</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
-    <players />
+    <players>NA</players>
     <story>This rare game from K-Tel Vision was probably sold exclusively in Canada. It is easier to find in PAL format,
       as it had more distribution overseas.</story>
   </game>
@@ -7562,7 +7562,7 @@
     <year>1983</year>
     <developer>Milton Bradley Co.</developer>
     <publisher>Milton Bradley Co.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In this game, you are an American fighter pilot. Your mission is to shoot down enemy planes, shoot enemy ammo
@@ -7576,7 +7576,7 @@
     <year>1982</year>
     <developer>Orca Corporation</developer>
     <publisher>Tigervision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are Springer the rabbit. You must jump from cloud to cloud, collecting everything you can, to reach the
@@ -7591,7 +7591,7 @@
     <year>1988</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1-2</players>
     <story>Sprintmaster is an action racing game similar to Super Sprint. The game is played with an overhead view of
@@ -7643,7 +7643,7 @@
     <year>1983</year>
     <developer>Bit Corp.</developer>
     <publisher>Bit Corp.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
     <players>1</players>
     <story>Would you kindly help a little squirrel whom often you found playing in the woods? I am a very, very friendly
@@ -7658,7 +7658,7 @@
     <year>1982</year>
     <developer>Data Age</developer>
     <publisher>Data Age</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You were hunting in the Amazon when you become the hunted of prehistoric creatures. You found a fortress with
@@ -7714,7 +7714,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.7</score>
-    <genre>Shooter</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <story>As the pilot of an interstellar starship, your mission is to destroy all of the Krylon fighters which are
       closing in on your starbases! There are three different types of fighters roaming throughout the galaxy; cruisers,
@@ -7762,7 +7762,7 @@
     <year>1982</year>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Star Strike was clearly inspired by the Death Star battle sequence in the movie Star Wars. You fly a space
@@ -7832,7 +7832,7 @@
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
     <score>0.55</score>
-    <genre>Shooter</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>"Death Star Battle" is loosely based on the events of "Star Wars, Part 6: Return of the Jedi". Your task is
       to destroy the Death Star before its construction is finished. You start the task outside the shield perimeter of
@@ -7852,7 +7852,7 @@
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
     <score>0.6</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Action</genre>
     <players>1</players>
     <story>You're at the controls of LUKE's X-WING FIGHTER, heading straight for the DEATH STAR. Your mission: to
       destroy it before the EMPIRE seeks its revenge on the REBEL base. Lock your sights on attacking TIE FIGHTERS and
@@ -7882,7 +7882,7 @@
     <developer>Vid Kidz</developer>
     <publisher>Atari</publisher>
     <score>0.7</score>
-    <genre>Shooter-Shooter / Horizontal-Action</genre>
+    <genre>Shooter</genre>
     <players>1</players>
     <story>Save the humanoids from the impending aliens in the sequel to Defender. The task is still rescuing humanoids
       before Landers can turn them into Mutants, while avoiding and shooting other foes, however you must now carry
@@ -7901,7 +7901,7 @@
     <year>1982</year>
     <developer>Telesys</developer>
     <publisher>Telesys</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Players take the role of a stargunner for the Yarthae Empire. The Empire is being invaded by the Sphyzygi.
@@ -7933,7 +7933,7 @@
     <year>1983</year>
     <developer>Atari</developer>
     <publisher>Video Gems</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1-4</players>
     <story>This is a hurdles horse race.
@@ -7955,7 +7955,7 @@
     <year>1981</year>
     <developer>Atari</developer>
     <publisher>Sears</publisher>
-    <score />
+    <score>NA</score>
     <genre>Strategy</genre>
     <players>1</players>
     <story>This is an Atari 2600 version of a Star Trek game found on many college mainframes.
@@ -8020,11 +8020,11 @@
   <game name="Stone Age (USA)">
     <description>Stone Age (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>CCE</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
-    <players />
+    <players>NA</players>
     <story>You have returned in time millions of years to the wild, stone age world, where there is nothing but huge
       stones and hungry dinosaurs. Your mission is to kill all the dinosaurs, making the world safer for your offspring.
       If you can not, the world will never be what it is today. The fate of the world is in your hands. You will have to
@@ -8052,8 +8052,8 @@
     <year>1983</year>
     <developer>Parker Brothers</developer>
     <publisher>Parker Brothers</publisher>
-    <score />
-    <genre>Strategy-Educational</genre>
+    <score>NA</score>
+    <genre>Strategy</genre>
     <players>1</players>
     <story>Strawberry Shortcake Musical Match-Ups is a puzzle game where you try to straighten out mixed up
       Strawberryland characters within a given time limit. When the game begins, a mixed up character will appear on the
@@ -8066,12 +8066,12 @@
   </game>
   <game name="Street Racer ~ Speedway II (USA)">
     <description>Street Racer ~ Speedway II (USA)</description>
-    <year />
-    <developer />
-    <publisher />
-    <score />
+    <year>NA</year>
+    <developer>NA</developer>
+    <publisher>NA</publisher>
+    <score>NA</score>
     <genre>Racing</genre>
-    <players />
+    <players>NA</players>
     <story>A rebranded version of Street Racer, published and sold under the Tele-Games name by Sears.</story>
   </game>
   <game name="Stronghold (USA)">
@@ -8080,7 +8080,7 @@
     <developer>CommaVid, Inc.</developer>
     <publisher>CommaVid, Inc.</publisher>
     <score>0.5</score>
-    <genre>Shoot'em Up-Shoot'em up / Diagonal-Action</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>You are sent to check out an abandoned asteroid base called Stronghold. As you approach, drones are launched
       from the surface. It may be abandoned but apparently the automatic defense system still works.
@@ -8129,9 +8129,9 @@
   <game name="Stunt Man (USA)">
     <description>Stunt Man (USA)</description>
     <year>1983</year>
-    <developer />
-    <publisher />
-    <score />
+    <developer>NA</developer>
+    <publisher>NA</publisher>
+    <score>NA</score>
     <genre>Platform</genre>
     <players>1</players>
     <story>Players take on the role of a stuntman who has to escape various dangers and make it to a flying helicopter.
@@ -8148,10 +8148,10 @@
   <game name="Sub-Scan (USA)">
     <description>Sub-Scan (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>SEGA</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1</players>
     <story>Now hear this! Now hear this! All hands man your battle stations.
 
@@ -8166,7 +8166,7 @@
     <year>1982</year>
     <developer>Atari</developer>
     <publisher>Sears</publisher>
-    <score />
+    <score>NA</score>
     <genre>Simulation</genre>
     <players>1-2</players>
     <story>You're the commander of a submarine in enemy waters. Use your skills, radar, and luck to take down the enemy
@@ -8182,7 +8182,7 @@
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
     <score>0.45</score>
-    <genre>Sports</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>Subterranea is a side scrolling shooter. Your goal is to locate treasure crystals within the Hexuplex Caves.
       Controlling your cave ranger, you need to blast the various types of aerobots which are guarding the cave. When
@@ -8198,7 +8198,7 @@
     <year>1982</year>
     <developer>Arcadia Corporation</developer>
     <publisher>Arcadia Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Suicide Mission is an arcade action game similar to Asteroids. You control a microscopic submarine navigating
@@ -8211,7 +8211,7 @@
   <game name="Summer Games (USA)">
     <description>Summer Games (USA)</description>
     <year>1987</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Epyx</publisher>
     <score>0.3</score>
     <genre>Sports</genre>
@@ -8237,7 +8237,7 @@
     <year>1988</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1-2</players>
     <story>This game is an altered version of the Atari 2600 version of RealSports Baseball. The game controls are
@@ -8254,7 +8254,7 @@
     <developer>Turner, Nick / Shaw, Carol</developer>
     <publisher>Atari</publisher>
     <score>0.65</score>
-    <genre>Action / Breakout games-Action-Sports</genre>
+    <genre>Action</genre>
     <players>1-2</players>
     <story>Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is
       to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to
@@ -8274,7 +8274,7 @@
     <year>1982</year>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>2</players>
     <story>The object of the game is to score the most runs in 9 innings or extra innings to a decision. Most
@@ -8287,7 +8287,7 @@
     <year>1982</year>
     <developer>Mattel Electronics</developer>
     <publisher>Mattel Electronics</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>2</players>
     <story>The object of the game is to out-score your opponent. There's passing, rushing, blocking, and touchdowns!
@@ -8371,9 +8371,9 @@
   <game name="Surfer's Paradise - But Danger Below! (Europe)">
     <description>Surfer's Paradise - But Danger Below! (Europe)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Video Gems</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
     <players>1</players>
     <story>In Surfer's Paradise, the player's objective is to stay on top of a wave as long as possible. From time to
@@ -8413,7 +8413,7 @@
     <year>1983</year>
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>You are headed to a mysterious island to study a temple when your ship is sunk. Now you must get to the
@@ -8441,7 +8441,7 @@
     <year>1983</year>
     <developer>Milton Bradley Co.</developer>
     <publisher>Milton Bradley Co.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In this game you have entered some underground caverns on another planet. As you try to navigate your way
@@ -8455,11 +8455,11 @@
   <game name="Sweat! The Decathalon Game (USA)">
     <description>Sweat! The Decathalon Game (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Sports</genre>
-    <players />
+    <players>NA</players>
     <story>Sweat! was to be Starpath's version of Activision's Decathlon for the Supercharger. Given the fact that the
       Supercharger allowed for more memory and larger games, Sweat! probably would have been an amazing game had it been
       completed. Of course this never happened as the video game market was crumbling rapidly and people weren't
@@ -8472,7 +8472,7 @@
     <year>1983</year>
     <developer>Starpath Corporation</developer>
     <publisher>Starpath Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>You have entered a wizard's dungeons in search of the fabled Sword of Saros. You must avoid the wizard, his
@@ -8509,7 +8509,7 @@
     <year>1983</year>
     <developer>Mattel Electronics</developer>
     <publisher>M Network</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>2</players>
     <story>En garde! Attack, feint, block, strike!
@@ -8523,7 +8523,7 @@
     <year>1987</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>SwordQuest: EarthWorld was an adventure game produced for the Atari 2600. The game play boils down to walking
@@ -8540,7 +8540,7 @@
     <year>1982</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>SwordQuest: FireWorld, the second game in the SwordQuest series, was insanely identical to the first game,
@@ -8558,7 +8558,7 @@
     <year>1983</year>
     <developer>Atari</developer>
     <publisher>Atari</publisher>
-    <score />
+    <score>NA</score>
     <genre>Adventure</genre>
     <players>1</players>
     <story>Much like the games SwordQuest: EarthWorld
@@ -8593,8 +8593,8 @@
     <year>1982</year>
     <developer>Zimag</developer>
     <publisher>Zimag</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
     <players>1-2</players>
     <story>As the lone defender of the last remaining outpost, you are under attack by an overwhelming force of
       mysterious phantom tanks that disappear and reappear at will while destroying all that stands in their way. Your
@@ -8606,7 +8606,7 @@
     <year>1982</year>
     <developer>Spectravision</developer>
     <publisher>Spectravision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You are Slinky the tapeworm. You must move about the bean patch, eating beans. Each time you eat a bean, you
@@ -8659,7 +8659,7 @@
     <year>1982</year>
     <developer>Dunhill Electronics</developer>
     <publisher>American Videogame</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>You are John Q and you want to be rich.
@@ -8717,7 +8717,7 @@
     <year>1982</year>
     <developer>On-Line Systems</developer>
     <publisher>Tigervision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Threshold is a simple Shoot'em up game. You are in control of a spaceship at the bottom of the screen and
@@ -8769,8 +8769,8 @@
     <year>1983</year>
     <developer>Fun Vision</developer>
     <publisher>Funvision</publisher>
-    <score />
-    <genre>Shooter-Shoot'em Up</genre>
+    <score>NA</score>
+    <genre>Shooter</genre>
     <players>1</players>
     <story>This game has you placed in a spacecraft of some kind (the cover art makes it look like a futuristic
       passenger jetliner with weapons attached) flying through what looks like a cave, while taking on several enemies
@@ -8824,7 +8824,7 @@
     <year>1988</year>
     <developer>Absolute Entertainment</developer>
     <publisher>Absolute Entertainment</publisher>
-    <score />
+    <score>NA</score>
     <genre>Simulation</genre>
     <players>1</players>
     <story>To be born with wings...
@@ -8855,7 +8855,7 @@
     <year>1983</year>
     <developer>Camelot, Inc.</developer>
     <publisher>Johnson &amp; Johnson</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>In this game, you are T. P., the Tooth Protector, and are trying to protect some teeth from tooth decay by
@@ -8920,7 +8920,7 @@
     <year>1983</year>
     <developer>Video Gems</developer>
     <publisher>Video Gems</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>There's fabulous golden treasure down there, just waiting to be taken. There's also much danger with jelly
@@ -8932,11 +8932,11 @@
   <game name="Treasure Island ~ Duck Shoot (Europe)">
     <description>Treasure Island ~ Duck Shoot (Europe)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>StarSoft Development Laboratories</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
-    <players />
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
+    <players>NA</players>
     <story>You guide a ship around the left side of the screen, adjusting your cannon's trajectory while unloading
       cannon balls on ships and sea creatures. Treasure Island has a few nice visual flourishes, like ships propelled
       through the water by tiny oars.</story>
@@ -8977,13 +8977,13 @@
   </game>
   <game name="Tunnel de L'Espace, Le (Europe)">
     <description>Tunnel de L'Espace, Le (Europe)</description>
-    <year />
-    <developer />
-    <publisher />
-    <score />
-    <genre />
-    <players />
-    <story />
+    <year>NA</year>
+    <developer>NA</developer>
+    <publisher>NA</publisher>
+    <score>NA</score>
+    <genre>NA</genre>
+    <players>NA</players>
+    <story>NA</story>
   </game>
   <game name="Tunnel Runner (USA)">
     <description>Tunnel Runner (USA)</description>
@@ -9059,7 +9059,7 @@
     <year>1988</year>
     <developer>Exidy, Inc.</developer>
     <publisher>Telegames</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>Take control of a tank in enemy territory. As you navigate the columns and rows, you'll need to avoid
@@ -9073,7 +9073,7 @@
     <year>1984</year>
     <developer>SEGA</developer>
     <publisher>SEGA</publisher>
-    <score />
+    <score>NA</score>
     <genre>Racing</genre>
     <players>1-2</players>
     <story>This is a home port of a 1983 Sega arcade game that was distributed by Bally Midway.
@@ -9111,11 +9111,11 @@
   <game name="Venetian Blinds Demo (USA)">
     <description>Venetian Blinds Demo (USA)</description>
     <year>1981</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Activision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Demo</genre>
-    <players />
+    <players>NA</players>
     <story>As the name implies the Venetian Blinds demo isn't a game, but a demo that simulates a pair of Venetian
       blinds! The joystick can be used to raise and lower the blinds by pushing up or down. When the blinds are raised a
       nicely done sunset is visible out the window.
@@ -9184,7 +9184,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.7</score>
-    <genre>Action</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <story>This is an early home chess game. The standard U. S. chess rules are used in this game. To move a piece,
       place the X on the board onto the piece to be moved then press the red button. Next, move the X to where you want
@@ -9222,7 +9222,7 @@
     <year>1983</year>
     <developer>Exus Corporation</developer>
     <publisher>Exus Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>This is a game to help you exercise by using the Foot Craz pad and a visual representation on the screen.
@@ -9250,7 +9250,7 @@
     <year>1981</year>
     <developer>CommaVid, Inc.</developer>
     <publisher>CommaVid, Inc.</publisher>
-    <score />
+    <score>NA</score>
     <genre>Simulation</genre>
     <players>1</players>
     <story>Video Life turns your TV into a doodle tablet on which you can create detailed pictures, patterns and
@@ -9300,7 +9300,7 @@
     <developer>Sears</developer>
     <publisher>Atari</publisher>
     <score>0.6</score>
-    <genre>Pinball-Simulation-Action</genre>
+    <genre>Pinball</genre>
     <players>1-2</players>
     <story>Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to
       score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An
@@ -9312,7 +9312,7 @@
     <year>1983</year>
     <developer>Exus Corporation</developer>
     <publisher>Exus Corporation</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>This is an exercise game.
@@ -9336,13 +9336,13 @@
   </game>
   <game name="Vogel Flieh (Europe)">
     <description>Vogel Flieh (Europe)</description>
-    <year />
-    <developer />
-    <publisher />
-    <score />
-    <genre />
-    <players />
-    <story />
+    <year>NA</year>
+    <developer>NA</developer>
+    <publisher>NA</publisher>
+    <score>NA</score>
+    <genre>NA</genre>
+    <players>NA</players>
+    <story>NA</story>
   </game>
   <game name="Wabbit (USA)">
     <description>Wabbit (USA)</description>
@@ -9363,11 +9363,11 @@
   <game name="Walker ~ Schussel Der Polizistenschreck (Europe)">
     <description>Walker ~ Schussel Der Polizistenschreck (Europe)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Suntek</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
-    <players />
+    <players>NA</players>
     <story>The goal of this is just as banal as the English title itself: You walk down the street and have to reach the
       other end of the screen before you run out of time. This is not displayed in the form of bars, but by the number
       of points. With every second that passes, points are consistently deducted, and if this goes down to zero, the
@@ -9383,7 +9383,7 @@
     <year>1983</year>
     <developer>Avalon Hill</developer>
     <publisher>Avalon Hill</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Break through the "flat" habit and experience a new dimension in video games. Play with the speed, control,
@@ -9432,7 +9432,7 @@
     <year>1982</year>
     <developer>Data Age</developer>
     <publisher>Data Age</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You're warping along fine when suddenly you are caught and unable to maneuver. Suddenly, space pirates
@@ -9457,7 +9457,7 @@
     <year>1983</year>
     <developer>Imagic</developer>
     <publisher>Imagic</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1</players>
     <story>Wing War is an action game where you control a dragon. Beginning in your underground cave, your goal is to
@@ -9529,11 +9529,11 @@
   <game name="World End (USA)">
     <description>World End (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
-    <genre>Shoot'em Up</genre>
-    <players />
+    <score>NA</score>
+    <genre>Shoot-'Em-Up</genre>
+    <players>NA</players>
     <story>You are the commander of a laser base and you must counter an enemy invasion from outer space. Galactic
       robots attack with galactic death rays, spiders and destroyer probes.</story>
   </game>
@@ -9542,7 +9542,7 @@
     <year>1982</year>
     <developer>Sirius Publishing, Inc.</developer>
     <publisher>Fox Video Games</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>NEWS FLASH: GIANT WORMS ATTACK THE CITY OF TERIYAKI!
@@ -9561,7 +9561,7 @@
   <game name="X-Man (USA)">
     <description>X-Man (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Universal Gamex Corporation</publisher>
     <score>0.7</score>
     <genre>Action</genre>
@@ -9606,7 +9606,7 @@
     <developer>Atari</developer>
     <publisher>Atari</publisher>
     <score>0.75</score>
-    <genre>Shoot'em Up</genre>
+    <genre>Shoot-'Em-Up</genre>
     <players>1-2</players>
     <story>In Yars' Revenge, your goal is to destroy the Qotile laser-base which is located on the right side of the
       screen behind a shield. You control the fly-like Yar, which can destroy the shield piece by piece by either
@@ -9625,7 +9625,7 @@
     <year>1983</year>
     <developer>Bomb</developer>
     <publisher>Bomb</publisher>
-    <score />
+    <score>NA</score>
     <genre>Action</genre>
     <players>1-2</players>
     <story>You are a flying saucer trying to destroy cities below. You can move any direction and to fire, just hold the
@@ -9660,11 +9660,11 @@
   <game name="Zoo Fun (USA)">
     <description>Zoo Fun (USA)</description>
     <year>1983</year>
-    <developer />
+    <developer>NA</developer>
     <publisher>Home Vision</publisher>
-    <score />
+    <score>NA</score>
     <genre>Platform</genre>
-    <players />
+    <players>NA</players>
     <story>Calm the agitated animals in their cages.
       Each cage hides a mini games where you have to catch the animal to calm it and then leave the cage to be able to
       calm another animal.</story>

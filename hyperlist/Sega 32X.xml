@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0"?>
+<menu>
 	<game name="After Burner Complete ~ After Burner (Japan, USA)">
 		<description>After Burner Complete ~ After Burner (Japan, USA)</description>
 		<year>1995</year>
@@ -66,12 +66,12 @@
 	<game name="Brutal - Above the Claw (USA)">
 		<description>Brutal - Above the Claw (USA)</description>
 		<year>1995</year>
-		<developer>GameTek</developer>
+		<developer>NA</developer>
 		<manufacturer>GameTek</manufacturer>
-		<score>0.75</score>
+		<score>0.3</score>
 		<genre>Fighter</genre>
-		<players>1-2</players>
-		<story>Brutal Unleashed: Above the Claw is a one-on-one fighting game developed by GameTek for the Sega 32X. It is an update to Brutal: Paws of Fury, released only in North America. Working titles for this game were Totally Brutal and Brutal: Paws Unleashed.</story>
+		<players>2</players>
+		<story>NA</story>
 	</game>
 	<game name="Chaotix ~ Knuckles' Chaotix (Japan, USA)">
 		<description>Chaotix ~ Knuckles' Chaotix (Japan, USA)</description>
@@ -81,7 +81,16 @@
 		<score>0.75</score>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<story>The scenery and graphics have been highly improved, making use of the capabilities of the 32X, changing drastically. The most notable change being in Leon Prince's stage, on which it was previously possible to push the rival off the bridge for a instant win.</story>
+		<story>Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. Knuckles the Echidna
+			(from Sonic the Hedgehog 3) works at Carnival Island, an amusement park where his job is to protect the park
+			and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the
+			power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of
+			Knuckles' friends in the "combi confiner." This contraption only allows Knuckles to free one of his friends
+			at a time by using a ring force bond.
+
+			New characters featured include Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon and Charmy
+			Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix
+			adds several new power-ups and 3D bonus levels as well.</story>
 	</game>
 	<game name="Cyber Brawl ~ Cosmic Carnage (Japan, USA)">
 		<description>Cyber Brawl ~ Cosmic Carnage (Japan, USA)</description>
@@ -91,7 +100,15 @@
 		<score>0.45</score>
 		<genre>Fighter</genre>
 		<players>1-2</players>
-		<story>Brutal Unleashed: Above the Claw introduces two new characters: Chung Poe and Psycho Kitty; and there are four more stages than the original game, totaling fourteen, although some of them are simply doubles with different palettes/shading.</story>
+		<story>Cosmic Carnage is a one-on-one fighting game set in outer space. The story begins as a prison barge is
+			hijacked by it's cargo in an escape attempt. The resulting chaos caused the barge to crash into a military
+			cruiser. The impact caused extensive damage to both ships. There were only 8 survivors, 4 from each ship.
+			What's worse, there's only one escape pod. You control one of the 8 survivors, and have to finish off all
+			the others to escape with your life.
+
+			The gameplay in Cosmic carnage is similar to Street Fighter 2, but with a much slower pace. Some of the
+			fighters can be customized with different armor combinations, allowing them access to different special
+			moves.</story>
 	</game>
 	<game name="Darxide (Europe) (En,Fr,De,Es)">
 		<description>Darxide (Europe) (En,Fr,De,Es)</description>
@@ -213,6 +230,16 @@
 			kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws,
 			uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</story>
 	</game>
+	<game name="Motherbase (Europe)">
+		<description>Motherbase (Europe)</description>
+		<year>NA</year>
+		<developer>NA</developer>
+		<manufacturer>NA</manufacturer>
+		<score>NA</score>
+		<genre>NA</genre>
+		<players>NA</players>
+		<story>NA</story>
+	</game>
 	<game name="Motocross Championship (USA)">
 		<description>Motocross Championship (USA)</description>
 		<year>1995</year>
@@ -282,7 +309,8 @@
 			Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a
 			strategic element. Your basic spacecraft has very little firepower, and can only sustain one hit. To make
 			matters worse, there are very few power-ups. In order to survive, you have to jump on top of enemies and
-			take control of their weapons systems. This system allows for a large variety of player-controllable ships.</story>
+			take control of their weapons systems. This system allows for a large variety of player-controllable ships.
+		</story>
 	</game>
 	<game name="Pitfall - The Mayan Adventure (USA)">
 		<description>Pitfall - The Mayan Adventure (USA)</description>
@@ -342,7 +370,8 @@
 		<story>Romance of the Three Kingdoms IV: Wall of Fire (released as Sangokushi IV in Japan) is the fourth in the
 			Romance of the Three Kingdoms series of turn-based strategy games produced by Koei and based on the
 			historical novel Romance of the Three Kingdoms. Romance of the Three Kingdoms IV: Wall of Fire was the last
-			game in the series to be released on the PC in the United States until Romance of the Three Kingdoms XI.</story>
+			game in the series to be released on the PC in the United States until Romance of the Three Kingdoms XI.
+		</story>
 	</game>
 	<game name="Shadow Squadron ~ Stellar Assault (USA, Europe)">
 		<description>Shadow Squadron ~ Stellar Assault (USA, Europe)</description>
@@ -357,7 +386,8 @@
 			missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.
 
 			There are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D
-			polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.</story>
+			polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.
+		</story>
 	</game>
 	<game name="Space Harrier (Japan, USA)">
 		<description>Space Harrier (Japan, USA)</description>
@@ -451,7 +481,8 @@
 			The boxing action is viewed from behind the back of fighter you control. Your fighter is rendered as an
 			outline, so you can see what your opponent is up to and react accordingly. Toughman matches consist of three
 			one minute rounds. Your goal is to KO your opponent by causing their stamina meter to decrease to the point
-			where they fall down, or beating on them enough that you are scored the winner at end of the third round.</story>
+			where they fall down, or beating on them enough that you are scored the winner at end of the third round.
+		</story>
 	</game>
 	<game name="Virtua Fighter (Japan, USA)">
 		<description>Virtua Fighter (Japan, USA)</description>

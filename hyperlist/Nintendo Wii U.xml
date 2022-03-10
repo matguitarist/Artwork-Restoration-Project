@@ -2,60 +2,42 @@
 <menu>
     <game name="007 Legends (USA)">
         <description>007 Legends (USA)</description>
-        <year>2013</year>
-        <developer>Eurocom</developer>
-        <publisher>Activision</publisher>
-        <score>0.6</score>
-        <genre>Action</genre>
-        <players>2-12</players>
-        <story>Taking place after the opening but prior to the events of Skyfall, James Bond is shot and left for dead
-            during a botched assignment in Istanbul. As his life hangs in the balance, he begins to remember his
-            previous adventures ? foiling Operation Grand Slam, the assault on Piz Gloria, his vendetta against drug
-            kingpin Franz Sanchez, his encounter with Gustav Graves, and thwarting billionaire industrialist Hugo Drax's
-            plot to kill the entire human race.
-
-            Straight after his return to the present day, Bond realizes that he's still alive. He tracks down Patrice,
-            whom he was after in the very beginning of the game, to Shanghai where he stops an assassination plot and
-            eliminates the hitman. The game presents a What if? scenario where all of the "classic" Bond adventures have
-            taken place during the six-year gap between the storylines of Quantum of Solace and Skyfall.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+	<manufacturer>Activision</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA)">
         <description>Adventure Time - Explore the Dungeon Because I Don't Know! (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+	<manufacturer>D3Publisher</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Adventure Time - Finn and Jake Investigations (USA)">
         <description>Adventure Time - Finn and Jake Investigations (USA)</description>
-        <year>2015</year>
-        <developer>Vicious Cycle Software</developer>
-        <publisher>Little Orbit</publisher>
-        <score>0.7</score>
-        <genre>Puzzle-Game-Casual Game-Adventure</genre>
-        <players>1</players>
-        <story>What time is it? It's time to crack a case!
-
-            Adventure Time: Finn and Jake Investigations is an all-new, story-driven graphic adventure game. Strange
-            stuff is happening in the Land of Ooo (stranger than usual anyway). Luckily, Finn and Jake are on the case.
-            This mysterious adventure will put their detective skills to the test as they search for clues, interrogate
-            witnesses and piece together the evidence to save the day. They might even have to bust up a few goons along
-            the way, but it's nothing that Finn and Jake Investigations can't handle!
-
-            Game Features:nn? Sleuth your way through five cases set in the Land of Ooo, each of which plays out a
-            separate chapter (like your own personal episode of the show).
-            ? See the Adventure Time characters and familiar locations for the first time in 3D.
-            ? Tackle puzzles by creatively using inventory objects and Jake's shape-shifting abilities.
-            ? Combat evildoers as Finn using a variety of unique swords and Jake's awesome attack forms.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+	<manufacturer>Little Orbit</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Amazing Spider-Man 2, The (USA)">
         <description>Amazing Spider-Man 2, The (USA)</description>
         <year>2014</year>
         <developer>Activision</developer>
-        <publisher>Beenox Studios</publisher>
+	<manufacturer>Activision</manufacturer>
         <score>0.75</score>
         <genre>Action</genre>
         <players>1</players>
@@ -65,19 +47,19 @@
     </game>
     <game name="Amazing Spider-Man, The - Ultimate Edition (USA)">
         <description>Amazing Spider-Man, The - Ultimate Edition (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Activision</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Angry Birds Star Wars (USA)">
         <description>Angry Birds Star Wars (USA)</description>
         <year>2013</year>
         <developer>Rovio</developer>
-        <publisher>Activision</publisher>
+	<manufacturer>Activision</manufacturer>
         <score>0.35</score>
         <genre>Action</genre>
         <players>1</players>
@@ -88,38 +70,29 @@
     </game>
     <game name="Angry Birds Trilogy (USA)">
         <description>Angry Birds Trilogy (USA)</description>
-        <year>2013</year>
-        <developer>Rovio</developer>
-        <publisher>Activision</publisher>
-        <score>0.5</score>
-        <genre>Action</genre>
-        <players>1</players>
-        <story>Rovio's monstrously popular game about foul-tempered fowl migrates from the mobile platform to consoles
-            for the first time with Angry Birds Trilogy. As always, players load a variety of uniquely skilled birds
-            into a slingshot and fire them at green, egg-stealing pigs in an attempt to knock the thieving swine off
-            their pedestals, or crush them beneath falling debris.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Activision</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Animal Crossing - amiibo Festival (USA)">
         <description>Animal Crossing - amiibo Festival (USA)</description>
-        <year>2015</year>
-        <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score></score>
-        <genre></genre>
-        <players>1-4</players>
-        <story>You party animal!
-
-            nnThe Animal Crossing: amiibo Festival game is a brand-new way to play with your favorite Animal Crossing
-            characters. Your amiibo figures are front-and-center in this party game, and you'll get to use them with fun
-            content. Bring to life an expansive and dynamic board game where the board is based on the months of the
-            year like the core Animal Crossing series. The goal? Make your villager the happiest in town and party hard
-            with your friends.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Nintendo</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Art Academy - Atelier (Europe)">
         <description>Art Academy - Atelier (Europe)</description>
         <year>2015</year>
         <developer>Headstrong Games</developer>
-        <publisher>Nintendo</publisher>
+	<manufacturer>Nintendo</manufacturer>
         <score>0.8</score>
         <genre>Various</genre>
         <players>1</players>
@@ -130,25 +103,19 @@
     </game>
     <game name="Assassin's Creed III (USA)">
         <description>Assassin's Creed III (USA)</description>
-        <year>2012</year>
-        <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score>0.85</score>
-        <genre>Adventure-Fight-Platform-Action</genre>
-        <players>1-4</players>
-        <story>The American Colonies, 1775. A brave young warrior fights to save his homeland. But what begins as a
-            struggle over territory turns into an extraordinary journey that will transform him into a Master
-            Assassin-and will forever change the destiny of a nation. You are Connor, warrior son of a Native American
-            mother and British father. As the colonies draw closer to revolution, you will dedicate your life to the
-            freedom of your clan - becoming the spark that ignites the revolution into full blaze. Your crusade will
-            take you through blood-soaked battlefields to crowded city streets, to perilous wilderness and beyond. You
-            will not only witness history - you will make it.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Ubisoft</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Assassin's Creed IV - Black Flag (USA)">
         <description>Assassin's Creed IV - Black Flag (USA)</description>
         <year>2013</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+	<manufacturer>Ubisoft</manufacturer>
         <score>0.85</score>
         <genre>Adventure</genre>
         <players>1-8</players>
@@ -164,20 +131,20 @@
     <game name="Baila Latino (Europe)">
         <description>Baila Latino (Europe)</description>
         <year>2015</year>
-        <developer></developer>
-        <publisher>O2 GAMES</publisher>
-        <score></score>
-        <genre>Music and Dance</genre>
+        <developer>NA</developer>
+	<manufacturer>Oxygene</manufacturer>
+        <score>NA</score>
+        <genre>Rhythm</genre>
         <players>1-4</players>
-        <story></story>
+        <story>NA</story>
     </game>
     <game name="Barbie and Her Sisters - Puppy Rescue (USA)">
         <description>Barbie and Her Sisters - Puppy Rescue (USA)</description>
         <year>2015</year>
         <developer>Little Orbit</developer>
-        <publisher>Little Orbit</publisher>
-        <score></score>
-        <genre></genre>
+	<manufacturer>Little Orbit</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
         <players>1</players>
         <story>Rejoignez Barbie et ses sœurs (Skipper, Stacie et Chelsea) pendand qu'elles résolvent des énigmes afin de
             trouver et sauver les chiots perdus dans le besoin. Faites un contrôle aux chiots chez Skipper au Roberts
@@ -189,8 +156,8 @@
         <description>Barbie Dreamhouse Party (USA)</description>
         <year>2013</year>
         <developer>Little Orbit</developer>
-        <publisher>Little Orbit</publisher>
-        <score></score>
+	<manufacturer>Little Orbit</manufacturer>
+        <score>NA</score>
         <genre>Adventure</genre>
         <players>1-4</players>
         <story>Explore the Dreamhouse and play through fabulous mini-games as Barbie and her friends.
@@ -206,7 +173,7 @@
         <description>Batman - Arkham City - Armored Edition (USA)</description>
         <year>2012</year>
         <developer>Warner Bros. Interactive</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+	<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
         <score>0.9</score>
         <genre>Adventure</genre>
         <players>1</players>
@@ -218,7 +185,7 @@
         <description>Batman - Arkham Origins (USA)</description>
         <year>2013</year>
         <developer>Warner Bros. Interactive</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+	<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
         <score>0.85</score>
         <genre>Adventure</genre>
         <players>1</players>
@@ -233,35 +200,31 @@
     </game>
     <game name="Bayonetta (USA)">
         <description>Bayonetta (USA)</description>
-        <year>2014</year>
-        <developer>Platinum Games</developer>
-        <publisher>Nintendo</publisher>
+	<year>2009</year>
+        <developer>NA</developer>
+	<manufacturer>Nintendo</manufacturer>
         <score>0.9</score>
-        <genre>Beat'em Up</genre>
-        <players>1</players>
-        <story>Bayonetta is a cinematic and stylish action game from the creative mind of Hideki Kamiya. As a
-            gun-wielding witch with powers beyond the comprehension of mere mortals, Bayonetta faces-off against
-            countless enemies in a game of 100% pure all-out action. Outlandish finishing moves are performed with
-            acrobatic grace as Bayonetta flows from one fight to another. Bayonetta pushes the limits of the action
-            genre with magnificent over-the-top action and fast-paced, dynamic climax combat.</story>
+	<genre>Action</genre>
+        <players>2</players>
+        <story>NA</story>
     </game>
     <game name="Bayonetta 2 (USA)">
         <description>Bayonetta 2 (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2014</year>
+        <developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+        <score>0.9</score>
+	<genre>Action</genre>
+        <players>2</players>
+        <story>NA</story>
     </game>
     <game name="Ben 10 - Omniverse (USA)">
         <description>Ben 10 - Omniverse (USA)</description>
         <year>2012</year>
         <developer>Monkey Bar Games</developer>
-        <publisher>Bandai Namco</publisher>
+	<manufacturer>D3Publisher</manufacturer>
         <score>0.3</score>
-        <genre>Beat'em Up</genre>
+        <genre>Beat-'Em-Up</genre>
         <players>1-2</players>
         <story>Ben 10 Omniverse est un beat'em all sur Wii U. Suite à une expérience ratée, le continuum espace-temps
             est déréglé et Korbo voyage entre deux époques. Allié à un Ben 10 tentôt enfant tantôt ado, ils doivent tous
@@ -272,9 +235,9 @@
         <description>Ben 10 - Omniverse 2 (USA)</description>
         <year>2013</year>
         <developer>Bandai Namco</developer>
-        <publisher>High Voltage</publisher>
-        <score></score>
-        <genre></genre>
+	<manufacturer>D3Publisher</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
         <players>1-2</players>
         <story>Ben 10 Omniverse 2 est un jeu d?action disponible sur Wii U. Incarnez Ben et ses différentes formes
             rendues possibles par l?Omnitrix afin de combattre l?empereur Mileous, et ses sbires, les Incursean. Un mode
@@ -283,21 +246,21 @@
     </game>
     <game name="Brunswick Pro Bowling (USA)">
         <description>Brunswick Pro Bowling (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Alliance Digital Media</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Cabela's Big Game Hunter - Pro Hunts (USA)">
         <description>Cabela's Big Game Hunter - Pro Hunts (USA)</description>
         <year>2014</year>
         <developer>Activision</developer>
-        <publisher>Activision</publisher>
+	<manufacturer>Activision</manufacturer>
         <score>0.8</score>
-        <genre>Simulation-Lightgun Shooter</genre>
+        <genre>Simulation</genre>
         <players>1</players>
         <story>Hunt with the pros! Take down the the world's biggest game with some of the foremost hunting pros as your
             guide!
@@ -312,9 +275,9 @@
         <description>Cabela's Dangerous Hunts 2013 (USA)</description>
         <year>2012</year>
         <developer>Activision</developer>
-        <publisher>Activision</publisher>
+	<manufacturer>Activision</manufacturer>
         <score>0.3</score>
-        <genre>Hunting and Fishing-Hunting-Lightgun Shooter</genre>
+        <genre>Hunting_Sports</genre>
         <players>1-4</players>
         <story>Powered by the all-new Prowler AI system, predators in Dangerous Hunts 2013 are now smarter, and deadlier
             than ever before. Animals now have the ability to form pack social hierarchies, coordinate complex group
@@ -325,7 +288,7 @@
         <description>Call of Duty - Black Ops II (USA)</description>
         <year>2012</year>
         <developer>Activision</developer>
-        <publisher>Treyarch</publisher>
+	<manufacturer>Activision</manufacturer>
         <score>0.65</score>
         <genre>Action</genre>
         <players>18</players>
@@ -336,72 +299,62 @@
     </game>
     <game name="Call of Duty - Ghosts (USA)">
         <description>Call of Duty - Ghosts (USA)</description>
-        <year>2013</year>
-        <developer>Activision</developer>
-        <publisher>Infinity Ward</publisher>
-        <score>0.6</score>
-        <genre>Action</genre>
-        <players>1-4</players>
-        <story>Outnumbered and Outgunned, but Not Outmatched: Call of Duty: Ghosts is an extraordinary step forward for
-            one of the largest entertainment franchises of all-time. This new chapter in the Call of Duty franchise
-            features a new dynamic where players are on the side of a crippled nation fighting not for freedom, or
-            liberty, but simply to survive. Fueling this all new Call of Duty experience, the franchise's new next-gen
-            engine delivers stunning levels of immersion and performance.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Activision</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Captain Toad - Treasure Tracker (USA)">
         <description>Captain Toad - Treasure Tracker (USA)</description>
         <year>2014</year>
-        <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.7</score>
-        <genre>Platform-Puzzle-Game</genre>
-        <players>1-2</players>
-        <story>Captain Toad Treasure Tracker est un jeu de réflexion et de plates-formes sur Wii U. Toad se lance dans
-            sa première aventure solo inspirée des stages spéciaux de Super Mario 3D World. L'objectif est de déjouer
-            les pièges de l'environnement en modifiant les perspectives à l'aide de la caméra pour atteindre la sortie
-            des niveaux avec un maximum de pièces et de gemmes cachées.</story>
+        <developer>NA</developer>
+	<manufacturer>Nintendo</manufacturer>
+        <score>0.85</score>
+        <genre>Platform</genre>
+        <players>2</players>
+        <story>NA</story>
     </game>
     <game name="Cocoto Magic Circus 2 (Europe)">
         <description>Cocoto Magic Circus 2 (Europe)</description>
         <year>2013</year>
         <developer>Bigben Interactive</developer>
-        <publisher>Bigben Interactive</publisher>
-        <score></score>
-        <genre>Lightgun Shooter</genre>
+	<manufacturer>Bigben Interactive</manufacturer>
+        <score>NA</score>
+        <genre>Shooter</genre>
         <players>1-5</players>
-        <story></story>
+        <story>NA</story>
     </game>
     <game name="Croods, The - Prehistoric Party! (USA)">
         <description>Croods, The - Prehistoric Party! (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>D3Publisher</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Darksiders II (USA)">
         <description>Darksiders II (USA)</description>
-        <year>2012</year>
-        <developer>THQ</developer>
-        <publisher>Vigil Games</publisher>
-        <score>0.85</score>
-        <genre>Adventure</genre>
-        <players>1</players>
-        <story>Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen, embarks on a quest to
-            undo Armageddon. Along the way, Death discovers that there are far worse things than an earthly Apocalypse,
-            and that an ancient grudge may threaten all of Creation. Become the terrifying force which everything fears
-            but nothing can escape. Death Lives, in Darksiders II.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>THQ</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Deus Ex - Human Revolution - Director's Cut (USA)">
         <description>Deus Ex - Human Revolution - Director's Cut (USA)</description>
         <year>2013</year>
         <developer>Square Enix</developer>
-        <publisher>Eidos Interactive</publisher>
+	<manufacturer>Square Enix</manufacturer>
         <score>0.85</score>
-        <genre>RPG</genre>
-        <players></players>
+        <genre>Role-Playing</genre>
+        <players>NA</players>
         <story>Deus Ex: Human Revolution - Director's Cut is an expanded re-release of Deus Ex: Human Revolution and
             includes all DLC (download content):
 
@@ -411,9 +364,9 @@
     </game>
     <game name="Devil's Third (USA)">
         <description>Devil's Third (USA)</description>
-        <year></year>
+        <year>NA</year>
         <developer>Valhalla Game Studios</developer>
-        <publisher>Valhalla Game Studios</publisher>
+	<manufacturer>Nintendo</manufacturer>
         <score>0.7</score>
         <genre>Action</genre>
         <players>1</players>
@@ -426,10 +379,10 @@
         <description>Disney Infinity (USA)</description>
         <year>2013</year>
         <developer>Disney Interactive</developer>
-        <publisher>Avalanche Software</publisher>
+	<manufacturer>Disney Interactive Studios</manufacturer>
         <score>0.75</score>
         <genre>Various</genre>
-        <players></players>
+        <players>NA</players>
         <story>Disney Infinity est un jeu d'action / plates-formes sur Wii U jouable grâce à des figurines, toutes
             venues de personnages de l'univers Disney, comme Jack Sparrow, les Indestructibles ou encore Bob et Sully de
             Monstres et Cie. Le mode Aventure permet de suivre une histoire avec notre personnage dans un monde ouvert
@@ -437,78 +390,69 @@
     </game>
     <game name="Disney Infinity 2.0 Edition (USA)">
         <description>Disney Infinity 2.0 Edition (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Disney Interactive Studios</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Disney Infinity 3.0 Edition (USA)">
         <description>Disney Infinity 3.0 Edition (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Disney Interactive Studios</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Donkey Kong Country - Tropical Freeze (USA)">
         <description>Donkey Kong Country - Tropical Freeze (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2014</year>
+        <developer>Nintendo</developer>
+	<manufacturer>Nintendo</manufacturer>
+        <score>0.85</score>
+        <genre>Platformer</genre>
+        <players>2</players>
+        <story>NA</story>
     </game>
     <game name="DuckTales - Remastered (USA)">
         <description>DuckTales - Remastered (USA)</description>
-        <year></year>
-        <developer>Wayforward</developer>
-        <publisher>Capcom</publisher>
-        <score>0.85</score>
-        <genre>Platform</genre>
-        <players>1</players>
-        <story>DuckTales: Remastered is a hand-crafted, beautiful reimagining of one of the most cherished 8-bit titles
-            of all time. Embark on an authentic DuckTales adventure, as Scrooge McDuck and his three nephews; Huey,
-            Dewey and Louie travel to exotic locations throughout the world in their quest to retrieve the five
-            Legendary Treasures.
-
-            Go back to one of the golden ages of gaming, but now refined with a level of detail that will please the
-            most devoted Disney or retro Capcom fan, alike. Featuring hand-drawn animated sprites, authentic Disney
-            character voices talent and richly painted level backgrounds from the classic cartoon TV series, Scrooge
-            McDuck and family come to life like never before. The gameplay retains the authenticity of its 8-bit
-            predecessor, simple and fun, with slight modifications to improve gameplay flow and design.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Capcom</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Epic Mickey 2 - The Power of Two (USA)">
         <description>Epic Mickey 2 - The Power of Two (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Disney Interactive Studios</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="ESPN Sports Connection (USA)">
         <description>ESPN Sports Connection (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Ubisoft</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Family Party - 30 Great Games Obstacle Arcade (USA)">
         <description>Family Party - 30 Great Games Obstacle Arcade (USA)</description>
         <year>2012</year>
         <developer>Art Co. Ltd.</developer>
-        <publisher>D3 Publisher</publisher>
+	<manufacturer>D3Publisher</manufacturer>
         <score>0.15</score>
         <genre>Casual Game</genre>
         <players>4</players>
@@ -546,32 +490,32 @@
     </game>
     <game name="Fast &amp; Furious - Showdown (USA)">
         <description>Fast &amp; Furious - Showdown (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Activision</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="FIFA Soccer 13 (USA)">
         <description>FIFA Soccer 13 (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>EA Sports</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Fit Music for Wii U (Europe)">
         <description>Fit Music for Wii U (Europe)</description>
         <year>2014</year>
         <developer>Oxygene Media</developer>
-        <publisher>Oxygene Media</publisher>
+	<manufacturer>Oxygene</manufacturer>
         <score>0.85</score>
         <genre>Various</genre>
-        <players></players>
+        <players>NA</players>
         <story>Are you tired of the gym? Bored of the same exercises? Do you want to have a physique everyone will envy?
             There is Fit Music for you now!
 
@@ -589,7 +533,7 @@
         <description>Funky Barn (USA)</description>
         <year>2012</year>
         <developer>505 Games</developer>
-        <publisher>Tantalus Media</publisher>
+	<manufacturer>505 Games</manufacturer>
         <score>0.75</score>
         <genre>Simulation</genre>
         <players>1</players>
@@ -607,10 +551,10 @@
         <description>Game &amp; Wario (USA)</description>
         <year>2013</year>
         <developer>Intelligent Systems</developer>
-        <publisher>Nintendo</publisher>
+	<manufacturer>Nintendo</manufacturer>
         <score>0.7</score>
         <genre>Casual Game</genre>
-        <players></players>
+        <players>NA</players>
         <story>Wario has gotten into the business of designing games. With the help of his development crew at
             WarioWare, Inc., he has set out to make the greatest collection of games Diamond City has ever seen. Game
             &amp; Wario features these fun and refreshingly unusual games that are played exclusively with the Wii U
@@ -620,7 +564,7 @@
         <description>Game Party Champions (USA)</description>
         <year>2012</year>
         <developer>Phosphor Games Studio</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+	<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
         <score>0.1</score>
         <genre>Casual Game</genre>
         <players>4</players>
@@ -631,92 +575,89 @@
     </game>
     <game name="Giana Sisters - Twisted Dreams - Director's Cut (USA)">
         <description>Giana Sisters - Twisted Dreams - Director's Cut (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Alliance Digital Media</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Guitar Hero Live (USA)">
         <description>Guitar Hero Live (USA)</description>
         <year>2015</year>
         <developer>Activision</developer>
-        <publisher>Activision</publisher>
-        <score></score>
-        <genre>Music and Dance</genre>
-        <players></players>
-        <story></story>
+	<manufacturer>Activision</manufacturer>
+        <score>NA</score>
+        <genre>Rhythm</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Hello Kitty Kruisers (USA)">
         <description>Hello Kitty Kruisers (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+	<manufacturer>Bergsala-Lightweight</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Hot Wheels - World's Best Driver (USA)">
         <description>Hot Wheels - World's Best Driver (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="How to Train Your Dragon 2 (USA)">
         <description>How to Train Your Dragon 2 (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Hunter's Trophy 2 - Europa (Europe)">
         <description>Hunter's Trophy 2 - Europa (Europe)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Hyrule Warriors (USA)">
         <description>Hyrule Warriors (USA)</description>
         <year>2014</year>
-        <developer>OMEGA Force</developer>
-        <publisher>Tecmo</publisher>
-        <score>0.8</score>
-        <genre>Beat'em Up</genre>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.75</score>
+        <genre>Adventure</genre>
         <players>2</players>
-        <story>Hyrule Warriors, known in Japan as Zelda Mus, is a hack and slash action video game released in Japan on
-            August 14, 2014, and scheduled to be released in the West in September. Developed by Omega Force and Team
-            Ninja for the Wii U video game console, the game is a collaboration between Koei Tecmo and Nintendo, and
-            contains elements of Nintendo's The Legend of Zelda series and Koei Tecmo's Dynasty Warriors series.</story>
+        <story>NA</story>
     </game>
     <game name="Injustice - Gods Among Us (USA)">
         <description>Injustice - Gods Among Us (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Jeopardy! (USA)">
         <description>Jeopardy! (USA)</description>
         <year>2012</year>
         <developer>THQ</developer>
-        <publisher>THQ</publisher>
+        <manufacturer>THQ</manufacturer>
         <score>0.3</score>
         <genre>Puzzle</genre>
         <players>4+</players>
@@ -735,10 +676,10 @@
         <description>Jett Tailfin (Europe)</description>
         <year>2014</year>
         <developer>Maximum Family Games</developer>
-        <publisher>Maximum Family Games</publisher>
-        <score></score>
+        <manufacturer>Maximum Family Games</manufacturer>
+        <score>NA</score>
         <genre>Racing</genre>
-        <players></players>
+        <players>NA</players>
         <story>Join Jett and his Friends as they race through some wild worlds on their way to Top Fin!
 
             nnThis is the challenging and dangerous world of underwater racing! As a fast fish, you will run through
@@ -751,10 +692,10 @@
         <description>Just Dance - Disney Party 2 (USA)</description>
         <year>2015</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score></score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <manufacturer>Ubisoft</manufacturer>
+        <score>NA</score>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>Just Dance and Disney are back together, bringing the greatest dance game for the whole family with music
             from the hottest Disney Channel shows, in Just Dance®: Disney Party 2.
 
@@ -766,9 +707,9 @@
         <description>Just Dance 2014 (Europe)</description>
         <year>2013</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.8</score>
-        <genre>Music and Dance</genre>
+        <genre>Rhythm</genre>
         <players>5</players>
         <story>Just Dance 2014 is the fifth main game in the dancing series where players are rated for their ability to
             mimic dance routines to popular songs. For Xbox 360 and Xbox One the whole body movement is analyzed through
@@ -783,9 +724,9 @@
         <description>Just Dance 2014 (USA)</description>
         <year>2013</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.8</score>
-        <genre>Music and Dance</genre>
+        <genre>Rhythm</genre>
         <players>5</players>
         <story>Just Dance 2014 is the fifth main game in the dancing series where players are rated for their ability to
             mimic dance routines to popular songs. For Xbox 360 and Xbox One the whole body movement is analyzed through
@@ -800,10 +741,10 @@
         <description>Just Dance 2015 (Europe)</description>
         <year>2014</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.8</score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>Just Dance 2015 is the sixth main game in the dancing series where players perform dance routines,
             mimicking the moves of on-screen performers, to earn points. The controls are different for each platform.
             For Wii and Wii U movement is tracked through the Wii Remote, Xbox 360 and Xbox One require the Kinect
@@ -817,10 +758,10 @@
         <description>Just Dance 2015 (USA)</description>
         <year>2014</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.8</score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>Just Dance 2015 is the sixth main game in the dancing series where players perform dance routines,
             mimicking the moves of on-screen performers, to earn points. The controls are different for each platform.
             For Wii and Wii U movement is tracked through the Wii Remote, Xbox 360 and Xbox One require the Kinect
@@ -832,46 +773,32 @@
     </game>
     <game name="Just Dance 2016 (Europe)">
         <description>Just Dance 2016 (Europe)</description>
-        <year>2015</year>
-        <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score></score>
-        <genre>Various</genre>
-        <players>4+</players>
-        <story>Introducing Just Dance 2016 - the newest game from the top-selling franchise - with a brand new way to
-            play! All you need is your smartphone and the Just Dance Controller App to play Just Dance 2016 on PS4
-            system, no PlayStationCamera or PlayStationMove needed.
-
-            Bust a move to Uptown Funk by Mark Ronson Ft. Bruno Mars and feel the beat in All About That Bass by Meghan
-            Trainor - Just Dance 2016 features an amazing tracklist with visuals that are more creative and
-            breath-taking than ever before. Join over 100MM players and dance to fun favorites and hot hits, today!
-        </story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Just Dance 2016 (USA)">
         <description>Just Dance 2016 (USA)</description>
-        <year>2015</year>
-        <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score></score>
-        <genre>Various</genre>
-        <players>4+</players>
-        <story>Introducing Just Dance 2016 - the newest game from the top-selling franchise - with a brand new way to
-            play! All you need is your smartphone and the Just Dance Controller App to play Just Dance 2016 on PS4
-            system, no PlayStationCamera or PlayStationMove needed.
-
-            Bust a move to Uptown Funk by Mark Ronson Ft. Bruno Mars and feel the beat in All About That Bass by Meghan
-            Trainor - Just Dance 2016 features an amazing tracklist with visuals that are more creative and
-            breath-taking than ever before. Join over 100MM players and dance to fun favorites and hot hits, today!
-        </story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Just Dance 4 (Europe)">
         <description>Just Dance 4 (Europe)</description>
         <year>2012</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.8</score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance
             party tracks. Whether it's pop, Hip-Hop, rock, R&amp;B, country or funk, there is something for everyone.
         </story>
@@ -880,10 +807,10 @@
         <description>Just Dance 4 (USA)</description>
         <year>2012</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.8</score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance
             party tracks. Whether it's pop, Hip-Hop, rock, R&amp;B, country or funk, there is something for everyone.
         </story>
@@ -892,10 +819,10 @@
         <description>Just Dance Kids 2014 (USA)</description>
         <year>2013</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score></score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <manufacturer>Ubisoft</manufacturer>
+        <score>NA</score>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>Just Dance Kids 2014 is the third game in the Just Dance Kids sub-series of the Just Dance franchise. The
             game contains thirty music tracks for a younger audience where players need to mimic the dance routines
             shown on the screen. The music selection is a mix of covers and original recordings with both older and
@@ -906,30 +833,30 @@
     </game>
     <game name="Kirby and the Rainbow Curse (USA)">
         <description>Kirby and the Rainbow Curse (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Kung Fu Panda - Showdown of Legendary Legends (USA)">
         <description>Kung Fu Panda - Showdown of Legendary Legends (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Legend of Kay Anniversary (USA)">
         <description>Legend of Kay Anniversary (USA)</description>
-        <year></year>
+        <year>NA</year>
         <developer>Unit 4 Games</developer>
-        <publisher>Nordic Games</publisher>
-        <score></score>
+        <manufacturer>Nordic Games</manufacturer>
+        <score>NA</score>
         <genre>Platform</genre>
         <players>1</players>
         <story>Experience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving.
@@ -941,31 +868,41 @@
             Full of fond allusions to old martial arts films and pop culture quotes, Legend of Kay Anniversary is both
             an incredibly funny game and a challenging action-adventure for young and old alike.</story>
     </game>
+    <game name="Legend of Zelda, The - Breath of the Wild (USA)">
+        <description>Legend of Zelda, The - Breath of the Wild (USA)</description>
+        <year>2017</year>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.95</score>
+        <genre>Adventure</genre>
+        <players>1</players>
+        <story>NA</story>
+    </game>
     <game name="Legend of Zelda, The - The Wind Waker HD (USA)">
         <description>Legend of Zelda, The - The Wind Waker HD (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2013</year>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.95</score>
+        <genre>Adventure</genre>
+        <players>1</players>
+        <story>NA</story>
     </game>
     <game name="Legend of Zelda, The - Twilight Princess HD (USA)">
         <description>Legend of Zelda, The - Twilight Princess HD (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2016</year>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.85</score>
+        <genre>Adventure</genre>
+        <players>1</players>
+        <story>NA</story>
     </game>
     <game name="LEGO Batman 2 - DC Super Heroes (USA)">
         <description>LEGO Batman 2 - DC Super Heroes (USA)</description>
         <year>2013</year>
         <developer>Travellers Tales</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+        <manufacturer>Warner Bros. Interactive</manufacturer>
         <score>0.8</score>
         <genre>Adventure</genre>
         <players>1-2</players>
@@ -979,7 +916,7 @@
         <description>LEGO Batman 3 - Beyond Gotham (USA)</description>
         <year>2014</year>
         <developer>TT Games</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+        <manufacturer>Warner Bros. Interactive</manufacturer>
         <score>0.8</score>
         <genre>Platform</genre>
         <players>1-2</players>
@@ -993,7 +930,7 @@
         <description>LEGO City Undercover (USA)</description>
         <year>2013</year>
         <developer>TT Games</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.85</score>
         <genre>Action</genre>
         <players>1</players>
@@ -1014,26 +951,22 @@
     </game>
     <game name="LEGO Dimensions (USA)">
         <description>LEGO Dimensions (USA)</description>
-        <year>2015</year>
-        <developer>Warner Bros. Interactive</developer>
-        <publisher>Travellers Tales</publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story>LEGO Dimensions is a multi-franchise toys-to-life game featuring characters and levels from 14 licensed
-            franchises with additional franchises due to arrive in the future. The game contains elements from the
-            Middle Earth franchise, The LEGO Movie, DC Comics, The Wizard of Oz, The Simpsons, Back to the Future,
-            Scooby-Doo, Doctor Who, Portal 2, the Midway Arcade franchise, LEGO Legends of Chima, LEGO Ninjago,
-            Ghostbusters, and Jurassic World.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="LEGO Jurassic World (USA)">
         <description>LEGO Jurassic World (USA)</description>
         <year>2015</year>
         <developer>Warner Bros. Interactive</developer>
-        <publisher>Travellers Tales</publisher>
+        <manufacturer>Travellers Tales</manufacturer>
         <score>0.85</score>
-        <genre></genre>
-        <players></players>
+        <genre>NA</genre>
+        <players>NA</players>
         <story>LEGO Jurassic World is an action game based on the four Jurassic Park movies and released alongside the
             2015 movie Jurassic World. As with many other Tt Games titles it adapts a licensed franchise to a world
             built up out of LEGO bricks. The game consists of 20 levels, five for each of the movies, played in
@@ -1044,7 +977,7 @@
         <description>LEGO Marvel Super Heroes (USA)</description>
         <year>2013</year>
         <developer>Warner Bros. Interactive</developer>
-        <publisher>TT Games</publisher>
+        <manufacturer>TT Games</manufacturer>
         <score>0.75</score>
         <genre>Adventure</genre>
         <players>2</players>
@@ -1057,10 +990,10 @@
         <description>LEGO Marvel's Avengers (USA)</description>
         <year>2016</year>
         <developer>Warner Bros. Interactive</developer>
-        <publisher>Travellers Tales</publisher>
+        <manufacturer>Travellers Tales</manufacturer>
         <score>0.7</score>
         <genre>Action</genre>
-        <players></players>
+        <players>NA</players>
         <story>LEGO Marvel Avengers is a spin-off of the successful LEGO Marvel Super Heroes focusing on the story of
             the films of the Marvel Cinematic Universe. The game covers the events of the cinematic universe up to
             'Avengers: Age of Ultron' and covers content seen in 'Captain America: The First Avenger', 'Avengers
@@ -1069,22 +1002,22 @@
     </game>
     <game name="LEGO Movie Videogame, The (USA)">
         <description>LEGO Movie Videogame, The (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="LEGO The Hobbit (USA)">
         <description>LEGO The Hobbit (USA)</description>
         <year>2014</year>
         <developer>TT Games</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+        <manufacturer>Warner Bros. Interactive</manufacturer>
         <score>0.9</score>
         <genre>Adventure</genre>
-        <players></players>
+        <players>NA</players>
         <story>LEGO The Hobbit is based on the first two films in The Hobbit movie trilogy: The Hobbit: An Unexpected
             Journey and The Hobbit: Desolation of Smaug. Like the other LEGO Tt games it is an adaptation of the
             franchise to the LEGO universe. It allows players to play through different scenes from the films and follow
@@ -1097,8 +1030,8 @@
         <description>Luv me Buddies Wonderland (Europe)</description>
         <year>2014</year>
         <developer>Oxygene</developer>
-        <publisher>Oxygene</publisher>
-        <score></score>
+        <manufacturer>Oxygene</manufacturer>
+        <score>NA</score>
         <genre>Educational</genre>
         <players>1-4</players>
         <story>Play and have fun with the fantastic Luv Me Buddies puppets and experience an exciting adventure along
@@ -1118,10 +1051,10 @@
         <description>Madden NFL 13 (USA)</description>
         <year>2012</year>
         <developer>EA Sports</developer>
-        <publisher>Electronic Arts</publisher>
+        <manufacturer>Electronic Arts</manufacturer>
         <score>0.9</score>
         <genre>Sports</genre>
-        <players></players>
+        <players>NA</players>
         <story>With beautiful HD graphics, an in-depth Career mode, and exclusive Touch Screen features, Madden NFL 13
             on the Wii U delivers the most authentic NFL experience ever on a Nintendo platform. Build your own legacy
             as a player or a coach-or relive the glory of an all-time legend-in Connected Careers. Immerse yourself in
@@ -1131,54 +1064,52 @@
     </game>
     <game name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA)">
         <description>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Mario Kart 8 (USA)">
         <description>Mario Kart 8 (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2014</year>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.85</score>
+        <genre>Racing</genre>
+        <players>4</players>
+        <story>NA</story>
     </game>
     <game name="Mario Party 10 (USA)">
         <description>Mario Party 10 (USA)</description>
-        <year>2015</year>
-        <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.6</score>
-        <genre>Board Game</genre>
-        <players>5</players>
-        <story>Mario Party 10 is a 2015 party video game for the Nintendo Wii U. Developed by Nd Cube and published by
-            Nintendo, it is the tenth "main" game in the Mario Party series, the fourteenth in the franchise, and the
-            first game in the series for the Wii U. The game was released worldwide in March 2015.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Mario Tennis - Ultra Smash (USA)">
         <description>Mario Tennis - Ultra Smash (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Marvel Avengers - Battle for Earth (USA)">
         <description>Marvel Avengers - Battle for Earth (USA)</description>
         <year>2013</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.5</score>
-        <genre>Fighting</genre>
-        <players></players>
+        <genre>Fighter</genre>
+        <players>NA</players>
         <story>The Avengers: Battle for Earth is a versus fighting game designed around motion controls. It is based on
             the 2008 Marvel comics storyline Secret Invasion, in which the Skrulls, shapeshifting aliens, have taken the
             place of many of the Marvel universe's superheroes, with the remaining genuine heroes having to team up to
@@ -1186,22 +1117,22 @@
     </game>
     <game name="Mass Effect 3 - Special Edition (USA)">
         <description>Mass Effect 3 - Special Edition (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Monster High - 13 Wishes (USA)">
         <description>Monster High - 13 Wishes (USA)</description>
         <year>2013</year>
         <developer>Game Machine Studios</developer>
-        <publisher>Little Orbit</publisher>
-        <score></score>
+        <manufacturer>Little Orbit</manufacturer>
+        <score>NA</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>NA</players>
         <story>Go a on monstrous adventure inside the lantern.
 
             It's up to YOU to help Frankie Stein and her ghoulfriends track down the 13 magical mirror shards needed to
@@ -1209,12 +1140,12 @@
     </game>
     <game name="Monster High - New Ghoul in School (USA)">
         <description>Monster High - New Ghoul in School (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
         <story>Welcome, new ghoul!
             Come roam the halls of Monster High and get to know your new classmates. Join clubs, make friends and dress
             up in fierce fashions. But be aware, there's something strange going on at Monster High! Cleo's new amulet
@@ -1226,9 +1157,9 @@
         <description>Monster Hunter 3 Ultimate (USA)</description>
         <year>2013</year>
         <developer>Capcom</developer>
-        <publisher>Capcom</publisher>
+        <manufacturer>Capcom</manufacturer>
         <score>0.9</score>
-        <genre>RPG</genre>
+        <genre>Role-Playing</genre>
         <players>1</players>
         <story>The popular fantasy action franchise Monster Hunter is now one of the most iconic gaming series in the
             world selling over 21 million copies worldwide since the series began in 2004. Players take on the role of a
@@ -1251,7 +1182,7 @@
         <description>NBA 2K13 (USA)</description>
         <year>2012</year>
         <developer>Visual Concepts</developer>
-        <publisher>2K Games</publisher>
+        <manufacturer>2K Games</manufacturer>
         <score>0.75</score>
         <genre>Sports</genre>
         <players>10</players>
@@ -1267,7 +1198,7 @@
         <description>Need for Speed - Most Wanted U (USA)</description>
         <year>2013</year>
         <developer>Criterion Studios</developer>
-        <publisher>Electronic Arts</publisher>
+        <manufacturer>Electronic Arts</manufacturer>
         <score>0.8</score>
         <genre>Racing</genre>
         <players>2</players>
@@ -1278,54 +1209,56 @@
     </game>
     <game name="NES Remix Pack (USA)">
         <description>NES Remix Pack (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="New Super Luigi U (USA)">
         <description>New Super Luigi U (USA)</description>
         <year>2013</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.8</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>4</players>
         <story>New Super Luigi U is a platform game on Wii U. Offered in stand-alone or as an extension of the game New
             Super Mario Bros. U, it allows to control Luigi in 82 revamped levels and adapted to the game play of Luigi.
             Carottin is now playable in multiplayer and each stage must be completed in less than 100 seconds.</story>
     </game>
     <game name="New Super Mario Bros. U (USA)">
         <description>New Super Mario Bros. U (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.8</score>
+        <genre>Platform</genre>
+        <players>4</players>
+        <story>NA</story>
     </game>
     <game name="New Super Mario Bros. U + New Super Luigi U (USA)">
         <description>New Super Mario Bros. U + New Super Luigi U (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2013</year>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.8</score>
+        <genre>Platform</genre>
+        <players>4</players>
+        <story>New Super Luigi U is a platform game on Wii U. Offered in stand-alone or as an extension of the game New
+            Super Mario Bros. U, it allows to control Luigi in 82 revamped levels and adapted to the game play of Luigi.
+            Carottin is now playable in multiplayer and each stage must be completed in less than 100 seconds.</story>
     </game>
     <game name="Ninja Gaiden 3 - Razor's Edge (USA)">
         <description>Ninja Gaiden 3 - Razor's Edge (USA)</description>
         <year>2013</year>
         <developer>Team Ninja</developer>
-        <publisher>Tecmo</publisher>
+        <manufacturer>Tecmo</manufacturer>
         <score>0.85</score>
-        <genre>Beat'em Up</genre>
-        <players></players>
+        <genre>Beat-'Em-Up</genre>
+        <players>NA</players>
         <story>Ninja Gaiden 3: Razor's Edge is an update of Ninja Gaiden 3. It includes all the downloadable content
             made available on other platforms as well as some new changes. A new playable character is available, Ayane
             from the Dead or Alive series, with her own story mode chapters. An online co-operative mode has been added
@@ -1339,7 +1272,7 @@
         <description>Nintendo Land (USA)</description>
         <year>2012</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.8</score>
         <genre>Casual Game</genre>
         <players>1-5</players>
@@ -1354,7 +1287,7 @@
         <description>One Piece - Unlimited World Red (Europe)</description>
         <year>2014</year>
         <developer>Ganbarion</developer>
-        <publisher>Bandai Namco</publisher>
+        <manufacturer>Bandai Namco</manufacturer>
         <score>0.8</score>
         <genre>Adventure</genre>
         <players>1-2</players>
@@ -1369,8 +1302,8 @@
         <description>Pac-Man and the Ghostly Adventures (USA)</description>
         <year>2013</year>
         <developer>Monkey Bar Games</developer>
-        <publisher>Bandai Namco</publisher>
-        <score></score>
+        <manufacturer>Bandai Namco</manufacturer>
+        <score>NA</score>
         <genre>Platform</genre>
         <players>1-4</players>
         <story>Pac-Man and the Ghostly Adventures is a 3D platform game based on the cartoon TV series of same name.
@@ -1390,10 +1323,10 @@
         <description>Pac-Man and the Ghostly Adventures 2 (USA)</description>
         <year>2014</year>
         <developer>Monkey Bar Games</developer>
-        <publisher>Bandai Namco</publisher>
-        <score></score>
+        <manufacturer>Bandai Namco</manufacturer>
+        <score>NA</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>NA</players>
         <story>Pac-Man and the Ghostly Adventures 2 is a 3D platform game based on the cartoon TV series of same name
             and it is the sequel to Pac-Man and the Ghostly Adventures. Betrayus, lord of the ghosts, and his servants
             come up with a plan to let Pac-Man steal the repository holding the Pac world bodies of all the ghosts in
@@ -1405,95 +1338,91 @@
     </game>
     <game name="Peanuts Movie, The - Snoopy's Grand Adventure (USA)">
         <description>Peanuts Movie, The - Snoopy's Grand Adventure (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Penguins of Madagascar (USA)">
         <description>Penguins of Madagascar (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Phineas and Ferb - Quest for Cool Stuff (USA)">
         <description>Phineas and Ferb - Quest for Cool Stuff (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Pikmin 3 (USA)">
         <description>Pikmin 3 (USA)</description>
-        <year>2013</year>
-        <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.85</score>
-        <genre>Strategy</genre>
-        <players></players>
-        <story>Pikmin 3 is a fully reimagined, mass-action strategy title from the critically acclaimed Pikmin series.
-            Players will discover a beautiful world filled with strange creatures and take command of a swarm of
-            ant-like Pikmin trying to survive. The world is densely packed with treasures and enemies, which makes the
-            game much more action focused and fills it with layers of potential strategies and paths, adding greater
-            replayability to challenge modes.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Planes (USA)">
         <description>Planes (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Planes - Fire &amp; Rescue (USA)">
         <description>Planes - Fire &amp; Rescue (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Pokken Tournament (USA)">
         <description>Pokken Tournament (USA)</description>
         <year>2015</year>
         <developer>Bandai Namco</developer>
-        <publisher>The Pokémon Company</publisher>
-        <score></score>
-        <genre>Fighting</genre>
-        <players></players>
+        <manufacturer>The Pokémon Company</manufacturer>
+        <score>NA</score>
+        <genre>Fighter</genre>
+        <players>NA</players>
         <story>Pokkén Tournament est un jeu de combat dans l'univers Pokémon. Utilisant les éléments de gameplay de la
             série de combat Tekken, il permet aux joueurs d'incarner différents pokémon dans des batailles dynamiques.
         </story>
     </game>
     <game name="Project Zero - Maiden of Black Water (Europe)">
         <description>Project Zero - Maiden of Black Water (Europe)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Rabbids Land (USA)">
         <description>Rabbids Land (USA)</description>
         <year>2012</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.5</score>
         <genre>Casual Game</genre>
         <players>4</players>
@@ -1503,12 +1432,12 @@
     </game>
     <game name="Rapala Pro Bass Fishing (USA)">
         <description>Rapala Pro Bass Fishing (USA)</description>
-        <year></year>
+        <year>NA</year>
         <developer>Activision</developer>
-        <publisher>Activision</publisher>
-        <score></score>
+        <manufacturer>Activision</manufacturer>
+        <score>NA</score>
         <genre>Simulation</genre>
-        <players></players>
+        <players>NA</players>
         <story>Rapala Pro Bass Fishing is a fishing simulator on Wii U in which you drive your boat to find the right
             fish spots or challenges scattered around the map. You have the opportunity to choose your environment and
             the weather conditions you want. It is also possible to participate in tournaments to put your talent to the
@@ -1516,36 +1445,29 @@
     </game>
     <game name="Rayman Legends (USA)">
         <description>Rayman Legends (USA)</description>
-        <year></year>
-        <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score>0.9</score>
-        <genre>Platform</genre>
-        <players>5</players>
-        <story>Developed by Ubisoft Montpellier, Rayman Legends is the follow-up to last year's highly-acclaimed Rayman
-            Origins. Rayman Legends takes full advantage of the Wii U controller to bring players innovative multiplayer
-            interactions that go beyond those found in traditional platform games. Players can use the Wii U
-            controller's touch screen to take out enemies or clear paths and use the gyroscope technology to manipulate
-            and rotate platforms on the TV screen. The Wii U controller also allows players to continue the adventure of
-            Rayman and his friends on the controller's screen even while the television is off.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Resident Evil - Revelations (USA)">
         <description>Resident Evil - Revelations (USA)</description>
-        <year>2013</year>
-        <developer>Capcom</developer>
-        <publisher>Capcom</publisher>
-        <score>0.8</score>
-        <genre>Action</genre>
-        <players></players>
-        <story>Resident Evil: Revelations on Wii U is a survival horror. The player must face monsters who are victims
-            of a variant of the T Virus while trying to get out alive from a gigantic liner. In addition to the Campaign
-            mode, there is also a Commando mode playable in cooperative.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Rise of the Guardians (USA)">
         <description>Rise of the Guardians (USA)</description>
         <year>2012</year>
-        <developer></developer>
-        <publisher>Bandai Namco</publisher>
+        <developer>NA</developer>
+        <manufacturer>Bandai Namco</manufacturer>
         <score>0.25</score>
         <genre>Action</genre>
         <players>1-4</players>
@@ -1564,8 +1486,8 @@
         <description>Rodea the Sky Soldier (USA)</description>
         <year>2015</year>
         <developer>Prope</developer>
-        <publisher>NIS America</publisher>
-        <score></score>
+        <manufacturer>NIS America</manufacturer>
+        <score>NA</score>
         <genre>Platform</genre>
         <players>1</players>
         <story>A thousand years ago, Emperor Geardo of the Naga Empire sent an army of machine soldiers to invade the
@@ -1582,10 +1504,10 @@
         <description>Scribblenauts Unlimited (USA)</description>
         <year>2013</year>
         <developer>5th Cell</developer>
-        <publisher>Warner Bros. Interactive</publisher>
+        <manufacturer>Warner Bros. Interactive</manufacturer>
         <score>0.75</score>
         <genre>Puzzle</genre>
-        <players></players>
+        <players>NA</players>
         <story>Scribblenauts Unlimited features a huge side-scrolling open world with new, high-definition hand-drawn
             scenery and objects where players can help the game's hero, Maxwell, solve robust puzzles and challenges by
             summoning any object they can imagine. And for the first time, players learn the backstory of Maxwell's
@@ -1595,10 +1517,10 @@
         <description>Scribblenauts Unmasked - A DC Comics Adventure (USA)</description>
         <year>2013</year>
         <developer>5th Cell</developer>
-        <publisher>Warner Bros. Interactive</publisher>
-        <score></score>
-        <genre>Various-Puzzle-Game-Adventure</genre>
-        <players></players>
+        <manufacturer>Warner Bros. Interactive</manufacturer>
+        <score>NA</score>
+        <genre>Puzzle</genre>
+        <players>NA</players>
         <story>Scribblenauts Unmasked : A DC Comics Adventure est un jeu de puzzle / création / aventure disponible sur
             la Nintendo Wii U. Le soft vous propose d?incarner Maxwell, et de le faire évoluer dans l?univers de DC
             Comics. Vous êtes accompagné de votre s?ur jumelle Lily, et vous pouvez parcourir les lieux emblématiques de
@@ -1607,32 +1529,22 @@
     </game>
     <game name="Shovel Knight (USA)">
         <description>Shovel Knight (USA)</description>
-        <year>2014</year>
-        <developer>Yacht Club Games</developer>
-        <publisher>Yacht Club Games</publisher>
-        <score>0.9</score>
-        <genre>Adventure</genre>
-        <players>1</players>
-        <story>Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters,
-            and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a
-            small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil
-            Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques
-            have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of
-            Shovelry: Slash Mercilessly and Dig Tirelessly!
-
-            But, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known
-            as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and
-            will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious
-            music, crazy bosses, humor and levity, and real heart? Shovel Knight is for you!</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="SiNG Party (USA)">
         <description>SiNG Party (USA)</description>
         <year>2013</year>
         <developer>Freestyle Games</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.75</score>
-        <genre>Music and Dance</genre>
-        <players></players>
+        <genre>Rhythm</genre>
+        <players>NA</players>
         <story>SiNG is a new interactive musical performance game for Wii U that gets everyone at the party involved in
             the music. With dozens of popular songs to choose from, everyone from novice singers and dancers to budding
             stars can join in on the fun. The main performer holds the GamePad while others in the room sing, dance and
@@ -1642,10 +1554,10 @@
         <description>Skylanders Giants (USA)</description>
         <year>2012</year>
         <developer>Toys For Bob</developer>
-        <publisher>Activision</publisher>
+        <manufacturer>Activision</manufacturer>
         <score>0.7</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>NA</players>
         <story>FROZEN IN OUR WORLD. ALIVE IN THEIRS. Thousands of years ago, the Skylanders Giants fought epic battles
             in Skylands but were banished to Earth. With a new threat looming, it's time to bring them back to join
             forces with the Skylanders. Only you can put them on the Portal of Power® to unleash their strength in the
@@ -1655,10 +1567,10 @@
         <description>Skylanders SuperChargers (USA)</description>
         <year>2015</year>
         <developer>Activision</developer>
-        <publisher>Vicarious Visions</publisher>
-        <score></score>
+        <manufacturer>Vicarious Visions</manufacturer>
+        <score>NA</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>NA</players>
         <story>In Skylanders SuperChargers, Kaos' quest to rule over Skylands reveals his most sinister weapon ever – a
             massive "Doomstation of Ultimate Doomstruction" capable of eating the sky itself. Fortunately, a special
             team of Skylanders known as the SuperChargers has been assembled to pilot an incredible fleet of vehicles
@@ -1700,10 +1612,10 @@
         <description>Skylanders Swap Force (USA)</description>
         <year>2013</year>
         <developer>Vicarious Visions</developer>
-        <publisher>Activision</publisher>
+        <manufacturer>Activision</manufacturer>
         <score>0.85</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>NA</players>
         <story>Embark on an exciting new adventure with the Skylanders and the SWAP Force. For generations, the SWAP
             Force protected the volcano that replenishes Skylands? magic. That is until an epic battle caught them in an
             eruption that blasted them apart, sent them to Earth and gave them the ability to swap powers. Only you can
@@ -1713,10 +1625,10 @@
         <description>Skylanders Trap Team (USA)</description>
         <year>2014</year>
         <developer>Activision</developer>
-        <publisher>Beenox Studios</publisher>
+        <manufacturer>Beenox Studios</manufacturer>
         <score>0.85</score>
         <genre>Platform</genre>
-        <players></players>
+        <players>NA</players>
         <story>Kaos has blown up the walls of the feared Cloudcracker Prison freeing the most notorious villains in
             Skylands. it's up to you and the Skylanders to find and capture them. using Traptanium, a magic material
             that can harness the power of the Elements, you have the amazing ability to trap the villains and return
@@ -1736,44 +1648,40 @@
     </game>
     <game name="Smurfs 2, The (USA)">
         <description>Smurfs 2, The (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Sniper Elite V2 (USA)">
         <description>Sniper Elite V2 (USA)</description>
         <year>2012</year>
         <developer>Rebellion</developer>
-        <publisher>505 Games</publisher>
+        <manufacturer>505 Games</manufacturer>
         <score>0.6</score>
-        <genre>Lightgun Shooter</genre>
-        <players></players>
+        <genre>Shooter</genre>
+        <players>NA</players>
         <story>Sniper Elite V2 will be a modern take on the critically and publically acclaimed classic Sniper Elite for
             the current generation of consoles - revitalising a genre all of its own when it is released in 2012</story>
     </game>
     <game name="Sonic &amp; All-Stars Racing Transformed (USA)">
         <description>Sonic &amp; All-Stars Racing Transformed (USA)</description>
-        <year>2012</year>
-        <developer>SEGA</developer>
-        <publisher>Sumo Digital</publisher>
-        <score>0.85</score>
-        <genre>Racing</genre>
-        <players>4</players>
-        <story>Sonic &amp; All-Stars Racing Transformed is the sequel to Sonic &amp; SEGA All-Stars Racing. As in the
-            original game, players race a lineup of SEGA characters along with a few outside guests on tracks inspired
-            by SEGA games. In this sequel the vehicles can transform into three different types when driven through
-            special gates: Kart form, Watercraft form, and Aircraft form, with different control styles for each. In
-            addition, many of the tracks transform, changing routes and vehicle types as the race continues.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Sonic - Lost World (USA)">
         <description>Sonic - Lost World (USA)</description>
         <year>2013</year>
         <developer>SEGA</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.75</score>
         <genre>Platform</genre>
         <players>1</players>
@@ -1786,7 +1694,7 @@
         <description>Sonic Boom - Rise of Lyric (USA)</description>
         <year>2014</year>
         <developer>SEGA</developer>
-        <publisher>Big Red Button</publisher>
+        <manufacturer>Big Red Button</manufacturer>
         <score>0.45</score>
         <genre>Platform</genre>
         <players>1</players>
@@ -1802,35 +1710,32 @@
     </game>
     <game name="Splatoon (USA)">
         <description>Splatoon (USA)</description>
-        <year>2015</year>
-        <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.85</score>
-        <genre>Lightgun Shooter</genre>
-        <players>4+</players>
-        <story>Splatter enemies and claim your turf as the ink-spewing, squid-like characters called Inklings in
-            Nintendo's third-person action shooter game. Challenge your friends in chaotic four-on-four matches, in
-            which the goal is to get your ink on as many places as possible and claim your turf, all while strategically
-            submerging yourself in your team's colors and blasting your enemies.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="SpongeBob SquarePants - Plankton's Robotic Revenge (USA)">
         <description>SpongeBob SquarePants - Plankton's Robotic Revenge (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Star Fox Guard (USA)">
         <description>Star Fox Guard (USA)</description>
         <year>2016</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score></score>
+        <manufacturer>Nintendo</manufacturer>
+        <score>NA</score>
         <genre>Strategy</genre>
-        <players></players>
+        <players>NA</players>
         <story>Star Fox Guard est un jeu de type "Tower Defense" en 3D dans lequel les joueurs doivent protéger diverses
             bases appartenant à l'oncle de Slippy Toad, Grippy. en surveillant les caméras de sécurité. L'écran de
             télévision affiche des images de toutes les caméras de sécurité disponibles tandis que le GamePad Wii U
@@ -1844,66 +1749,51 @@
     </game>
     <game name="Star Fox Zero (USA)">
         <description>Star Fox Zero (USA)</description>
-        <year>2016</year>
-        <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.7</score>
-        <genre>Adventure</genre>
-        <players>1-2</players>
-        <story>O Lylat System está em apuros! Junta-te a Fox, Falco, Peppy e Slippy enquanto lutas para proteger a
-            galáxia em Star Fox Zero, um épico shooter em 3D apenas para Wii U. Lidera a equipa de Star Fox por planetas
-            exóticos com lutas renhidas e onde tu e os teus companheiros deverão competir contra Andross, o malévolo
-            império invasor.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Super Mario 3D World (USA)">
         <description>Super Mario 3D World (USA)</description>
         <year>2013</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.9</score>
+        <manufacturer>Nintendo</manufacturer>
+        <score>0.95</score>
         <genre>Platform</genre>
-        <players>4+</players>
-        <story>Whilst exploring the Mushroom Kingdom, Mario, Luigi, Princess Peach, and Toad come across a strange clear
-            pipe, which a curious green fairy-like creature, called a Sprixie, pops out of. Suddenly, Bowser appears and
-            captures the fairy before escaping through the pipe. Thus, Mario and friends enter the pipe to pursue
-            Bowser, and find themselves in the strange new Sprixie Kingdom as they search for the Sprixie, along with
-            some of her other companions.</story>
+        <players>4</players>
+        <story>NA</story>
     </game>
     <game name="Super Mario Maker (USA)">
         <description>Super Mario Maker (USA)</description>
-        <year>2015</year>
+        <year>2013</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.9</score>
         <genre>Platform</genre>
-        <players>1</players>
-        <story>Super Mario Maker lets people's imaginations run wild. For the first time ever, friends can have fun
-            playing through levels they create for one another. The Wii U GamePad controller makes it so easy for anyone
-            to create levels; it may feel like simply sketching out ideas on paper. Players can enjoy a seemingly
-            endless supply of inventive Mario levels from players around the world.</story>
+        <players>4</players>
+        <story>NA</story>
     </game>
     <game name="Super Smash Bros. for Wii U (USA)">
         <description>Super Smash Bros. for Wii U (USA)</description>
         <year>2014</year>
         <developer>Nintendo</developer>
-        <publisher>Sora Ltd.</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.9</score>
         <genre>Fighting</genre>
-        <players>4+</players>
-        <story>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new
-            faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
-
-            Up to four players can battle each other locally or online across beautifully designed stages inspired by
-            classic Nintendo home console games. With a variety of control options and amiibo compatibility, the
-            timeless Super Smash Bros. battles come alive.</story>
+        <players>4</players>
+        <story>NA</story>
     </game>
     <game name="Tank! Tank! Tank! (USA)">
         <description>Tank! Tank! Tank! (USA)</description>
         <year>2012</year>
         <developer>Bandai Namco</developer>
-        <publisher>Bandai Namco</publisher>
+        <manufacturer>Bandai Namco</manufacturer>
         <score>0.5</score>
-        <genre></genre>
+        <genre>NA</genre>
         <players>4</players>
         <story>TANK! TANK! TANK! is an action / arcade game on Wii U that invites the player to take control of a small
             tank to face hordes of opponents in closed arenas. It is possible to increase the characteristics of his
@@ -1911,21 +1801,21 @@
     </game>
     <game name="Tekken Tag Tournament 2 - Wii U Edition (USA)">
         <description>Tekken Tag Tournament 2 - Wii U Edition (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>2012</year>
+        <developer>Namco</developer>
+        <manufacturer>Namco</manufacturer>
+        <score>0.8</score>
+        <genre>Fighter</genre>
+        <players>2</players>
+        <story>NA</story>
     </game>
     <game name="Teslagrad (Europe)">
         <description>Teslagrad (Europe)</description>
         <year>2014</year>
         <developer>Rain Games</developer>
-        <publisher>Rain Games</publisher>
+        <manufacturer>Rain Games</manufacturer>
         <score>0.95</score>
-        <genre>Platform-Puzzle-Game</genre>
+        <genre>Platform</genre>
         <players>1</players>
         <story>Teslagrad is a 2D puzzle platformer with action elements, where magnetism and other electromagnetic
             powers are the key to go throughout the game, and thereby discover the secrets kept in the long abandoned
@@ -1940,22 +1830,22 @@
     </game>
     <game name="Tom Clancy's Splinter Cell - Blacklist (USA)">
         <description>Tom Clancy's Splinter Cell - Blacklist (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Transformers - Rise of the Dark Spark (USA)">
         <description>Transformers - Rise of the Dark Spark (USA)</description>
         <year>2014</year>
         <developer>Activision</developer>
-        <publisher>Edge Of Reality</publisher>
+        <manufacturer>Edge Of Reality</manufacturer>
         <score>0.45</score>
-        <genre></genre>
-        <players></players>
+        <genre>NA</genre>
+        <players>NA</players>
         <story>Transformers: Rise of the Dark Spark is an action game on Wii U. The player plays alternately Autobots
             and Decepticons in their quest for Dark Spark, a relic as powerful as evil. This leads them as well on Earth
             as on Cybertron.</story>
@@ -1964,10 +1854,10 @@
         <description>Transformers Prime - The Game (USA)</description>
         <year>2012</year>
         <developer>Activision</developer>
-        <publisher>Nowpro</publisher>
+        <manufacturer>Nowpro</manufacturer>
         <score>0.6</score>
-        <genre></genre>
-        <players></players>
+        <genre>NA</genre>
+        <players>NA</players>
         <story>Transformers Prime: The Game is an action game on Wii U. Inspired by the TV series of the same name, it
             offers to follow the war between Autobots and Decepticons by incarnating alternately the members of Team
             Prime that are Optimus Prime, Ratchet, Arcee, Bumblebee and Bulkhead. Two players can also compete locally
@@ -1975,69 +1865,59 @@
     </game>
     <game name="Turbo - Super Stunt Squad (USA)">
         <description>Turbo - Super Stunt Squad (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Voice, The - I Want You (USA)">
         <description>Voice, The - I Want You (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Walking Dead, The - Survival Instinct (USA)">
         <description>Walking Dead, The - Survival Instinct (USA)</description>
-        <year></year>
-        <developer></developer>
-        <publisher></publisher>
-        <score></score>
-        <genre></genre>
-        <players></players>
-        <story></story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Warriors Orochi 3 Hyper (USA)">
         <description>Warriors Orochi 3 Hyper (USA)</description>
         <year>2012</year>
         <developer>Tecmo</developer>
-        <publisher>Tecmo</publisher>
+        <manufacturer>Tecmo</manufacturer>
         <score>0.8</score>
-        <genre>Beat'em Up</genre>
-        <players></players>
-        <story></story>
+        <genre>Beat-'Em-Up</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Watch Dogs (USA)">
         <description>Watch Dogs (USA)</description>
-        <year>2014</year>
-        <developer>Ubisoft</developer>
-        <publisher></publisher>
-        <score>0.75</score>
-        <genre>Adventure</genre>
-        <players>8</players>
-        <story>The storyline of Watch Dogs game is built around the concept of information warfare, data being
-            interconnected, and the world's increasing use of technology?questioning who exactly runs the computers they
-            depend on. The game is set in an alternate reality version of Chicago, Illinois, which is one of many cities
-            to feature a supercomputer known as a "CtOS" (Central Operating System). The system controls almost every
-            piece of technology in the city, and contains information on all of the city's residents and activities
-            which can be used for various purposes. In the game's universe, the Northeast blackout of 2003 was found to
-            be caused by a hacker, prompting the development of CtOS. The game will follow a man named Aiden Pearce, a
-            highly skilled hacker described as a person who uses both "fists and wits." The gameplay demo shown at E3
-            2012 depicted Aiden's attempt to assassinate a media mogul named Joseph DeMarco, who had been wrongly
-            acquitted on charges of murder. In a demonstration shown at E3 2013, Pearce helps a fellow hacker named
-            T-Bone escape after he is discovered attempting to steal a motherboard.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Wheel of Fortune (USA)">
         <description>Wheel of Fortune (USA)</description>
-        <year></year>
+        <year>NA</year>
         <developer>THQ</developer>
-        <publisher>THQ</publisher>
+        <manufacturer>THQ</manufacturer>
         <score>0.5</score>
         <genre>Puzzle</genre>
         <players>4+</players>
@@ -2047,10 +1927,10 @@
         <description>Wii Fit U (USA)</description>
         <year>2013</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.85</score>
         <genre>Various</genre>
-        <players></players>
+        <players>NA</players>
         <story>Wii Fit U is a fitness game for the balance board peripheral. Game modes include Yoga, Strength training,
             Aerobics, Dance and Balance games.
 
@@ -2061,7 +1941,7 @@
         <description>Wii Party U (USA)</description>
         <year>2013</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.8</score>
         <genre>Casual Game</genre>
         <players>1-4</players>
@@ -2074,10 +1954,10 @@
         <description>Wii Sports Club (USA)</description>
         <year>2014</year>
         <developer>Nintendo</developer>
-        <publisher>Nintendo</publisher>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.45</score>
         <genre>Sports</genre>
-        <players></players>
+        <players>NA</players>
         <story>Play your favorite Wii Sports games on the Wii U console! With Wii Sports Club, you can now take the
             competition online with tennis, bowling and golf - baseball and boxing are coming soon. Join a club, compete
             against other clubs from around your region, or play online multiplayer with your friends. You can also use
@@ -2087,19 +1967,19 @@
         <description>Wipeout - Create &amp; Crash (USA)</description>
         <year>2013</year>
         <developer>Behaviour Interactive</developer>
-        <publisher>Activision</publisher>
-        <score></score>
+        <manufacturer>Activision</manufacturer>
+        <score>NA</score>
         <genre>Casual Game</genre>
-        <players></players>
+        <players>NA</players>
         <story>Wipeout Create &amp; Crash is a party game on Wii U inspired by the TV show Wipeout. In this game,
             candidates face an obstacle course in a colourful and lively world. For the first time, it is possible to
             create your own courses thanks to the editor provided for this purpose.</story>
     </game>
     <game name="Wipeout 3 (USA)">
         <description>Wipeout 3 (USA)</description>
-        <year></year>
+        <year>NA</year>
         <developer>Activision</developer>
-        <publisher>Activision</publisher>
+        <manufacturer>Activision</manufacturer>
         <score>0.4</score>
         <genre>Sports</genre>
         <players>4+</players>
@@ -2108,85 +1988,64 @@
     </game>
     <game name="Wonderful 101, The (USA)">
         <description>Wonderful 101, The (USA)</description>
-        <year>2013</year>
-        <developer>PlatinumGames</developer>
-        <publisher>Nintendo</publisher>
-        <score>0.9</score>
-        <genre>Action</genre>
-        <players>1</players>
-        <story>Earth is under attack from an invasion of enormous aliens, and the only thing that can protect the planet
-            is a group of unlikely, yet mighty, heroes with special abilities. Unfortunately, the aliens are too
-            powerful for the heroes to fight individually. They must join forces and work together to defeat their
-            common enemy. These uniquely different heroes can morph into powerful weapons to crush the invaders or turn
-            into objects like a giant fist or bridge to interact with and traverse the environments.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Xenoblade Chronicles X (USA)">
         <description>Xenoblade Chronicles X (USA)</description>
-        <year>2015</year>
-        <developer>Monolith Soft</developer>
-        <publisher>Monolith Soft</publisher>
-        <score></score>
-        <genre>RPG</genre>
-        <players>1</players>
-        <story>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade
-            Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just
-            a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in
-            battles against powerful creatures of all forms and sizes using the deep battle system that builds on the
-            triumphs of the team's previous RPG adventures.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Yoshi's Woolly World (USA)">
         <description>Yoshi's Woolly World (USA)</description>
         <year>2015</year>
-        <developer>Good Feel</developer>
-        <publisher>Nintendo</publisher>
+        <developer>Nintendo</developer>
+        <manufacturer>Nintendo</manufacturer>
         <score>0.8</score>
         <genre>Platform</genre>
-        <players>4+</players>
-        <story>Yoshi's Woolly World is a platform game in which the player assumes the role of Yoshi. Similar to
-            developer Good-Feel's previous title Kirby's Epic Yarn, the game is set in a world where the characters and
-            environment are composed of yarn and cloth. Yoshi retains much of his moveset from the Yoshi's Island series
-            of games, including using his tongue to swallow enemies and using his flutter jump to reach hard areas, and
-            many elements such as flowers and mystery clouds return. However, unlike other games where swallowing
-            enemies would produce eggs which Yoshi could then throw, Yoshi instead produces balls of yarn.</story>
+        <players>2</players>
+        <story>NA</story>
     </game>
     <game name="Your Shape - Fitness Evolved 2013 (USA)">
         <description>Your Shape - Fitness Evolved 2013 (USA)</description>
         <year>2012</year>
         <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
+        <manufacturer>Ubisoft</manufacturer>
         <score>0.55</score>
         <genre>Sports</genre>
-        <players></players>
+        <players>NA</players>
         <story>Your Shape: Fitness Evolved 2013 is a coaching game available on Wii U. The player can create his sport
             program by choosing a specific goal, such as lose weight, relax or have fun. The exercises, varied, are
             based on dance, fitness, kickboxing, yoga or even muscle building and cardio training.</story>
     </game>
     <game name="ZombiU (USA)">
         <description>ZombiU (USA)</description>
-        <year>2012</year>
-        <developer>Ubisoft</developer>
-        <publisher>Ubisoft</publisher>
-        <score>0.85</score>
-        <genre>Action</genre>
-        <players>1-4</players>
-        <story>Developed by Ubisoft Montpellier, the studio behind critically acclaimed titles like From Dust, Beyond
-            Good &amp; Evil and, Ghost Recon Advanced Warfighter, ZombiU puts players in the middle of London circa
-            2012, where an outbreak has infected the population, destroying their humanity and turning them into
-            mindless monsters preying on the flesh of the few remaining survivors. This fear-fueled first-person shooter
-            invites takes all the horror, chaos and tension found in the best of the horror genre and adds original
-            interactive elements, including a unique death mechanic that puts players in the body of a different
-            survivor each time they die, allowing them to track and take down their old, infected characters, recover
-            their equipment and see if they can stay alive just a little bit longer this time.</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
     <game name="Zumba Fitness World Party (USA)">
         <description>Zumba Fitness World Party (USA)</description>
-        <year>2013</year>
-        <developer>Zoë Mode</developer>
-        <publisher>505 Games</publisher>
-        <score>0.45</score>
-        <genre>Music and Dance</genre>
-        <players>2</players>
-        <story>Zumba Fitness: World Party (a.k.a Zumba Fitness 4) is the fourth and final video game in the installment
-            of the Fitness series, with this game being the sequel to Zumba Fitness Core</story>
+        <year>NA</year>
+        <developer>NA</developer>
+        <manufacturer>NA</manufacturer>
+        <score>NA</score>
+        <genre>NA</genre>
+        <players>NA</players>
+        <story>NA</story>
     </game>
 </menu>
