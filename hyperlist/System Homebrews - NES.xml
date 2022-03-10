@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<header>
+		<listname>NES Homebrews</listname>
+		<lastlistupdate>12/12/2020</lastlistupdate>
+		<listversion>2.1</listversion>
+		<exporterversion>Excel 2020
+Copywrite (c) 2020 Signum</exporterversion>
+	</header>
+	<game name="Alter Ego (World) (Unl)" index="true" image="a">
+		<description>Alter Ego (World) (Unl)</description>
+		<manufacturer>Shiru</manufacturer>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Assimilate (USA) (Unl)">
+		<description>Assimilate (USA) (Unl)</description>
+		<manufacturer>Nessylum Games</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blade Buster (World) (Unl)" index="true" image="b">
+		<description>Blade Buster (World) (Unl)</description>
+		<manufacturer>HLC Project</manufacturer>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomb Sweeper (World) (Unl)">
+		<description>Bomb Sweeper (World) (Unl)</description>
+		<manufacturer>Snowbro Software</manufacturer>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Box Boy (World) (Unl)">
+		<description>Box Boy (World) (Unl)</description>
+		<manufacturer>Neal Tew</manufacturer>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chase (World) (Unl)" index="true" image="c">
+		<description>Chase (World) (Unl)</description>
+		<manufacturer>Shiru</manufacturer>
+		<genre>Maze</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="D-Pad Hero (World) (Unl)" index="true" image="d">
+		<description>D-Pad Hero (World) (Unl)</description>
+		<manufacturer>Kent Hansen and Andreas Pedersen</manufacturer>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="D-Pad Hero 2 (World) (Unl)">
+		<description>D-Pad Hero 2 (World) (Unl)</description>
+		<manufacturer>Kent Hansen and Andreas Pedersen</manufacturer>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Driar (Europe) (Unl)">
+		<description>Driar (Europe) (Unl)</description>
+		<manufacturer>Stefan Adolfsson and David Eriksson</manufacturer>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jet-Paco (Europe) (Unl)" index="true" image="j">
+		<description>Jet-Paco (Europe) (Unl)</description>
+		<manufacturer>Mojon Twins</manufacturer>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lan Master (World) (Unl)" index="true" image="l">
+		<description>Lan Master (World) (Unl)</description>
+		<manufacturer>Shiru</manufacturer>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lawn Mower (World) (Unl)">
+		<description>Lawn Mower (World) (Unl)</description>
+		<manufacturer>Shiru</manufacturer>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MultiDude (World) (Unl)" index="true" image="m">
+		<description>MultiDude (World) (Unl)</description>
+		<manufacturer>RetroSouls</manufacturer>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NES Virus Cleaner (USA) (Unl)" index="true" image="n">
+		<description>NES Virus Cleaner (USA) (Unl)</description>
+		<manufacturer>Sly Dog Studios</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NeSnake 2 (USA) (Unl)">
+		<description>NeSnake 2 (USA) (Unl)</description>
+		<manufacturer>Matrixz</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall - The Unofficial Adventure (World) (Unl)" index="true" image="p">
+		<description>Pitfall - The Unofficial Adventure (World) (Unl)</description>
+		<manufacturer>Neverware</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ROM City Rampage (World) (Unl)" index="true" image="r">
+		<description>ROM City Rampage (World) (Unl)</description>
+		<manufacturer>Vblank Entertainment</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sgt. Helmet - Training Day (Europe) (Unl)" index="true" image="s">
+		<description>Sgt. Helmet - Training Day (Europe) (Unl)</description>
+		<manufacturer>Mojon Twins</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sir Ababol (Europe) (Unl)">
+		<description>Sir Ababol (Europe) (Unl)</description>
+		<manufacturer>Mojon Twins</manufacturer>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solar Wars (World) (Unl)">
+		<description>Solar Wars (World) (Unl)</description>
+		<manufacturer>Chris M. Cowell</manufacturer>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sting (World) (Unl)">
+		<description>Sting (World) (Unl)</description>
+		<manufacturer>Smkdan</manufacturer>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sudoku (World) (Unl)">
+		<description>Sudoku (World) (Unl)</description>
+		<manufacturer>Al Bailey</manufacturer>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thwaite (World) (Unl)" index="true" image="t">
+		<description>Thwaite (World) (Unl)</description>
+		<manufacturer>Tepples</manufacturer>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiger Jenny (World) (Unl)">
+		<description>Tiger Jenny (World) (Unl)</description>
+		<manufacturer>Ludosity</manufacturer>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zooming Secretary (World) (Unl)" index="true" image="z">
+		<description>Zooming Secretary (World) (Unl)</description>
+		<manufacturer>Shiru</manufacturer>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <game name="Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST)" enabled="1" index="" image="">
+    <description>Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Puzzle</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="Crayon Shin Chan - Nagagutsu Dobon (J) (ST)" enabled="1" index="true" image="c">
+    <description>Crayon Shin Chan - Nagagutsu Dobon</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Miscellaneous</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="Gegege no Kitarou - Youkai Donjara (J) (ST)" enabled="1" index="true" image="g">
+    <description>Gegege no Kitarou - Youkai Donjara</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Action</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="Gekisou Sentai Car Rangers (J) (ST)" enabled="1" index="" image="">
+    <description>Gekisou Sentai Car Rangers</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Beat-'Em-Up</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="Poi Poi Ninjya World (J) (ST)" enabled="1" index="true" image="p">
+    <description>Poi Poi Ninjya World</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Action</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Gundam Generations 1 Nen Sensouki" enabled="1" index="true" image="s">
+    <description>SD Gundam Generations 1 Nen Sensouki</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Strategy</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Gundam Generations 2 Guripus Senki" enabled="1" index="" image="">
+    <description>SD Gundam Generations 2 Guripus Senki</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Strategy</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Gundam Generations 3 Axiz Senki" enabled="1" index="" image="">
+    <description>SD Gundam Generations 3 Axiz Senki</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Strategy</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Gundam Generations 4 Babironia Kenkoku Senki" enabled="1" index="" image="">
+    <description>SD Gundam Generations 4 Babironia Kenkoku Senki</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Strategy</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Gundam Generations 5 Zansukaru Senki" enabled="1" index="" image="">
+    <description>SD Gundam Generations 5 Zansukaru Senki</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Strategy</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Gundam Generations 6 Colony Kakutouki" enabled="1" index="" image="">
+    <description>SD Gundam Generations 6 Colony Kakutouki</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Strategy</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Ultra Battle - Seven &amp; Ultraman (J) (ST)" enabled="1" index="" image="">
+    <description>SD Ultra Battle - Seven &amp; Ultraman</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Beat-'Em-Up</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Ultra Battle - Seven Densetsu (J) (ST)" enabled="1" index="" image="">
+    <description>SD Ultra Battle - Seven Densetsu</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Beat-'Em-Up</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Ultra Battle - Ultraman &amp; Seven (J) (ST)" enabled="1" index="" image="">
+    <description>SD Ultra Battle - Ultraman &amp; Seven</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Beat-'Em-Up</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+  <game name="SD Ultra Battle - Ultraman Densetsu (J) (ST)" enabled="1" index="" image="">
+    <description>SD Ultra Battle - Ultraman Densetsu</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <genre>Beat-'Em-Up</genre>
+    <year>1996</year>
+    <rating />
+  </game>
+</menu>

@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Pinball Arcade v1.38.10</listname>
+    <lastlistupdate>05/30/2015</lastlistupdate>
+    <listversion>2.01</listversion>
+    <exporterversion>marxkemp</exporterversion>
+  </header>
+	<game name="Addams Family, The (Bally)" index="" image="">
+		<description>Addams Family, The (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Al&apos;s Garage Band goes on a World Tour (Alvin G)">
+		<description>Al&apos;s Garage Band goes on a World Tour (Alvin G)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alvin G</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Attack From Mars (Bally)">
+		<description>Attack From Mars (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Banzai Run (Williams)">
+		<description>Banzai Run (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Big Shot (Gottlieb)">
+		<description>Big Shot (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Black Hole (Gottlieb)">
+		<description>Black Hole (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1981</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Black Knight (Williams)">
+		<description>Black Knight (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1980</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Black Knight 2000 (Williams)">
+		<description>Black Knight 2000 (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Black Rose (Bally)">
+		<description>Black Rose (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>	
+        </game>
+	<game name="Bone Busters Inc. (Gottlieb)">
+		<description>Bone Busters Inc. (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1989</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Bram Stoker&apos;s Dracula (Williams)">
+		<description>Bram Stoker&apos;s Dracula (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Bride of Pin-Bot (Williams)">
+		<description>Bride of Pin-Bot (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Cactus Canyon (Bally)">
+		<description>Cactus Canyon (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1998</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Cactus Jack&apos;s (Premier)">
+		<description>Cactus Jack&apos;s (Premier)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Premier</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Centaur (Bally)">
+		<description>Centaur (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1981</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Central Park (Gottlieb)">
+		<description>Central Park (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1966</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Centigrade 37 (Gottlieb)">
+		<description>Centigrade 37 (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Champion Pub, The (Bally)">
+		<description>Champion Pub, The (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1998</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Cirqus Voltaire (Bally)">
+		<description>Cirqus Voltaire (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1997</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Class of 1812 (Gottlieb)">
+		<description>Class of 1812 (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Creature from the Black Lagoon (Bally)">
+		<description>Creature from the Black Lagoon (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Cue Ball Wizard (Premier)">
+		<description>Cue Ball Wizard (Premier)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Premier</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Cyclone (Williams)">
+		<description>Cyclone (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Diner (Williams)">
+		<description>Diner (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Doctor Who (Midway)">
+		<description>Doctor Who (Midway)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Doctor Who - Master of Time (FarSight)">
+		<description>Doctor Who - Master of Time (FarSight)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>FarSight</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Dr. Dude &amp; His Excellent Ray (Bally)">
+		<description>Dr. Dude &amp; His Excellent Ray (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1990</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Earthshaker (Williams)">
+		<description>Earthshaker (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Eight Ball Deluxe (Bally)">
+		<description>Eight Ball Deluxe (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1981</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="El Dorado (Gottlieb)">
+		<description>El Dorado (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="El Dorado - City Of Gold (Gottlieb)">
+		<description>El Dorado - City of Gold (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Elvira and the Party Monsters (Bally)">
+		<description>Elvira and the Party Monsters (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1989</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="F-14 Tomcat (Williams)">
+		<description>F-14 Tomcat (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1987</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Fathom (Bally)">
+		<description>Fathom (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1981</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Fireball (Bally)">
+		<description>Fireball (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1972</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Firepower (Williams)">
+		<description>Firepower (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1980</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Firepower II (Williams)">
+		<description>Firepower II (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1983</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Fish Tales (Williams)">
+		<description>Fish Tales (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Flight 2000 (Stern)">
+		<description>Flight 2000 (Stern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1980</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Frank Thomas&apos; Big Hurt (Premier)">
+		<description>Frank Thomas&apos; Big Hurt (Premier)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Premier</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="FunHouse (Williams)">
+		<description>FunHouse (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Gladiators (Gottlieb)">
+		<description>Gladiators (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Genie (Gottlieb)">
+		<description>Genie (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1979</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Getaway, The - High Speed II (Williams)">
+		<description>Getaway, The - High Speed II (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Ghostbusters (Stern)">
+		<description>Ghostbusters (Stern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Goin&apos; Nuts (Gottlieb)">
+		<description>Goin&apos; Nuts (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1983</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Gorgar (Williams)">
+		<description>Gorgar (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1979</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Harley-Davidson, 3rd Edition (Stern)">
+		<description>Harley-Davidson, 3rd Edition (Stern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1999</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Haunted House (Gottlieb)">
+		<description>Haunted House (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1982</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="High Roller Casino (Stern)">
+		<description>High Roller Casino (Stern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2001</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="High Speed (Williams)">
+		<description>High Speed (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1986</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Hurricane (Williams)">
+		<description>Hurricane (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Indianapolis 500 (Bally)">
+		<description>Indianapolis 500 (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Jack-Bot (Williams)">
+		<description>Jack-Bot (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Jacks Open (Gottlieb)">
+		<description>Jacks Open (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Judge Dredd (Bally)">
+		<description>Judge Dredd (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Junk Yard (Williams)">
+		<description>Junk Yard (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1996</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Last Action Hero (Data East)">
+		<description>Last Action Hero (Data East)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Lights... Camera... Action! (Gottlieb)">
+		<description>Lights... Camera... Action! (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1989</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Mary Shelley's Frankenstein (Sega)">
+		<description>Mary Shelley's Frankenstein (Sega)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Medieval Madness (Williams)">
+		<description>Medieval Madness (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1997</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Monster Bash (Williams)">
+		<description>Monster Bash (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1998</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="No Fear - Dangerous Sports (Williams)">
+		<description>No Fear - Dangerous Sports (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="No Good Gofers (Williams)">
+		<description>No Good Gofers (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1997</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Paragon (Bally)">
+		<description>Paragon (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1979</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Party Zone (Bally)">
+		<description>Party Zone (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Phantom of the Opera, The (Data East)">
+		<description>Phantom of the Opera, The (Data East)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Pin-Bot (Williams)">
+		<description>Pin-Bot (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1986</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Pistol Poker (Alvin G)">
+		<description>Pistol Poker (Alvin G)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alvin G</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Red &amp; Ted&apos;s Roadshow (Williams)">
+		<description>Red &amp; Ted&apos;s Roadshow (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1994</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Rescue 911 (Premier)">
+		<description>Rescue 911 (Premier)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Premier</manufacturer>
+		<year>1994</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Ripley&apos;s Believe It or Not! (Stern)">
+		<description>Ripley&apos;s Believe It or Not! (Stern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2004</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Safe Cracker (Bally)">
+		<description>Safe Cracker (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1996</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Scared Stiff (Bally)">
+		<description>Scared Stiff (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1996</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Sorcerer (Williams)">
+		<description>Sorcerer (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Space Shuttle (Williams)">
+		<description>Space Shuttle (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Spanish Eyes (Williams)">
+		<description>Spanish Eyes (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1972</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Star Trek - The Next Generation (Williams)">
+		<description>Star Trek: The Next Generation (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Swords of Fury (Williams)">
+		<description>Swords of Fury (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Starship Troopers (Stern)">
+		<description>Starship Troopers (Stern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1997</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Tales of the Arabian Nights (Williams)">
+		<description>Tales of the Arabian Nights (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1996</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Taxi (Williams)">
+		<description>Taxi (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Tee&apos;d Off (Gottlieb)">
+		<description>Tee&apos;d Off (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Terminator 2 - Judgment Day (Williams)">
+		<description>Terminator 2: Judgment Day (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Theatre of Magic (Bally)">
+		<description>Theatre of Magic (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Twilight Zone (Bally)">
+		<description>Twilight Zone (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="TX-Sector (Premier)">
+		<description>TX-Sector (Premier)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Premier</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Victory (Gottlieb)">
+		<description>Victory (Gottlieb)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1987</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Whirlwind (Williams)">
+		<description>Whirlwind (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="White Water (Williams)">
+		<description>White Water (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="WHO Dunnit (Bally)">
+		<description>WHO Dunnit (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Wild Card (Williams)">
+		<description>Wild Card (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1977</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Wipe Out (Bally)">
+		<description>Wipe Out (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="World Cup Soccer (Bally)">
+		<description>World Cup Soccer (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1994</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+	<game name="Xenon (Bally)">
+		<description>Xenon (Bally)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally</manufacturer>
+		<year>1979</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>True</enabled>
+	</game>
+</menu>

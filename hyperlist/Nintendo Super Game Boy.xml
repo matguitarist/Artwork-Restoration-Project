@@ -1,0 +1,2612 @@
+<menu>
+  <game name="Adventures of Lolo (Europe)" index="" image="">
+    <description>Adventures of Lolo (Europe)</description>
+    <cloneof />
+    <crc>176d2eeb</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Aladdin (USA)" index="" image="">
+    <description>Aladdin (USA)</description>
+    <cloneof />
+    <crc>af6bdc50</crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Alfred Chicken (Japan)" index="" image="">
+    <description>Alfred Chicken (Japan)</description>
+    <cloneof />
+    <crc>3B9C3BC6</crc>
+    <manufacturer>Mindscape Inc.</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Alleyway (World)" index="" image="">
+    <description>Alleyway (World)</description>
+    <cloneof />
+    <crc>5cc01586</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1989 *special default palette</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Animaniacs (USA)" index="" image="">
+    <description>Animaniacs (USA)</description>
+    <cloneof />
+    <crc>673c815d</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1995 *Custom SGB Music, palette changes disabled</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Another Bible (Japan) (Translated En)" index="" image="">
+    <description>Another Bible (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>2B85A983</crc>
+    <manufacturer>Dice</manufacturer>
+    <year>1995</year>
+    <genre>Strategy</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe)" index="" image="">
+    <description>Arcade Classic No. 1: Asteroids &amp; Missile Command (USA, Europe)</description>
+    <cloneof />
+    <crc>8259ac54</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe)" index="" image="">
+    <description>Arcade Classic No. 2: Centipede &amp; Millipede (USA, Europe)</description>
+    <cloneof />
+    <crc>b14c3b31</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Shooter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Arcade Classic No. 3 - Galaga &amp; Galaxian (USA)" index="" image="">
+    <description>Arcade Classic No. 3: Galaga &amp; Galaxian (USA)</description>
+    <cloneof />
+    <crc>6a6ecfec</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe)" index="" image="">
+    <description>Arcade Classic No. 4: Defender &amp; Joust (USA, Europe)</description>
+    <cloneof />
+    <crc>1c829ce3</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe)" index="" image="">
+    <description>Arcade Classics: Battlezone &amp; Super Breakout (USA, Europe)</description>
+    <cloneof />
+    <crc>6c292739</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996 *Multiple Borders</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Asterix &amp; Obelix (Europe)" index="" image="">
+    <description>Asterix &amp; Obelix (Europe)</description>
+    <cloneof />
+    <crc>B1FD41D0</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Azure Dreams (USA)" index="" image="">
+    <description>Azure Dreams (USA)</description>
+    <cloneof />
+    <crc>71d52876</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Balloon Fight GB (Japan) (Translated En)" index="" image="">
+    <description>Balloon Fight GB (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>0F3FB0F1</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Baseball (World)" index="" image="">
+    <description>Baseball (World)</description>
+    <cloneof />
+    <crc>6eea2526</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1989 *special default palette</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Battle Arena Toshinden (USA)" index="" image="">
+    <description>Battle Arena Toshinden (USA)</description>
+    <cloneof />
+    <crc>2d0c1073</crc>
+    <manufacturer>Takara</manufacturer>
+    <year>1996 *Two Player Mode</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Battle Crusher (Japan)" index="" image="">
+    <description>Battle Crusher (Japan)</description>
+    <cloneof />
+    <crc>EA4EB1A1</crc>
+    <manufacturer>Sun L</manufacturer>
+    <year>1995</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Beauty and the Beast - A Board Game Adventure (USA)" index="" image="">
+    <description>Beauty and the Beast: A Board Game Adventure (USA)</description>
+    <cloneof />
+    <crc>6de1d581</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Board Games</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Beethoven - The Ultimate Canine Caper (Europe)" index="" image="">
+    <description>Beethoven: The Ultimate Canine Caper (Europe)</description>
+    <cloneof />
+    <crc>637E54E3</crc>
+    <manufacturer>Tech Expressions</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Blaster Master - Enemy Below (USA, Europe)" index="" image="">
+    <description>Blaster Master: Enemy Below (USA, Europe)</description>
+    <cloneof />
+    <crc>2f91e17c</crc>
+    <manufacturer>SunSoft</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Block Kuzushi GB (Japan) (Translated En)" index="" image="">
+    <description>Block Kuzushi GB (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>3EAC3273</crc>
+    <manufacturer>OeRSTED</manufacturer>
+    <year>1995</year>
+    <genre>Breakout</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomber Man GB 3 (Japan) (Translated En)" index="" image="">
+    <description>Bomber Man GB 3 (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>3D348238</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1996</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomberman GB (USA, Europe)" index="" image="">
+    <description>Bomberman GB (USA, Europe)</description>
+    <cloneof />
+    <crc>f372d175</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998 * Multiplayer up to 4 players, Custom SGB SFX</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomberman Quest (USA)" index="" image="">
+    <description>Bomberman Quest (USA)</description>
+    <cloneof />
+    <crc>a089c656</crc>
+    <manufacturer>Electro Brain Corp.</manufacturer>
+    <year>1999</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bonk's Revenge (USA)" index="" image="">
+    <description>Bonk's Revenge (USA)</description>
+    <cloneof />
+    <crc>f1344b78</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1994 *special border featuring the Chikkuns </year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Brain Drain (USA)" index="" image="">
+    <description>Brain Drain (USA)</description>
+    <cloneof />
+    <crc>aff0b159</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bubble Bobble (USA, Europe)" index="" image="">
+    <description>Bubble Bobble (USA, Europe)</description>
+    <cloneof />
+    <crc>d516841d</crc>
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1991 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bug's Life, A (USA)" index="" image="">
+    <description>Bug's Life, A (USA)</description>
+    <cloneof />
+    <crc>8360047a</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Captain Tsubasa J - Zenkoku Seiha e no Chousen (Japan)" index="" image="">
+    <description>Captain Tsubasa J: Zenkoku Seiha e no Chousen (Japan)</description>
+    <cloneof />
+    <crc>33A1E1CF</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Castlevania Legends (USA, Europe)" index="" image="">
+    <description>Castlevania Legends (USA, Europe)</description>
+    <cloneof />
+    <crc>ad9c17fb</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Centipede (USA, Europe)" index="" image="">
+    <description>Centipede (USA, Europe)</description>
+    <cloneof />
+    <crc>245afcdc</crc>
+    <manufacturer>Accolade</manufacturer>
+    <year>1992 *special default palette</year>
+    <genre>Shooter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chase H.Q. - Secret Police (USA)" index="" image="">
+    <description>Chase H.Q.: Secret Police (USA)</description>
+    <cloneof />
+    <crc>7c7fdefc</crc>
+    <manufacturer>Metro3D</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Classic Bubble Bobble (USA)" index="" image="">
+    <description>Classic Bubble Bobble (USA)</description>
+    <cloneof />
+    <crc>c1b22246</crc>
+    <manufacturer>Metro3D</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Collection Pocket (Japan)" index="" image="">
+    <description>Collection Pocket (Japan)</description>
+    <cloneof />
+    <crc>34E62C8B</crc>
+    <manufacturer>Naxat Soft</manufacturer>
+    <year>1997</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Conker's Pocket Tales (USA, Europe)" index="" image="">
+    <description>Conker's Pocket Tales (USA, Europe)</description>
+    <cloneof />
+    <crc>a50be9a8</crc>
+    <manufacturer>Rare</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Contra - The Alien Wars (USA)" index="" image="">
+    <description>Contra: The Alien Wars (USA)</description>
+    <cloneof />
+    <crc>f1c81eb0</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1994</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Crayon Shin-chan - Ora no Gokigen Collection (Japan)" index="" image="">
+    <description>Crayon Shin-chan: Ora no Gokigen Collection (Japan)</description>
+    <cloneof />
+    <crc>DC723A9E</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1996</year>
+    <genre>Mini-Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan)" index="" image="">
+    <description>Crayon Shin-chan 4: Ora no Itazura Daihenshin (Japan)</description>
+    <cloneof />
+    <crc>37D4AA8C</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Cross Country Racing (Europe)" index="" image="">
+    <description>Cross Country Racing (Europe)</description>
+    <cloneof />
+    <crc>B7B91FE9</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Daffy Duck (USA)" index="" image="">
+    <description>Daffy Duck (USA)</description>
+    <cloneof />
+    <crc>13DD647D</crc>
+    <manufacturer>SunSoft</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Desert Strike - Return to the Gulf (USA)" index="" image="">
+    <description>Desert Strike: Return to the Gulf (USA)</description>
+    <cloneof />
+    <crc>6a702c32</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong (Japan, USA)" index="" image="">
+    <description>Donkey Kong (Japan, USA)</description>
+    <cloneof />
+    <crc>F777A5D8</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong Land (USA, Europe)" index="" image="">
+    <description>Donkey Kong Land (USA, Europe)</description>
+    <cloneof />
+    <crc>49dc0d37</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong Land 2 (USA, Europe)" index="" image="">
+    <description>Donkey Kong Land 2 (USA, Europe)</description>
+    <cloneof />
+    <crc>2827e5d4</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong Land III (USA, Europe)" index="" image="">
+    <description>Donkey Kong Land III (USA, Europe)</description>
+    <cloneof />
+    <crc>A19ACDB6</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Doraemon Kart (Japan) (Translated En)" index="" image="">
+    <description>Doraemon Kart (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>70AC5E95</crc>
+    <manufacturer>Epoch</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dr. Mario (World)" index="" image="">
+    <description>Dr. Mario (World)</description>
+    <cloneof />
+    <crc>f0225dd0</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1990 *special default palette</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dragon Dance (USA)" index="" image="">
+    <description>Dragon Dance (USA)</description>
+    <cloneof />
+    <crc>0602dbe1</crc>
+    <manufacturer>Crave</manufacturer>
+    <year>2000</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dragon Warrior I &amp; II (USA)" index="" image="">
+    <description>Dragon Warrior I &amp; II (USA)</description>
+    <cloneof />
+    <crc>71d693da</crc>
+    <manufacturer>Enix Corporation</manufacturer>
+    <year>2000 *Multiple Borders</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dragon Warrior Monsters (USA)" index="" image="">
+    <description>Dragon Warrior Monsters (USA)</description>
+    <cloneof />
+    <crc>e56c35b1</crc>
+    <manufacturer>Eidos Interactive</manufacturer>
+    <year>2000</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dragon Warrior Monsters 2 - Cobi's Journey (USA)" index="" image="">
+    <description>Dragon Warrior Monsters 2: Cobi's Journey (USA)</description>
+    <cloneof />
+    <crc>ab7bfdd5</crc>
+    <manufacturer>Enix</manufacturer>
+    <year>2001</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dragon Warrior Monsters 2 - Tara's Adventure (USA)" index="" image="">
+    <description>Dragon Warrior Monsters 2: Tara's Adventure (USA)</description>
+    <cloneof />
+    <crc>35ec5fb2</crc>
+    <manufacturer>Enix</manufacturer>
+    <year>2001</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Elite Soccer (USA)" index="" image="">
+    <description>Elite Soccer (USA)</description>
+    <cloneof />
+    <crc>f54158a6</crc>
+    <manufacturer>GameTek</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="F-1 Race (World)" index="true" image="f">
+    <description>F-1 Race (World)</description>
+    <cloneof />
+    <crc>ab83bd70</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1991 *special default palette</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA 2000 (USA, Europe)" index="" image="">
+    <description>FIFA 2000 (USA, Europe)</description>
+    <cloneof />
+    <crc>e6bc2e8c</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA International Soccer (USA, Europe)" index="" image="">
+    <description>FIFA International Soccer (USA, Europe)</description>
+    <cloneof />
+    <crc>e5989908</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA Road to the World Cup '98 (Europe)" index="" image="">
+    <description>FIFA Road to the World Cup '98 (Europe)</description>
+    <cloneof />
+    <crc>CDF6A5AC</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA Soccer '96 (USA, Europe)" index="" image="">
+    <description>FIFA Soccer '96 (USA, Europe)</description>
+    <cloneof />
+    <crc>af4a5de1</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA Soccer '97 (USA, Europe)" index="" image="">
+    <description>FIFA Soccer '97 (USA, Europe)</description>
+    <cloneof />
+    <crc>dcab906c</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1996 *Custom SGB Music</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Frisky Tom (Japan)" index="" image="">
+    <description>Frisky Tom (Japan)</description>
+    <cloneof />
+    <crc>0BEF84A1</crc>
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game &amp; Watch Gallery (USA)" index="true" image="g">
+    <description>Game &amp; Watch Gallery (USA)</description>
+    <cloneof />
+    <crc>9E6CDC96</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Compilation</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game &amp; Watch Gallery 2 (USA, Europe)" index="" image="">
+    <description>Game &amp; Watch Gallery 2 (USA, Europe)</description>
+    <cloneof />
+    <crc>969c8961</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998 *Multiple Borders</year>
+    <genre>Mini-Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game &amp; Watch Gallery 3 (USA, Europe)" index="" image="">
+    <description>Game &amp; Watch Gallery 3 (USA, Europe)</description>
+    <cloneof />
+    <crc>1ac625da</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999 *Multiple Borders</year>
+    <genre>Mini-Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Boy Gallery (Europe)" index="" image="">
+    <description>Game Boy Gallery (Europe)</description>
+    <cloneof />
+    <crc>263fd152</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Boy Gallery 2 (Australia)" index="" image="">
+    <description>Game Boy Gallery 2 (Australia)</description>
+    <cloneof />
+    <crc>6B09508F</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Boy Gallery 3 (Australia)" index="" image="">
+    <description>Game Boy Gallery 3 (Australia)</description>
+    <cloneof />
+    <crc>6935FEA1</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Boy Gallery 4 (Australia)" index="" image="">
+    <description>Game Boy Gallery 4 (Australia)</description>
+    <cloneof />
+    <crc>2549FDDE</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Boy Wars Turbo (Japan) (Translated En)" index="" image="">
+    <description>Game Boy Wars Turbo (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>73BD62E0</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1997</year>
+    <genre>Strategy</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Gamera - Daikaijuu Kuuchuu Kessen (Japan) (Translated En)" index="" image="">
+    <description>Gamera: Daikaijuu Kuuchuu Kessen (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>A84A08FC</crc>
+    <manufacturer>Kid</manufacturer>
+    <year>1995</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Genjin Cottsu (Japan)" index="" image="">
+    <description>Genjin Cottsu (Japan)</description>
+    <cloneof />
+    <crc>95E8FCB1</crc>
+    <manufacturer>Kid</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Go Go Ackman (Japan)" index="" image="">
+    <description>Go Go Ackman (Japan)</description>
+    <cloneof />
+    <crc>61D80946</crc>
+    <manufacturer>Banpresto</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="God Medicine - Hukkoku Ban (Japan) (Translated En)" index="" image="">
+    <description>God Medicine: Hukkoku Ban (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>DC8018B4</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1993</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Golf (World)" index="" image="">
+    <description>Golf (World)</description>
+    <cloneof />
+    <crc>6ed10383</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1990 *special default palette</year>
+    <genre>Sports/Golf</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Grand Theft Auto (USA)" index="" image="">
+    <description>Grand Theft Auto (USA)</description>
+    <cloneof />
+    <crc>924de366</crc>
+    <manufacturer>Rockstar Games</manufacturer>
+    <year>1999 *special default palette</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Gurander Musashi RV (Japan)" index="" image="">
+    <description>Gurander Musashi RV (Japan)</description>
+    <cloneof />
+    <crc>E97F2E9A</crc>
+    <manufacturer>TOSE</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Fishing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Harvest Moon 2 GBC (USA)" index="" image="">
+    <description>Harvest Moon 2 GBC (USA)</description>
+    <cloneof />
+    <crc>08906220</crc>
+    <manufacturer>Natsume</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Harvest Moon GB (USA)" index="" image="">
+    <description>Harvest Moon GB (USA)</description>
+    <cloneof />
+    <crc>ab5738a1</crc>
+    <manufacturer>Natsume</manufacturer>
+    <year>1998</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hello Kitty no Magical Museum (Japan) (Translated En)" index="" image="">
+    <description>Hello Kitty no Magical Museum (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>4065AE9E</crc>
+    <manufacturer>Imagineer</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hercules (USA, Europe)" index="" image="">
+    <description>Hercules (USA, Europe)</description>
+    <cloneof />
+    <crc>00A9001E</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hexcite - The Shapes of Victory (USA, Europe)" index="" image="">
+    <description>Hexcite: The Shapes of Victory (USA, Europe)</description>
+    <cloneof />
+    <crc>84084e5f</crc>
+    <manufacturer>Ubisoft</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hole In One Golf (USA)" index="" image="">
+    <description>Hole In One Golf (USA)</description>
+    <cloneof />
+    <crc>27a53965</crc>
+    <manufacturer>Natsume</manufacturer>
+    <year>1999</year>
+    <genre>Sports</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hot Wheels - Stunt Track Driver (USA)" index="" image="">
+    <description>Hot Wheels: Stunt Track Driver (USA)</description>
+    <cloneof />
+    <crc>72a5e820</crc>
+    <manufacturer>Mattel</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hugo (Europe)" index="" image="">
+    <description>Hugo (Europe)</description>
+    <cloneof />
+    <crc>74AA5E0F</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>1992</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe)" index="" image="">
+    <description>Hunchback of Notre Dame, The: 5 Foolishly Fun Topsy Turvy Games (USA, Europe)</description>
+    <cloneof />
+    <crc>3A4636FF</crc>
+    <manufacturer>Disney Interactive</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Indien dans la Ville, Un (France)" index="" image="">
+    <description>Indien dans la Ville, Un (France)</description>
+    <cloneof />
+    <crc>E37E1832</crc>
+    <manufacturer>Titus Software</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Initial D Gaiden (Japan)" index="" image="">
+    <description>Initial D Gaiden (Japan)</description>
+    <cloneof />
+    <crc>6CC56612</crc>
+    <manufacturer>Kodansha</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Rally (USA)" index="" image="">
+    <description>International Rally (USA)</description>
+    <cloneof />
+    <crc>b85fd752</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Superstar Soccer (USA, Europe)" index="" image="">
+    <description>International Superstar Soccer (USA, Europe)</description>
+    <cloneof />
+    <crc>94757be8</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Superstar Soccer 99 (USA)" index="" image="">
+    <description>International Superstar Soccer 99 (USA)</description>
+    <cloneof />
+    <crc>1b76d115</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Sports</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Track &amp; Field (USA)" index="" image="">
+    <description>International Track &amp; Field (USA)</description>
+    <cloneof />
+    <crc>803d5d57</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Sports</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ironman X-O Manowar in Heavy Metal (USA, Europe)" index="" image="">
+    <description>Ironman X-O Manowar in Heavy Metal (USA, Europe)</description>
+    <cloneof />
+    <crc>173232e5</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="James Bond 007 (USA, Europe)" index="" image="">
+    <description>James Bond 007 (USA, Europe)</description>
+    <cloneof />
+    <crc>ca3bc3ce</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jeopardy! - Platinum Edition (USA)" index="" image="">
+    <description>Jeopardy!: Platinum Edition (USA)</description>
+    <cloneof />
+    <crc>5206fd09</crc>
+    <manufacturer>GameTek</manufacturer>
+    <year>1996</year>
+    <genre>Quiz</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jeopardy! - Teen Tournament (USA)" index="" image="">
+    <description>Jeopardy!: Teen Tournament (USA)</description>
+    <cloneof />
+    <crc>cd3df0c1</crc>
+    <manufacturer>GameTek</manufacturer>
+    <year>1996</year>
+    <genre>Quiz</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="J-League Big Wave Soccer (Japan)" index="true" image="j">
+    <description>J-League Big Wave Soccer (Japan)</description>
+    <cloneof />
+    <crc>CDD02F22</crc>
+    <manufacturer>Jupiter Multimedia</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="J-League Live '95 (Japan)" index="" image="">
+    <description>J-League Live '95 (Japan)</description>
+    <cloneof />
+    <crc>F0321342</crc>
+    <manufacturer>Graphic Research</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jungle no Ouja Tarchan (Japan)" index="" image="">
+    <description>Jungle no Ouja Tarchan (Japan)</description>
+    <cloneof />
+    <crc>96555E9A</crc>
+    <manufacturer>Sun L</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jungle Strike (USA, Europe)" index="" image="">
+    <description>Jungle Strike (USA, Europe)</description>
+    <cloneof />
+    <crc>763ababb</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1995 *special default palette</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Karamuchou no Daijiken (Japan)" index="" image="">
+    <description>Karamuchou no Daijiken (Japan)</description>
+    <cloneof />
+    <crc>FA7EA8A0</crc>
+    <manufacturer>Starfish</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ken Griffey Jr. presents Major League Baseball (USA, Europe)" index="true" image="k">
+    <description>Ken Griffey Jr. presents Major League Baseball (USA, Europe)</description>
+    <cloneof />
+    <crc>0a9859c1</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Sports</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kid Icarus - Of Myths and Monsters (USA, Europe)" index="" image="">
+    <description>Kid Icarus: Of Myths and Monsters (USA, Europe)</description>
+    <cloneof />
+    <crc>0c042862</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1991 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Killer Instinct (USA, Europe)" index="" image="">
+    <description>Killer Instinct (USA, Europe)</description>
+    <cloneof />
+    <crc>ac793b54</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Two Player Mode</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="King of Fighters '95, The (USA)" index="" image="">
+    <description>King of Fighters '95, The (USA)</description>
+    <cloneof />
+    <crc>1ff84e8c</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997 *Two Player Mode, Uses SGB's internal sounds</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="King of Fighters, The - Heat of Battle (Europe)" index="" image="">
+    <description>King of Fighters, The: Heat of Battle (Europe)</description>
+    <cloneof />
+    <crc>4d2d8bc3</crc>
+    <manufacturer>Takara</manufacturer>
+    <year>1998 *Multiple Borders, Two Player Mode, Uses SGB's internal sounds</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kirby's Block Ball (USA, Europe)" index="" image="">
+    <description>Kirby's Block Ball (USA, Europe)</description>
+    <cloneof />
+    <crc>7ad90b4b</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kirby's Dream Land (USA, Europe)" index="" image="">
+    <description>Kirby's Dream Land (USA, Europe)</description>
+    <cloneof />
+    <crc>40f25740</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1992 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kirby's Dream Land 2 (USA, Europe)" index="" image="">
+    <description>Kirby's Dream Land 2 (USA, Europe)</description>
+    <cloneof />
+    <crc>8dc07c35</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Uses SGB's internal sounds</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kirby's Pinball Land (USA, Europe)" index="" image="">
+    <description>Kirby's Pinball Land (USA, Europe)</description>
+    <cloneof />
+    <crc>31cb6526</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1993 *special default palette</year>
+    <genre>Pinball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kirby's Star Stacker (USA, Europe)" index="" image="">
+    <description>Kirby's Star Stacker (USA, Europe)</description>
+    <cloneof />
+    <crc>91300898</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Konami GB Collection Vol.1 (Japan)" index="" image="">
+    <description>Konami GB Collection Vol.1 (Japan)</description>
+    <cloneof />
+    <crc>992CD78F</crc>
+    <manufacturer>TOSE</manufacturer>
+    <year>1997</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Konami GB Collection Vol.2 (Japan)" index="" image="">
+    <description>Konami GB Collection Vol.2 (Japan)</description>
+    <cloneof />
+    <crc>C3B318CD</crc>
+    <manufacturer>TOSE</manufacturer>
+    <year>1997</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Konami GB Collection Vol.3 (Japan)" index="" image="">
+    <description>Konami GB Collection Vol.3 (Japan)</description>
+    <cloneof />
+    <crc>1DE9CAF9</crc>
+    <manufacturer>TOSE</manufacturer>
+    <year>1998</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Konami GB Collection Vol.4 (Japan)" index="" image="">
+    <description>Konami GB Collection Vol.4 (Japan)</description>
+    <cloneof />
+    <crc>3A43EA33</crc>
+    <manufacturer>TOSE</manufacturer>
+    <year>1998</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kuma no Puutarou - Takara Sagashi da Ooiri Game Battle! (Japan)" index="" image="">
+    <description>Kuma no Puutarou: Takara Sagashi da Ooiri Game Battle! (Japan)</description>
+    <cloneof />
+    <crc>F01D0B87</crc>
+    <manufacturer>Electronics Application</manufacturer>
+    <year>1996</year>
+    <genre>Shooter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kuusou Kagaku Sekai Gulliver Boy - Kuusou Kagaku Puzzle Purittopon!! (Japan)" index="" image="">
+    <description>Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle Purittopon!! (Japan)</description>
+    <cloneof />
+    <crc>FB291E78</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1995</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Legend of the River King 2 (USA)" index="" image="">
+    <description>Legend of the River King 2 (USA)</description>
+    <cloneof />
+    <crc>840fd525</crc>
+    <manufacturer>Ubisoft</manufacturer>
+    <year>2001</year>
+    <genre>Sports/Fishing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Legend of the River King GB (USA)" index="" image="">
+    <description>Legend of the River King GB (USA)</description>
+    <cloneof />
+    <crc>7e821f47</crc>
+    <manufacturer>Natsume</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Fishing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Legend of Zelda, The - Link's Awakening DX (USA, Europe)" index="" image="">
+    <description>Legend of Zelda, The: Link's Awakening DX (USA, Europe)</description>
+    <cloneof />
+    <crc>06887a34</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Lil' Monster (USA)" index="" image="">
+    <description>Lil' Monster (USA)</description>
+    <cloneof />
+    <crc>c6859b34</crc>
+    <manufacturer>Agetec Inc.</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Lion King, The (USA)" index="" image="">
+    <description>Lion King, The (USA)</description>
+    <cloneof />
+    <crc>3430d261</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1995 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Lost World, The - Jurassic Park (USA, Europe)" index="" image="">
+    <description>Lost World, The: Jurassic Park (USA, Europe)</description>
+    <cloneof />
+    <crc>391f532a</crc>
+    <manufacturer>Torus Games</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden '95 (USA, Europe)" index="true" image="m">
+    <description>Madden '95 (USA, Europe)</description>
+    <cloneof />
+    <crc>d2585bbb</crc>
+    <manufacturer>Halestorm</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Football</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden '96 (USA, Europe)" index="" image="">
+    <description>Madden '96 (USA, Europe)</description>
+    <cloneof />
+    <crc>fd9dc1ad</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Football</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden '97 (USA)" index="" image="">
+    <description>Madden '97 (USA)</description>
+    <cloneof />
+    <crc>88a837a2</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1996 *Custom SGB Music</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden NFL 2000 (USA, Europe)" index="" image="">
+    <description>Madden NFL 2000 (USA, Europe)</description>
+    <cloneof />
+    <crc>482944aa</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Sports</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario's Picross (USA, Europe)" index="" image="">
+    <description>Mario's Picross (USA, Europe)</description>
+    <cloneof />
+    <crc>f2d652ad</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Matthias Sammer Soccer (Germany)" index="" image="">
+    <description>Matthias Sammer Soccer (Germany)</description>
+    <cloneof />
+    <crc>631E656F</crc>
+    <manufacturer>Tomy Corporation</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mega Man V (USA)" index="" image="">
+    <description>Mega Man V (USA)</description>
+    <cloneof />
+    <crc>72e6d21d</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Megami Tensei Gaiden - Last Bible II (Japan) (Translated En)" index="" image="">
+    <description>Megami Tensei Gaiden: Last Bible II (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>007B4804</crc>
+    <manufacturer>Atlus</manufacturer>
+    <year>1999</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (Translated En)" index="" image="">
+    <description>Meitantei Conan: Karakuri Jiin Satsujin Jiken (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>4A586AD3</crc>
+    <manufacturer>Banpresto</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Men in Black - The Series (USA, Europe)" index="" image="">
+    <description>Men in Black: The Series (USA, Europe)</description>
+    <cloneof />
+    <crc>65b8b343</crc>
+    <manufacturer>Crave</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Metroid II - Return of Samus (World)" index="" image="">
+    <description>Metroid II: Return of Samus (World)</description>
+    <cloneof />
+    <crc>dee05370</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1991 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mickey Mouse - Magic Wand (USA, Europe)" index="" image="">
+    <description>Mickey Mouse: Magic Wand (USA, Europe)</description>
+    <cloneof />
+    <crc>f0482567</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mighty Morphin Power Rangers - The Movie (USA, Europe)" index="" image="">
+    <description>Mighty Morphin Power Rangers: The Movie (USA, Europe)</description>
+    <cloneof />
+    <crc>86a1c549</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1995</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mighty Morphin Power Rangers (USA, Europe)" index="" image="">
+    <description>Mighty Morphin Power Rangers (USA, Europe)</description>
+    <cloneof />
+    <crc>c60d032a</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1994</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mole Mania (USA, Europe)" index="" image="">
+    <description>Mole Mania (USA, Europe)</description>
+    <cloneof />
+    <crc>2c36c74c</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Momotarou Dengeki 2 (Japan)" index="" image="">
+    <description>Momotarou Dengeki 2 (Japan)</description>
+    <cloneof />
+    <crc>3C1C5EB4</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Money Idol Exchanger (Japan)" index="" image="">
+    <description>Money Idol Exchanger (Japan)</description>
+    <cloneof />
+    <crc>800226A9</crc>
+    <manufacturer>Athena</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monkey Puncher (Europe)" index="" image="">
+    <description>Monkey Puncher (Europe)</description>
+    <cloneof />
+    <crc>bc1809ce</crc>
+    <manufacturer>Event Horizon Software</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monopoly (Japan)" index="" image="">
+    <description>Monopoly (Japan)</description>
+    <cloneof />
+    <crc>e559a717</crc>
+    <manufacturer>Hasbro Interactive</manufacturer>
+    <year>1999</year>
+    <genre>Board Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monopoly (USA)" index="" image="">
+    <description>Monopoly (USA)</description>
+    <cloneof />
+    <crc>fd90f0d6</crc>
+    <manufacturer>Park Brothers</manufacturer>
+    <year>1991 *special default palette</year>
+    <genre>Board Games</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monster Rancher Battle Card GB (USA)" index="" image="">
+    <description>Monster Rancher Battle Card GB (USA)</description>
+    <cloneof />
+    <crc>50ddf120</crc>
+    <manufacturer>Tecmo</manufacturer>
+    <year>2000</year>
+    <genre>Card Battle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mortal Kombat 4 (USA, Europe)" index="" image="">
+    <description>Mortal Kombat 4 (USA, Europe)</description>
+    <cloneof />
+    <crc>4eb71448</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ms. Pac-Man - Special Color Edition (USA)" index="" image="">
+    <description>Ms. Pac-Man: Special Color Edition (USA)</description>
+    <cloneof />
+    <crc>103e212d</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mulan (USA, Europe)" index="" image="">
+    <description>Mulan (USA, Europe)</description>
+    <cloneof />
+    <crc>E285CF30</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mystical Ninja Starring Goemon (USA)" index="" image="">
+    <description>Mystical Ninja Starring Goemon (USA)</description>
+    <cloneof />
+    <crc>fafb343c</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Namco Gallery Vol.1 (Japan)" index="" image="">
+    <description>Namco Gallery Vol.1 (Japan)</description>
+    <cloneof />
+    <crc>1902C6BD</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1996</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Namco Gallery Vol.2 (Japan)" index="" image="">
+    <description>Namco Gallery Vol.2 (Japan)</description>
+    <cloneof />
+    <crc>A69B9260</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1996</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Namco Gallery Vol.3 (Japan)" index="" image="">
+    <description>Namco Gallery Vol.3 (Japan)</description>
+    <cloneof />
+    <crc>7740341E</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1997</year>
+    <genre>Compilation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA 3 on 3 featuring Kobe Bryant (USA)" index="" image="">
+    <description>NBA 3 on 3 featuring Kobe Bryant (USA)</description>
+    <cloneof />
+    <crc>001f4754</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Sports</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA In the Zone (USA)" index="" image="">
+    <description>NBA In the Zone (USA)</description>
+    <cloneof />
+    <crc>be949f74</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Live 96 (USA, Europe)" index="" image="">
+    <description>NBA Live 96 (USA, Europe)</description>
+    <cloneof />
+    <crc>8885c7cd</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1996</year>
+    <genre>Sports/Basketball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nectaris GB (Japan) (Translated En)" index="" image="">
+    <description>Nectaris GB (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>11DB565F</crc>
+    <manufacturer>TamTam</manufacturer>
+    <year>1998</year>
+    <genre>Strategy</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nekketsu! Beach Volley Da yo Kunio-kun (Japan)" index="" image="">
+    <description>Nekketsu! Beach Volley Da yo Kunio-kun (Japan)</description>
+    <cloneof />
+    <crc>ABFB84DF</crc>
+    <manufacturer>Technos Japan</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Volleyball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nettou Garou Densetsu 2 (Japan)" index="" image="">
+    <description>Nettou Garou Densetsu 2 (Japan)</description>
+    <cloneof />
+    <crc>AA98687F</crc>
+    <manufacturer>Sun L</manufacturer>
+    <year>1994</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nettou Real Bout Garou Densetsu Special (Japan)" index="" image="">
+    <description>Nettou Real Bout Garou Densetsu Special (Japan)</description>
+    <cloneof />
+    <crc>F4031D4C</crc>
+    <manufacturer>Gaibrain</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nettou Samurai Spirits - Zankurou Musouken (Japan)" index="" image="">
+    <description>Nettou Samurai Spirits: Zankurou Musouken (Japan)</description>
+    <cloneof />
+    <crc>995D0838</crc>
+    <manufacturer>Betop</manufacturer>
+    <year>1996</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL 2000 (USA)" index="" image="">
+    <description>NHL 2000 (USA)</description>
+    <cloneof />
+    <crc>bb625129</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>2000</year>
+    <genre>Sports</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL '96 (USA, Europe)" index="" image="">
+    <description>NHL '96 (USA, Europe)</description>
+    <cloneof />
+    <crc>15cd2b63</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1996</year>
+    <genre>Sports/Ice Hockey</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL Hockey '95 (USA, Europe)" index="" image="">
+    <description>NHL Hockey '95 (USA, Europe)</description>
+    <cloneof />
+    <crc>bcabd2d2</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Ice Hockey</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ninku (Japan)" index="" image="">
+    <description>Ninku (Japan)</description>
+    <cloneof />
+    <crc>B50119EB</crc>
+    <manufacturer>TOSE</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nintama Rantarou GB - Eawase Challenge Puzzle (Japan)" index="" image="">
+    <description>Nintama Rantarou GB: Eawase Challenge Puzzle (Japan)</description>
+    <cloneof />
+    <crc>0E37E462</crc>
+    <manufacturer>Culture Brain</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nippon Daihyou Team - Eikou no Eleven (Japan)" index="" image="">
+    <description>Nippon Daihyou Team: Eikou no Eleven (Japan)</description>
+    <cloneof />
+    <crc>E497842E</crc>
+    <manufacturer>Jupiter Multimedia</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Olympic Summer Games (USA, Europe)" index="" image="">
+    <description>Olympic Summer Games (USA, Europe)</description>
+    <cloneof />
+    <crc>BE81BD61</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1996</year>
+    <genre>Sports</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pac-Attack (USA)" index="true" image="p">
+    <description>Pac-Attack (USA)</description>
+    <cloneof />
+    <crc>94e0af9c</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1994</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pac-In-Time (USA)" index="" image="">
+    <description>Pac-In-Time (USA)</description>
+    <cloneof />
+    <crc>8690b691</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pac-Man - Special Color Edition (USA)" index="true" image="p">
+    <description>Pac-Man: Special Color Edition (USA)</description>
+    <cloneof />
+    <crc>3485ef86</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pagemaster, The (USA)" index="" image="">
+    <description>Pagemaster, The (USA)</description>
+    <cloneof />
+    <crc>CDFA71E5</crc>
+    <manufacturer>Fox Interactive</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="PGA European Tour (USA, Europe)" index="" image="">
+    <description>PGA European Tour (USA, Europe)</description>
+    <cloneof />
+    <crc>7d7def64</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Golf</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="PGA Tour '96 (USA, Europe)" index="" image="">
+    <description>PGA Tour '96 (USA, Europe)</description>
+    <cloneof />
+    <crc>6ff72043</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1995</year>
+    <genre>Sports/Golf</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Picross 2 (Japan) (Translated En)" index="" image="">
+    <description>Picross 2 (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>45ABC6C3</crc>
+    <manufacturer>Jupiter Multimedia</manufacturer>
+    <year>1996</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pocahontas (USA, Europe)" index="" image="">
+    <description>Pocahontas (USA, Europe)</description>
+    <cloneof />
+    <crc>CE58C63D</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pocket Bomberman (USA, Europe)" index="" image="">
+    <description>Pocket Bomberman (USA, Europe)</description>
+    <cloneof />
+    <crc>fa2a66e9</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pocket Densha (Japan)" index="" image="">
+    <description>Pocket Densha (Japan)</description>
+    <cloneof />
+    <crc>845BB677</crc>
+    <manufacturer>Coconuts Japan</manufacturer>
+    <year>1998</year>
+    <genre>Simulation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pocket Monsters - Midori (Japan) (Translated En)" index="" image="">
+    <description>Pocket Monsters: Midori (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>E4583418</crc>
+    <manufacturer>Game Freak</manufacturer>
+    <year>1996</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pocket Puyo Puyo Tsuu (Japan)" index="" image="">
+    <description>Pocket Puyo Puyo Tsuu (Japan)</description>
+    <cloneof />
+    <crc>43E47A81</crc>
+    <manufacturer>Compile</manufacturer>
+    <year>1996</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon - Blue Version (USA, Europe)" index="" image="">
+    <description>Pokemon: Blue Version (USA, Europe)</description>
+    <cloneof />
+    <crc>d6da8a1a</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon - Gold Version (USA, Europe)" index="" image="">
+    <description>Pokemon: Gold Version (USA, Europe)</description>
+    <cloneof />
+    <crc>6bde3c3e</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon - Red Version (USA, Europe)" index="" image="">
+    <description>Pokemon: Red Version (USA, Europe)</description>
+    <cloneof />
+    <crc>9f7fdd53</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon - Silver Version (USA, Europe)" index="" image="">
+    <description>Pokemon: Silver Version (USA, Europe)</description>
+    <cloneof />
+    <crc>8ad48636</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe)" index="" image="">
+    <description>Pokemon: Yellow Version - Special Pikachu Edition (USA, Europe)</description>
+    <cloneof />
+    <crc>7D527D62</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Adventure</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon Pinball (USA)" index="" image="">
+    <description>Pokemon Pinball (USA)</description>
+    <cloneof />
+    <crc>03ce8d9a</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Pinball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon Trading Card Game (USA)" index="" image="">
+    <description>Pokemon Trading Card Game (USA)</description>
+    <cloneof />
+    <crc>81069d53</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Card Battle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokonyan! - Yume no Daibouken (Japan)" index="" image="">
+    <description>Pokonyan!: Yume no Daibouken (Japan)</description>
+    <cloneof />
+    <crc>61C34232</crc>
+    <manufacturer>Toho</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Power Pro GB (Japan)" index="" image="">
+    <description>Power Pro GB (Japan)</description>
+    <cloneof />
+    <crc>71BEA855</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Baseball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Power Quest (USA)" index="" image="">
+    <description>Power Quest (USA)</description>
+    <cloneof />
+    <crc>dad6f6b4</crc>
+    <manufacturer>SunSoft</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pro Mahjong Kiwame GB (Japan)" index="" image="">
+    <description>Pro Mahjong Kiwame GB (Japan)</description>
+    <cloneof />
+    <crc>6F5B6748</crc>
+    <manufacturer>Athena</manufacturer>
+    <year>1994</year>
+    <genre>Mahjong</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Probotector 2 (Europe)" index="" image="">
+    <description>Probotector 2 (Europe)</description>
+    <cloneof />
+    <crc>B5090E43</crc>
+    <manufacturer>Factor 5</manufacturer>
+    <year>1995</year>
+    <genre>Shooter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Puchi Carat (Europe)" index="" image="">
+    <description>Puchi Carat (Europe)</description>
+    <cloneof />
+    <crc>a9a89dda</crc>
+    <manufacturer>Tommo</manufacturer>
+    <year>2000</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Puyo Puyo (Japan)" index="" image="">
+    <description>Puyo Puyo (Japan)</description>
+    <cloneof />
+    <crc>20E48285</crc>
+    <manufacturer>WinkySoft</manufacturer>
+    <year>1994</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Qix (World)" index="" image="">
+    <description>Qix (World)</description>
+    <cloneof />
+    <crc>9185e89e</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1990 *special default palette</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Quest - Fantasy Challenge (USA)" index="" image="">
+    <description>Quest: Fantasy Challenge (USA)</description>
+    <cloneof />
+    <crc>98285775</crc>
+    <manufacturer>SunSoft</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Quest for Camelot (USA)" index="" image="">
+    <description>Quest for Camelot (USA)</description>
+    <cloneof />
+    <crc>d903db7d</crc>
+    <manufacturer>Titus Software</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Radar Mission (USA, Europe)" index="" image="">
+    <description>Radar Mission (USA, Europe)</description>
+    <cloneof />
+    <crc>581da9c9</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1991 *special default palette</year>
+    <genre>Board Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Renju Club - Gomoku Narabe (Japan)" index="" image="">
+    <description>Renju Club: Gomoku Narabe (Japan)</description>
+    <cloneof />
+    <crc>52F5E960</crc>
+    <manufacturer>Natsu System</manufacturer>
+    <year>1996</year>
+    <genre>Board Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Revelations - The Demon Slayer (USA)" index="" image="">
+    <description>Revelations: The Demon Slayer (USA)</description>
+    <cloneof />
+    <crc>d1a65d74</crc>
+    <manufacturer>Atlus Co.</manufacturer>
+    <year>1999</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Roadsters '98 (USA) (Proto)" index="" image="">
+    <description>Roadsters '98 (USA) (Proto)</description>
+    <cloneof />
+    <crc>FE2995A1</crc>
+    <manufacturer>Genetic Fantasia/Titus</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Robopon - Sun Version (USA)" index="" image="">
+    <description>Robopon: Sun Version (USA)</description>
+    <cloneof />
+    <crc>32caef11</crc>
+    <manufacturer>Atlus Co.</manufacturer>
+    <year>2000</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rock'n! Monster!! (Japan)" index="" image="">
+    <description>Rock'n! Monster!! (Japan)</description>
+    <cloneof />
+    <crc>630299C1</crc>
+    <manufacturer>Electronics Application</manufacturer>
+    <year>1994</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rugrats Movie, The (USA, Europe)" index="" image="">
+    <description>Rugrats Movie, The (USA, Europe)</description>
+    <cloneof />
+    <crc>b4091600</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Same Game (Japan)" index="" image="">
+    <description>Same Game (Japan)</description>
+    <cloneof />
+    <crc>70393C0F</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Samurai Shodown (USA, Europe)" index="true" image="s">
+    <description>Samurai Shodown (USA, Europe)</description>
+    <cloneof />
+    <crc>69292ee6</crc>
+    <manufacturer>Takara</manufacturer>
+    <year>1994 *Two Player Mode</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SD Hiryuu no Ken Gaiden (Japan)" index="" image="">
+    <description>SD Hiryuu no Ken Gaiden (Japan)</description>
+    <cloneof />
+    <crc>C4D09768</crc>
+    <manufacturer>Culture Brain</manufacturer>
+    <year>1995</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SD Hiryuu no Ken Gaiden 2 (Japan)" index="" image="">
+    <description>SD Hiryuu no Ken Gaiden 2 (Japan)</description>
+    <cloneof />
+    <crc>ADB511CA</crc>
+    <manufacturer>Culture Brain</manufacturer>
+    <year>1996</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SeaQuest DSV (USA, Europe)" index="" image="">
+    <description>SeaQuest DSV (USA, Europe)</description>
+    <cloneof />
+    <crc>31a3bd99</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shanghai Pocket (USA, Europe)" index="" image="">
+    <description>Shanghai Pocket (USA, Europe)</description>
+    <cloneof />
+    <crc>d8fac36c</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1998</year>
+    <genre>Board Games</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shaq Fu (USA)" index="" image="">
+    <description>Shaq Fu (USA)</description>
+    <cloneof />
+    <crc>7ed43fe6</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1995</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Small Soldiers (USA, Europe)" index="" image="">
+    <description>Small Soldiers (USA, Europe)</description>
+    <cloneof />
+    <crc>dbf106d1</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Smurfs, The (USA, Europe)" index="" image="">
+    <description>Smurfs, The (USA, Europe)</description>
+    <cloneof />
+    <crc>8B5BCDE7</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Snoopy no Hajimete no Otsukai (Japan) (Translated En)" index="" image="">
+    <description>Snoopy no Hajimete no Otsukai (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>8900A7C0</crc>
+    <manufacturer>Kotobuki Systems</manufacturer>
+    <year>1996</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Soccer (Europe)" index="" image="">
+    <description>Soccer (Europe)</description>
+    <cloneof />
+    <crc>C36B199B</crc>
+    <manufacturer>Denton Designs Ltd./Rage Software Ltd.</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SolarStriker (World)" index="" image="">
+    <description>SolarStriker (World)</description>
+    <cloneof />
+    <crc>11817103</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1990 *special default palette</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Space Invaders (USA)" index="" image="">
+    <description>Space Invaders (USA)</description>
+    <cloneof />
+    <crc>7f0f5762</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1999 *Multiple borders, full SNES 16-bit version with enhanced music and graphics</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Spirou (Europe)" index="" image="">
+    <description>Spirou (Europe)</description>
+    <cloneof />
+    <crc>735B29E2</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sports Illustrated - Golf Classic (USA)" index="" image="">
+    <description>Sports Illustrated: Golf Classic (USA)</description>
+    <cloneof />
+    <crc>87B306B4</crc>
+    <manufacturer>Malibu Games</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Golf</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Sweep (Japan)" index="" image="">
+    <description>Star Sweep (Japan)</description>
+    <cloneof />
+    <crc>D6FD967C</crc>
+    <manufacturer>Fupac</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Trek Generations - Beyond the Nexus (USA)" index="" image="">
+    <description>Star Trek Generations: Beyond the Nexus (USA)</description>
+    <cloneof />
+    <crc>9f2d11c6</crc>
+    <manufacturer>Absolute Entertainment</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Street Fighter II (USA, Europe)" index="" image="">
+    <description>Street Fighter II (USA, Europe)</description>
+    <cloneof />
+    <crc>54A0AAA3</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super B-Daman - Fighting Phoenix (Japan)" index="" image="">
+    <description>Super B-Daman: Fighting Phoenix (Japan)</description>
+    <cloneof />
+    <crc>239711EC</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Chinese Fighter GB (Japan)" index="" image="">
+    <description>Super Chinese Fighter GB (Japan)</description>
+    <cloneof />
+    <crc>B526A116</crc>
+    <manufacturer>Culture Brain</manufacturer>
+    <year>1996</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Mario Land (World)" index="" image="">
+    <description>Super Mario Land (World)</description>
+    <cloneof />
+    <crc>2c27ec70</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1989 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Mario Land 2 - 6 Golden Coins (USA, Europe)" index="" image="">
+    <description>Super Mario Land 2: 6 Golden Coins (USA, Europe)</description>
+    <cloneof />
+    <crc>635a9112</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1992 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Star Wars - Return of the Jedi (USA, Europe)" index="" image="">
+    <description>Super Star Wars: Return of the Jedi (USA, Europe)</description>
+    <cloneof />
+    <crc>6CB73DC7</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Street Basketball 2 (Japan)" index="" image="">
+    <description>Super Street Basketball 2 (Japan)</description>
+    <cloneof />
+    <crc>8090C9CC</crc>
+    <manufacturer>Vap</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Basketball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Superman (USA, Europe)" index="" image="">
+    <description>Superman (USA, Europe)</description>
+    <cloneof />
+    <crc>358e0091</crc>
+    <manufacturer>Titus Software</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Survival Kids (USA)" index="" image="">
+    <description>Survival Kids (USA)</description>
+    <cloneof />
+    <crc>c46aba56</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Translated En)" index="" image="">
+    <description>Survival Kids 2: Dasshutsu!! Futago-Jima! (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>5C55B58C</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sylvanian Families - Otogi no Kuni no Pendant (Japan) (Translated En)" index="" image="">
+    <description>Sylvanian Families: Otogi no Kuni no Pendant (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>BDA6E454</crc>
+    <manufacturer>Epoch</manufacturer>
+    <year>1999</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sylvanian Melodies - Mori no Nakama to Odori Masho! (Japan) (Translated En)" index="" image="">
+    <description>Sylvanian Melodies: Mori no Nakama to Odori Masho! (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>9399BF9F</crc>
+    <manufacturer>Epoch</manufacturer>
+    <year>2000</year>
+    <genre>Rhythm</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tamagotchi (USA, Europe)" index="" image="">
+    <description>Tamagotchi (USA, Europe)</description>
+    <cloneof />
+    <crc>dbf1bd20</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1997 *Multiple Borders</year>
+    <genre>Virtual Life</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tennis (World)" index="" image="">
+    <description>Tennis (World)</description>
+    <cloneof />
+    <crc>5009215f</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1989 *special default palette</year>
+    <genre>Sports/Tennis</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Test Drive Off-Road 3 (USA)" index="" image="">
+    <description>Test Drive Off-Road 3 (USA)</description>
+    <cloneof />
+    <crc>0fdd5b9e</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris (World)" index="" image="">
+    <description>Tetris (World)</description>
+    <cloneof />
+    <crc>46df91ad</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1989 *special default palette</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris 2 (USA, Europe)" index="" image="">
+    <description>Tetris 2 (USA, Europe)</description>
+    <cloneof />
+    <crc>ea19a9d9</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1993 *Multiple Borders</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris Attack (USA, Europe)" index="" image="">
+    <description>Tetris Attack (USA, Europe)</description>
+    <cloneof />
+    <crc>5EE45A4D</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris Blast (USA, Europe)" index="" image="">
+    <description>Tetris Blast (USA, Europe)</description>
+    <cloneof />
+    <crc>7be5a73f</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996 *Multiple Borders</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris DX (World)" index="" image="">
+    <description>Tetris DX (World)</description>
+    <cloneof />
+    <crc>69989152</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999 *Multiple Borders</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris Plus (USA, Europe)" index="" image="">
+    <description>Tetris Plus (USA, Europe)</description>
+    <cloneof />
+    <crc>dafc3bff</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tintin in Tibet (Europe)" index="" image="">
+    <description>Tintin in Tibet (Europe)</description>
+    <cloneof />
+    <crc>5D2BD778</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="TNN Outdoors Fishing Champ (USA)" index="" image="">
+    <description>TNN Outdoors Fishing Champ (USA)</description>
+    <cloneof />
+    <crc>00a14d18</crc>
+    <manufacturer>ASC Games</manufacturer>
+    <year>1999 *Multiple Borders</year>
+    <genre>Sports/Fishing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tokoro's Mahjong Jr. (Japan)" index="" image="">
+    <description>Tokoro's Mahjong Jr. (Japan)</description>
+    <cloneof />
+    <crc>56AFCA4C</crc>
+    <manufacturer>Vic Tokai</manufacturer>
+    <year>1994</year>
+    <genre>Mahjong</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tokyo Disneyland - Mickey no Cinderella-jou Mystery Tour (Japan)" index="" image="">
+    <description>Tokyo Disneyland: Mickey no Cinderella-jou Mystery Tour (Japan)</description>
+    <cloneof />
+    <crc>77D69349</crc>
+    <manufacturer>Graphic Research</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Toy Story (USA)" index="" image="">
+    <description>Toy Story (USA)</description>
+    <cloneof />
+    <crc>6F36B6ED</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Toy Story 2 (USA, Europe)" index="" image="">
+    <description>Toy Story 2 (USA, Europe)</description>
+    <cloneof />
+    <crc>47aecb95</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ultraman Ball (Japan) (Translated En)" index="" image="">
+    <description>Ultraman Ball (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>E0606CED</crc>
+    <manufacturer>Bec</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ultraman Chou Toushi Gekiden (Japan)" index="" image="">
+    <description>Ultraman Chou Toushi Gekiden (Japan)</description>
+    <cloneof />
+    <crc>B904230D</crc>
+    <manufacturer>Angel (Bandai)</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Uno 2 - Small World (Japan)" index="" image="">
+    <description>Uno 2: Small World (Japan)</description>
+    <cloneof />
+    <crc>A7AD65EF</crc>
+    <manufacturer>Tomy Corporation</manufacturer>
+    <year>1995</year>
+    <genre>Tabletop</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Urban Strike (USA, Europe)" index="" image="">
+    <description>Urban Strike (USA, Europe)</description>
+    <cloneof />
+    <crc>89625945</crc>
+    <manufacturer>Black Pearl Software</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Vegas Stakes (USA, Europe)" index="" image="">
+    <description>Vegas Stakes (USA, Europe)</description>
+    <cloneof />
+    <crc>c8be05d8</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1995 *Multiple Borders</year>
+    <genre>Casino</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wario Blast Featuring Bomberman! (USA, Europe)" index="true" image="w">
+    <description>Wario Blast Featuring Bomberman! (USA, Europe)</description>
+    <cloneof />
+    <crc>927b57a1</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1994 *Multiplayer up to 4 players, Custom SGB SFX</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wario Land - Super Mario Land 3 (World)" index="" image="">
+    <description>Wario Land: Super Mario Land 3 (World)</description>
+    <cloneof />
+    <crc>40be3889</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1994 *special default palette</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wario Land II (USA, Europe)" index="" image="">
+    <description>Wario Land II (USA, Europe)</description>
+    <cloneof />
+    <crc>047bdf80</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wedding Peach - Jamapii Panic (Japan)" index="" image="">
+    <description>Wedding Peach: Jamapii Panic (Japan)</description>
+    <cloneof />
+    <crc>9812A6C6</crc>
+    <manufacturer>Atelier Double</manufacturer>
+    <year>1995</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wetrix GB (Japan)" index="" image="">
+    <description>Wetrix GB (Japan)</description>
+    <cloneof />
+    <crc>9cbfaa3d</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>2000</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wild Snake (USA)" index="" image="">
+    <description>Wild Snake (USA)</description>
+    <cloneof />
+    <crc>72462125</crc>
+    <manufacturer>Spectrum Holobyte</manufacturer>
+    <year>1994 *Multiple Borders</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="World Cup 98 (USA, Europe)" index="" image="">
+    <description>World Cup 98 (USA, Europe)</description>
+    <cloneof />
+    <crc>6a3272b1</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1998 *Custom SGB Music</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="World Heroes 2 Jet (USA, Europe)" index="" image="">
+    <description>World Heroes 2 Jet (USA, Europe)</description>
+    <cloneof />
+    <crc>67303954</crc>
+    <manufacturer>Playmates</manufacturer>
+    <year>1995 *SGB Two Player Mode</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Yoshi (USA)" index="" image="">
+    <description>Yoshi (USA)</description>
+    <cloneof />
+    <crc>f2f4bcca</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1992 *special default palette</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Yoshi's Cookie (USA, Europe)" index="" image="">
+    <description>Yoshi's Cookie (USA, Europe)</description>
+    <cloneof />
+    <crc>75336712</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1993 *special default palette</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Yuu Yuu Hakusho Dai-4-dan - Makai Touitsu (Japan)" index="" image="">
+    <description>Yuu Yuu Hakusho Dai-4-dan: Makai Touitsu (Japan)</description>
+    <cloneof />
+    <crc>3E7C6B2B</crc>
+    <manufacturer>Tomy Corporation</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Zen-Nihon Pro Wrestling Jet (Japan)" index="" image="">
+    <description>Zen-Nihon Pro Wrestling Jet (Japan)</description>
+    <cloneof />
+    <crc>119BCAD5</crc>
+    <manufacturer>Geo Factory</manufacturer>
+    <year>1994</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+</menu>

@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+<listname>Nintendo Game and Watch</listname>
+<lastlistupdate>11/02/2022</lastlistupdate>
+<listversion>0.1</listversion>
+</header>
+<game name="gnw_ball" index="true" image="0">
+<description>Game &amp; Watch: Ball</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1980</year>
+<score>0.7</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_bjack" index="true" image="0">
+<description>Game &amp; Watch: Black Jack</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1985</year>
+<score>0.5</score>
+<genre>Casino</genre>
+<players>1</players>
+</game>
+<game name="gnw_boxing" index="true" image="0">
+<description>Micro Vs. System: Boxing</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>0.65</score>
+<genre>Sports</genre>
+<players>2</players>
+</game>
+<game name="gnw_bsweep" index="true" image="0">
+<description>Game &amp; Watch: Bomb Sweeper</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1987</year>
+<score>0.65</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_cgrab" index="true" image="0">
+<description>Game &amp; Watch: Crab Grab</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>1</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_chef" index="true" image="0">
+<description>Game &amp; Watch: Chef</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>1</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_climbern" index="true" image="0">
+<description>Game &amp; Watch: Climber (New Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1988</year>
+<score>0.9</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_dkcirc" index="true" image="0">
+<description>Game &amp; Watch: Donkey Kong Circus</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>0.75</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_dkhockey" index="true" image="0">
+<description>Micro Vs. System: Donkey Kong Hockey</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>0.7</score>
+<genre>Sports</genre>
+<players>2</players>
+</game>
+<game name="gnw_dkjr" index="true" image="0">
+<description>Game &amp; Watch: Donkey Kong Jr. (New Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.9</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_dkjrp" index="true" image="0">
+<description>Game &amp; Watch: Donkey Kong Jr. (Panorama Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.9</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_dkong" index="true" image="0">
+<description>Game &amp; Watch: Donkey Kong</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_dkong2" index="true" image="0">
+<description>Game &amp; Watch: Donkey Kong II</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.7</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_dkong3" index="true" image="0">
+<description>Micro Vs. System: Donkey Kong 3</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>0.7</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_egg" index="true" image="0">
+<description>Game &amp; Watch: Egg</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>0.9</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_fire" index="true" image="0">
+<description>Game &amp; Watch: Fire (Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>0.75</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_fireatk" index="true" image="0">
+<description>Game &amp; Watch: Fire Attack</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.75</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_flagman" index="true" image="0">
+<description>Game &amp; Watch: Flagman</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1980</year>
+<score>0.95</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_gcliff" index="true" image="0">
+<description>Game &amp; Watch: Gold Cliff</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1988</year>
+<score>0.7</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_ghouse" index="true" image="0">
+<description>Game &amp; Watch: Green House</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>1</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_helmet" index="true" image="0">
+<description>Game &amp; Watch: Helmet (version CN-17)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>0.75</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_judge" index="true" image="0">
+<description>Game &amp; Watch: Judge (purple version)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1980</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_lboat" index="true" image="0">
+<description>Game &amp; Watch: Life Boat</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>1</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_lion" index="true" image="0">
+<description>Game &amp; Watch: Lion</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>1</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_manhole" index="true" image="0">
+<description>Game &amp; Watch: Manhole (New Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.5</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_mario" index="true" image="0">
+<description>Game &amp; Watch: Mario Bros.</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>1</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_mariocm" index="true" image="0">
+<description>Game &amp; Watch: Mario's Cement Factory (New Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_mariotj" index="true" image="0">
+<description>Game &amp; Watch: Mario The Juggler</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1991</year>
+<score>0.9</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_mbaway" index="true" image="0">
+<description>Game &amp; Watch: Mario's Bombs Away</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.75</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_mickdon" index="true" image="0">
+<description>Game &amp; Watch: Mickey &amp; Donald</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.95</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_mmouse" index="true" image="0">
+<description>Game &amp; Watch: Mickey Mouse (Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>0.9</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_mmousep" index="true" image="0">
+<description>Game &amp; Watch: Mickey Mouse (Panorama Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>0.9</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_octopus" index="true" image="0">
+<description>Game &amp; Watch: Octopus</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>1</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_opanic" index="true" image="0">
+<description>Game &amp; Watch: Oil Panic</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.9</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_pchute" index="true" image="0">
+<description>Game &amp; Watch: Parachute</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>0.95</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_pinball" index="true" image="0">
+<description>Game &amp; Watch: Pinball</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.75</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_popeye" index="true" image="0">
+<description>Game &amp; Watch: Popeye (Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1981</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_popeyep" index="true" image="0">
+<description>Game &amp; Watch: Popeye (Panorama Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_rshower" index="true" image="0">
+<description>Game &amp; Watch: Rain Shower</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_sbuster" index="true" image="0">
+<description>Game &amp; Watch: Safe Buster</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1988</year>
+<score>0.9</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_smbn" index="true" image="0">
+<description>Game &amp; Watch: Super Mario Bros. (New Wide Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1988</year>
+<score>0.9</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_snoopyp" index="true" image="0">
+<description>Game &amp; Watch: Snoopy (Panorama Screen)</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1983</year>
+<score>0.9</score>
+<genre>Action</genre>
+<players>1</players>
+</game>
+<game name="gnw_squish" index="true" image="0">
+<description>Game &amp; Watch: Squish</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1986</year>
+<score>1</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_ssparky" index="true" image="0">
+<description>Game &amp; Watch: Spitball Sparky</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1984</year>
+<score>0.95</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_stennis" index="true" image="0">
+<description>Game &amp; Watch: Snoopy Tennis</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.75</score>
+<genre>Sports</genre>
+<players>1</players>
+</game>
+<game name="gnw_tbridge" index="true" image="0">
+<description>Game &amp; Watch: Turtle Bridge</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1982</year>
+<score>0.9</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_tfish" index="true" image="0">
+<description>Game &amp; Watch: Tropical Fish</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1985</year>
+<score>1</score>
+<genre>Puzzle</genre>
+<players>1</players>
+</game>
+<game name="gnw_vermin" index="true" image="0">
+<description>Game &amp; Watch: Vermin</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1980</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+<game name="gnw_zelda" index="true" image="0">
+<description>Game &amp; Watch: Zelda</description>
+<manufacturer>Nintendo</manufacturer>
+<year>1989</year>
+<score>0.75</score>
+<genre>Platform</genre>
+<players>1</players>
+</game>
+</menu>

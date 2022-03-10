@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<header>
+		<listname>SNES Hacks</listname>
+		<lastlistupdate>09/05/2020</lastlistupdate>
+		<listversion>2.1</listversion>
+		<exporterversion>Excel 2020
+Copywrite (c) 2020 Signum</exporterversion>
+	</header>
+	<game name="Chrono Trigger - Prophets Guile (USA) (Hack)" index="true" image="c">
+		<description>Chrono Trigger - Prophets Guile (USA) (Hack)</description>
+		<crc>1EB43B3A</crc>
+		<manufacturer>Kajar Laboratories</manufacturer>
+		<year>2007</year>
+		<genre>Role Playing</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="EarthBound - The Giftman Chronicles (USA) (Hack)" index="true" image="e">
+		<description>EarthBound - The Giftman Chronicles (USA) (Hack)</description>
+		<crc>70877C59</crc>
+		<manufacturer>EB_Girl</manufacturer>
+		<year>2003</year>
+		<genre>Role Playing</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy IV - Ultima (USA) (Hack)" index="true" image="f">
+		<description>Final Fantasy IV - Ultima (USA) (Hack)</description>
+		<crc>37A52A74</crc>
+		<manufacturer>8-bit fan</manufacturer>
+		<year>2020</year>
+		<genre>Role Playing</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past - Parallel Remodel (USA) (Hack)" index="true" image="l">
+		<description>Legend of Zelda, The - A Link to the Past - Parallel Remodel (USA) (Hack)</description>
+		<crc>588F0E4A</crc>
+		<manufacturer>Euclid, PuzzleDude, SePH</manufacturer>
+		<year>2012</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Kart R (USA) (Hack)" index="true" image="m">
+		<description>Mario Kart R (USA) (Hack)</description>
+		<crc>4EB087AF</crc>
+		<manufacturer>d4s</manufacturer>
+		<year>2004</year>
+		<genre>Racing</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oh No! More Zombies Ate My Neighbors! (USA) (Hack)" index="true" image="o">
+		<description>Oh No! More Zombies Ate My Neighbors! (USA) (Hack)</description>
+		<crc>D218147C</crc>
+		<manufacturer>Stanley_Decker and sloat</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Mature</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secret of Evermore - 2 Player Edition (Re-Balanced) (USA) (Hack)" index="true" image="s">
+		<description>Secret of Evermore - 2 Player Edition (Re-Balanced) (USA) (Hack)</description>
+		<crc>AFDFEB2E</crc>
+		<manufacturer>FuSoYa’s Niche,Ninakoru</manufacturer>
+		<year>2013</year>
+		<genre>Role Playing</genre>
+		<rating>Mature</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Ghouls n Ghosts - Super Arthur (USA) (Hack)">
+		<description>Super Ghouls n Ghosts - Super Arthur (USA) (Hack)</description>
+		<crc>E9216716</crc>
+		<manufacturer>Lufia</manufacturer>
+		<year>2018</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario World Return to Dinosaur Land (USA) (Hack)">
+		<description>Super Mario World Return to Dinosaur Land (USA) (Hack)</description>
+		<crc>2F997B6E</crc>
+		<manufacturer>RAGB</manufacturer>
+		<year>2006</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Metroid - Project Base (USA) (Hack)">
+		<description>Super Metroid - Project Base (USA) (Hack)</description>
+		<crc>F225D664</crc>
+		<manufacturer>dex909</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+</menu>

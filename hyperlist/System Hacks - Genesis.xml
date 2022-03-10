@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<header>
+		<listname>Sega Genesis Hacks</listname>
+		<lastlistupdate>08/30/202020</lastlistupdate>
+		<listversion>2.1</listversion>
+		<exporterversion>Excel 2020
+Copywrite (c) 2020 Signum</exporterversion>
+	</header>
+	<game name="Amy Rose in Sonic the Hedgehog (USA) (Hack)" index="true" image="a">
+		<description>Amy Rose in Sonic the Hedgehog (USA) (Hack)</description>
+		<crc>B956F53B</crc>
+		<manufacturer>E-122-Psi</manufacturer>
+		<year>2015</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="An Ordinary Sonic Rom Hack (USA) (Hack)">
+		<description>An Ordinary Sonic Rom Hack (USA) (Hack)</description>
+		<crc>1B473A35</crc>
+		<manufacturer>Cinossu</manufacturer>
+		<year>2013</year>
+		<genre>Platformer</genre>
+		<rating>Adults</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bare Knuckle III (Japan) (Translated En) (Hack)" index="true" image="b">
+		<description>Bare Knuckle III (Japan) (Translated En) (Hack)</description>
+		<crc>68917751</crc>
+		<manufacturer>Twilight Translations</manufacturer>
+		<year>2009</year>
+		<genre>Beat em up</genre>
+		<rating>Mature</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brave Battle Saga (Japan) (Translated En) (Hack)">
+		<description>Brave Battle Saga (Japan) (Translated En) (Hack)</description>
+		<crc>34E5445F</crc>
+		<manufacturer>Djinn</manufacturer>
+		<year>2010</year>
+		<genre>Role Playing</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Robotnik's Creature Capture (USA) (Hack)" index="true" image="d">
+		<description>Dr. Robotnik's Creature Capture (USA) (Hack)</description>
+		<crc>0966FF7D</crc>
+		<manufacturer>MarkeyJester</manufacturer>
+		<year>2016</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eternal Champions - Rebalanced (USA) (Hack)" index="true" image="e">
+		<description>Eternal Champions - Rebalanced (USA) (Hack)</description>
+		<crc>406BA56F</crc>
+		<manufacturer>BillyTime! Games</manufacturer>
+		<year>2020</year>
+		<genre>fighting</genre>
+		<rating>Mature</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fix it Felix Jr. (USA) (Unl)" index="true" image="f">
+		<description>Fix it Felix Jr. (USA) (Unl)</description>
+		<crc>424FF451</crc>
+		<manufacturer>Unknown</manufacturer>
+		<year>2013</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Sonic Hyperdrive (USA) (Hack)" index="true" image="m">
+		<description>Metal Sonic Hyperdrive (USA) (Hack)</description>
+		<crc>195219E0</crc>
+		<manufacturer>Lone Devil</manufacturer>
+		<year>2014</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sally Acorn in Sonic the Hedgehog (USA) (Hack)" index="true" image="s">
+		<description>Sally Acorn in Sonic the Hedgehog (USA) (Hack)</description>
+		<crc>96F971F6</crc>
+		<manufacturer>E-122-Psi</manufacturer>
+		<year>2015</year>
+		<genre>Platformer</genre>
+		<rating>Everyone</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles of Rage 2 (USA) (Hack)" index="true" image="t">
+		<description>Teenage Mutant Ninja Turtles of Rage 2 (USA) (Hack)</description>
+		<crc>E3A961F2</crc>
+		<manufacturer>Carzj</manufacturer>
+		<year>2016</year>
+		<genre>Beat em up</genre>
+		<rating>Mature</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+</menu>

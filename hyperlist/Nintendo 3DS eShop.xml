@@ -1,0 +1,4309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+    <header>
+        <listname>Nintendo 3DS eShop</listname>
+        <lastlistupdate>25/02/2020</lastlistupdate>
+        <listversion>diskmach 1.2</listversion>
+        <exporterversion></exporterversion>
+    </header>
+	<game name="10-in-1 - Arcade Collection (USA)" index="true" image="1">
+		<description>10-in-1: Arcade Collection (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2013</year>
+		<genre>Mini-Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="1001 Spikes - The Temple of the Dead Mourns the Living (USA)" index="" image="">
+		<description>1001 Spikes: The Temple of the Dead Mourns the Living (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nicalis</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="101 Dino Pets 3D (Europe)" index="" image="">
+		<description>101 Dino Pets 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2013</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="101 Penguin Pets 3D (Europe)" index="" image="">
+		<description>101 Penguin Pets 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2013</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="101 Pony Pets 3D (Europe)" index="" image="">
+		<description>101 Pony Pets 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2014</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="2 Fast 4 Gnomz (Europe)" index="true" image="2">
+		<description>2 Fast 4 Gnomz (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>QubicGames</developer>
+		<manufacturer>QubicGames</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="2048 (USA)" index="" image="">
+		<description>2048 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>cosmigo</developer>
+		<manufacturer>cosmigo</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D After Burner II (Europe)" index="true" image="3">
+		<description>3D After Burner II (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="3D Altered Beast (USA)" index="" image="">
+		<description>3D Altered Beast (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Classics - Excitebike (USA)" index="" image="">
+		<description>3D Classics: Excitebike (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2011</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Classics - Kid Icarus (USA)" index="" image="">
+		<description>3D Classics: Kid Icarus (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Classics - Kirby&apos;s Adventure (USA)" index="" image="">
+		<description>3D Classics: Kirby&apos;s Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAL Laboratory</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2011</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Classics - TwinBee (USA)" index="" image="">
+		<description>3D Classics: TwinBee (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2011</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Classics - Urban Champion (USA)" index="" image="">
+		<description>3D Classics: Urban Champion (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2011</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Classics - Xevious (USA)" index="" image="">
+		<description>3D Classics: Xevious (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2011</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Ecco the Dolphin (USA)" index="" image="">
+		<description>3D Ecco the Dolphin (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Fantasy Zone - Opa-Opa Bros. (USA)" index="" image="">
+		<description>3D Fantasy Zone: Opa-Opa Bros. (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Fantasy Zone II W (Europe)" index="" image="">
+		<description>3D Fantasy Zone II W (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="3D Galaxy Force II (USA)" index="" image="">
+		<description>3D Galaxy Force II (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Gunstar Heroes (USA)" index="" image="">
+		<description>3D Gunstar Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="3D Out Run (USA)" index="" image="">
+		<description>3D Out Run (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Shinobi III - Return of the Ninja Master (USA)" index="" image="">
+		<description>3D Shinobi III: Return of the Ninja Master (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Solitaire (Europe)" index="" image="">
+		<description>3D Solitaire (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Zen Studios</developer>
+		<manufacturer>Zen Studios</manufacturer>
+		<year>2012</year>
+		<genre>Tabletop</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="3D Sonic the Hedgehog (USA)" index="" image="">
+		<description>3D Sonic the Hedgehog (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="3D Sonic the Hedgehog 2 (USA)" index="" image="">
+		<description>3D Sonic the Hedgehog 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Space Harrier (USA)" index="" image="">
+		<description>3D Space Harrier (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Streets of Rage (USA)" index="" image="">
+		<description>3D Streets of Rage (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Streets of Rage 2 (USA)" index="" image="">
+		<description>3D Streets of Rage 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Super Hang-On (USA)" index="" image="">
+		<description>3D Super Hang-On (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sega</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="3D Thunder Blade (USA)" index="" image="">
+		<description>3D Thunder Blade (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>M2</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="50 Pinch Barrage!! (USA)" index="true" image="5">
+		<description>50 Pinch Barrage!! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mobile &amp; Game Studio</developer>
+		<manufacturer>Mobile &amp; Game Studio</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="80&apos;s Overdrive (Europe)" index="true" image="8">
+		<description>80&apos;s Overdrive (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Insane Code</developer>
+		<manufacturer>Insane Code</manufacturer>
+		<year>2017</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Adventure Bar Story (USA)" index="true" image="a">
+		<description>Adventure Bar Story (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Rideon Games</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Adventure Labyrinth Story (USA)" index="" image="">
+		<description>Adventure Labyrinth Story (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Rideon Games</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Aero Porter (USA)" index="" image="">
+		<description>Aero Porter (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2012</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="AeternoBlade (USA)" index="" image="">
+		<description>AeternoBlade (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CORECELL</developer>
+		<manufacturer>Corecell Technology</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="AiRace Speed (Europe)" index="" image="">
+		<description>AiRace Speed (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>QubicGames</developer>
+		<manufacturer>QubicGames</manufacturer>
+		<year>2013</year>
+		<genre>Flying</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="AiRace Xeno (Europe)" index="" image="">
+		<description>AiRace Xeno (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>QubicGames</developer>
+		<manufacturer>QubicGames</manufacturer>
+		<year>2014</year>
+		<genre>Flying</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Alchemic Dungeons (Europe)" index="" image="">
+		<description>Alchemic Dungeons (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Q-Cumber Factory/Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Alien on the Run (USA)" index="" image="">
+		<description>Alien on the Run (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>G-Style</developer>
+		<manufacturer>G-Style</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Alphadia (USA)" index="" image="">
+		<description>Alphadia (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Ambition of the Slimes (Europe)" index="" image="">
+		<description>Ambition of the Slimes (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Altair Works/Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Angry Bunnies (Europe)" index="" image="">
+		<description>Angry Bunnies (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cypronia</developer>
+		<manufacturer>Cypronia</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Angry Video Game Nerd Adventures, The (USA)" index="" image="">
+		<description>Angry Video Game Nerd Adventures, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>MP2 Games</developer>
+		<manufacturer>ScrewAttack Games</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - M (Mature)</rating>
+	</game>
+	<game name="Another World - 20th Anniversary Edition (Europe)" index="" image="">
+		<description>Another World: 20th Anniversary Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Delpine Software</developer>
+		<manufacturer>Digital Lounge</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Apollo Justice - Ace Attorney (USA)" index="" image="">
+		<description>Apollo Justice: Ace Attorney (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Capcom</developer>
+		<manufacturer>Capcom</manufacturer>
+		<year>2017</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Aqua Moto Racing 3D (USA)" index="" image="">
+		<description>Aqua Moto Racing 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Zordix AB</developer>
+		<manufacturer>Zordix AB</manufacturer>
+		<year>2013</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Arc Style - Baseball 3D (Europe)" index="" image="">
+		<description>Arc Style: Baseball 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2014</year>
+		<genre>Sports/Baseball</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Arc Style - Soccer 3D (USA)" index="" image="">
+		<description>Arc Style: Soccer 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Art of Balance TOUCH! (USA)" index="" image="">
+		<description>Art of Balance TOUCH! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Shin&apos;en Multimedia</developer>
+		<manufacturer>Shin&apos;en Multimedia</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Asdivine Cross (USA)" index="" image="">
+		<description>Asdivine Cross (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="A-Train 3D - City Simulator (Europe)" index="" image="">
+		<description>A-Train 3D: City Simulator (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Artdink</developer>
+		<manufacturer>Natsume</manufacturer>
+		<year>2015</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Attack of the Friday Monsters! A Tokyo Tale (USA)" index="" image="">
+		<description>Attack of the Friday Monsters! A Tokyo Tale (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Milennium Kitchen</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Attack on Titan - Humanity in Chains (USA)" index="" image="">
+		<description>Attack on Titan: Humanity in Chains (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Atlus</developer>
+		<manufacturer>Spike Chunsoft</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>ESRB - M (Mature)</rating>
+	</game>
+	<game name="ATV Wild Ride 3D (USA)" index="" image="">
+		<description>ATV Wild Ride 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Renegade Kid</developer>
+		<manufacturer>Renegade Kid</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Balloon Pop Remix (Europe)" index="true" image="b">
+		<description>Balloon Pop Remix (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>UFO Interactive</developer>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Banana Bliss - Jungle Puzzles (Europe)" index="" image="">
+		<description>Banana Bliss: Jungle Puzzles (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Battle Cats POP!, The (USA)" index="" image="">
+		<description>Battle Cats POP!, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Ponos</developer>
+		<manufacturer>Ponos</manufacturer>
+		<year>2016</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Battleminer (USA)" index="" image="">
+		<description>Battleminer (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Wobbly Tooth</developer>
+		<manufacturer>Wobbly Tooth</manufacturer>
+		<year>2014</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="BearShark (USA)" index="" image="">
+		<description>BearShark (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silverball</developer>
+		<manufacturer>CollegeHumor</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Best of Mahjong (Europe)" index="" image="">
+		<description>Best of Mahjong (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>GameOn</developer>
+		<manufacturer>GameOn</manufacturer>
+		<year>2014</year>
+		<genre>Tabletop</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Best of Solitaire (Europe)" index="" image="">
+		<description>Best of Solitaire (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>GameOn</developer>
+		<manufacturer>GameOn</manufacturer>
+		<year>2014</year>
+		<genre>Tabletop</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Big Bass Arcade - No Limit (USA)" index="" image="">
+		<description>Big Bass Arcade: No Limit (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Bike Rider DX (USA)" index="" image="">
+		<description>Bike Rider DX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lireneosoft</developer>
+		<manufacturer>Spicysoft Corporation</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Bike Rider DX2 - Galaxy (USA)" index="" image="">
+		<description>Bike Rider DX2: Galaxy (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mobile &amp; Game Studio</developer>
+		<manufacturer>Spicysoft Corporation</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Binding of Isaac, The - Rebirth (USA) (New 3DS)" index="" image="">
+		<description>Binding of Isaac, The: Rebirth (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nicalis</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>ESRB - M (Mature)</rating>
+	</game>
+	<game name="Bird Mania 3D (USA)" index="" image="">
+		<description>Bird Mania 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Bird Mania Christmas 3D (USA)" index="" image="">
+		<description>Bird Mania Christmas 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Bit Boy!! Arcade (USA)" index="" image="">
+		<description>Bit Boy!! Arcade (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Bplus</developer>
+		<manufacturer>Bplus</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Bit Dungeon+ (USA)" index="" image="">
+		<description>Bit Dungeon+ (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Dolores Ent.</developer>
+		<manufacturer>Dolores Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Blast &apos;Em Bunnies (USA)" index="" image="">
+		<description>Blast &apos;Em Bunnies (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nnooo</developer>
+		<manufacturer>Nnooo</manufacturer>
+		<year>2016</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Blaster Master Zero (USA)" index="" image="">
+		<description>Blaster Master Zero (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inti Creates</developer>
+		<manufacturer>Inti Creates</manufacturer>
+		<year>2017</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Blasting Agent - Ultimate Edition (Europe)" index="" image="">
+		<description>Blasting Agent: Ultimate Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Ratalaika Games</developer>
+		<manufacturer>Ratalaika Games</manufacturer>
+		<year>2016</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="BlazBlue - Clone Phantasma (USA)" index="" image="">
+		<description>BlazBlue: Clone Phantasma (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Block Factory (Europe)" index="" image="">
+		<description>Block Factory (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Enjoy Gaming</developer>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Bloo Kid 2 (USA)" index="" image="">
+		<description>Bloo Kid 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>winterworks</developer>
+		<manufacturer>winterworks</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Bloodstained - Curse of the Moon (USA)" index="" image="">
+		<description>Bloodstained: Curse of the Moon (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inti Creates</developer>
+		<manufacturer>Inti Creates</manufacturer>
+		<year>2018</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Bloody Vampire (Europe)" index="" image="">
+		<description>Bloody Vampire (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silver Star Japan</developer>
+		<manufacturer>Silver Star Japan</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Bomb Monkey (USA)" index="" image="">
+		<description>Bomb Monkey (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Atooi</developer>
+		<manufacturer>Atooi</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Bonds of the Skies (USA)" index="" image="">
+		<description>Bonds of the Skies (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HitPoint</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="BoxBoxBoy! (USA)" index="" image="">
+		<description>BoxBoxBoy! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAL Laboratory</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="BoxBoy! (USA)" index="" image="">
+		<description>BoxBoy! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAL Laboratory</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Boxzle (USA)" index="" image="">
+		<description>Boxzle (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>PouncingKitten Games</developer>
+		<manufacturer>PouncingKitten Games</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Brave Dungeon (USA)" index="" image="">
+		<description>Brave Dungeon (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inside System</developer>
+		<manufacturer>Inside System</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Brave Tank Hero (USA)" index="" image="">
+		<description>Brave Tank Hero (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Natsume</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Breakout Defense 2 (USA) (New 3DS)" index="" image="">
+		<description>Breakout Defense 2 (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>nuGAME</developer>
+		<manufacturer>nuGAME</manufacturer>
+		<year>2017</year>
+		<genre>Breakout</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Brilliant Hamsters! (Europe)" index="" image="">
+		<description>Brilliant Hamsters! (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Hi</developer>
+		<manufacturer>Bergsala Lightweight</manufacturer>
+		<year>2014</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Brunch Panic (Europe)" index="" image="">
+		<description>Brunch Panic (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>F K Digital</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2013</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Brutus &amp; Futee (Europe)" index="" image="">
+		<description>Brutus &amp; Futee (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Artefacts Studio</developer>
+		<manufacturer>Microids</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Bubble Pop World (Europe)" index="" image="">
+		<description>Bubble Pop World (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cypronia</developer>
+		<manufacturer>Cypronia</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Bugs vs Tanks! (USA)" index="" image="">
+		<description>Bugs vs Tanks! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Bye-Bye BoxBoy! (Europe)" index="" image="">
+		<description>Bye-Bye BoxBoy! (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAL Laboratory</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Carps &amp; Dragons (Europe)" index="true" image="c">
+		<description>Carps &amp; Dragons (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Abylight</developer>
+		<manufacturer>Abylight</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Fishing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Castle Clout 3D (USA)" index="" image="">
+		<description>Castle Clout 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Castle Conqueror Defender (USA)" index="" image="">
+		<description>Castle Conqueror Defender (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lanan</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Castle Conqueror EX (USA)" index="" image="">
+		<description>Castle Conqueror EX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent.</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Cave Story (USA)" index="" image="">
+		<description>Cave Story (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nicalis</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Chain Blaster (USA)" index="" image="">
+		<description>Chain Blaster (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>G-Style</developer>
+		<manufacturer>G-Style</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Chase - Cold Case Investigations - Distant Memories (USA)" index="" image="">
+		<description>Chase: Cold Case Investigations - Distant Memories (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Aksys Games</developer>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Chibi-Robo! Photo Finder (USA)" index="" image="">
+		<description>Chibi-Robo! Photo Finder (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Chicken Wiggle (USA)" index="" image="">
+		<description>Chicken Wiggle (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Atooi</developer>
+		<manufacturer>Atooi</manufacturer>
+		<year>2017</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Christmas Wonderland 4 (Europe)" index="" image="">
+		<description>Christmas Wonderland 4 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Microvalue</developer>
+		<manufacturer>Microvalue</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Chronus Arc (Europe)" index="" image="">
+		<description>Chronus Arc (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HitPoint</developer>
+		<manufacturer>kemco</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Citizens of Earth (USA)" index="" image="">
+		<description>Citizens of Earth (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Eden Industries</developer>
+		<manufacturer>Sega</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Coaster Creator 3D (USA)" index="" image="">
+		<description>Coaster Creator 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2013</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Cocoro - Line Defender (Europe)" index="" image="">
+		<description>Cocoro: Line Defender (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Moving Player</developer>
+		<manufacturer>Moving Player</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Color Zen (USA)" index="" image="">
+		<description>Color Zen (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cypronia</developer>
+		<manufacturer>Cypronia</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Color Zen Kids (Europe)" index="" image="">
+		<description>Color Zen Kids (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cypronia</developer>
+		<manufacturer>Cypronia</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Conveni Dream (USA)" index="" image="">
+		<description>Conveni Dream (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Crashmo (USA)" index="" image="">
+		<description>Crashmo (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intelligent Systems</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Crazy Chicken - Director&apos;s Cut 3D (Europe)" index="" image="">
+		<description>Crazy Chicken: Director&apos;s Cut 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2013</year>
+		<genre>Gun</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Crazy Chicken - Pirates 3D (Europe)" index="" image="">
+		<description>Crazy Chicken: Pirates 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2012</year>
+		<genre>Gun</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Crazy Kangaroo (USA)" index="" image="">
+		<description>Crazy Kangaroo (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Creeping Terror (USA)" index="" image="">
+		<description>Creeping Terror (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mebius</developer>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2017</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Crimson Shroud (USA)" index="" image="">
+		<description>Crimson Shroud (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2012</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Crystareino (USA)" index="" image="">
+		<description>Crystareino (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HitPoint</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Cube Creator 3D (USA)" index="" image="">
+		<description>Cube Creator 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2015</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Cube Creator DX (USA)" index="" image="">
+		<description>Cube Creator DX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2018</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Cube Tactics (USA)" index="" image="">
+		<description>Cube Tactics (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Fun Unit</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Cubit - The Hardcore Platformer Robot (USA)" index="" image="">
+		<description>Cubit: The Hardcore Platformer Robot (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CoderChild</developer>
+		<manufacturer>CoderChild</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Cursed Castilla (USA)" index="" image="">
+		<description>Cursed Castilla (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Locomalito/Abylight</developer>
+		<manufacturer>Abylight</manufacturer>
+		<year>2017</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Cut the Rope (USA)" index="" image="">
+		<description>Cut the Rope (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Abylight</developer>
+		<manufacturer>ZeptoLab UK</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Darts Up 3D (USA)" index="true" image="d">
+		<description>Darts Up 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dedede&apos;s Drum Dash Deluxe (USA)" index="" image="">
+		<description>Dedede&apos;s Drum Dash Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Deer Hunting King (USA)" index="" image="">
+		<description>Deer Hunting King (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Hunting</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Delusions of Von Sottendorff and His Squared Mind, The (USA)" index="" image="">
+		<description>Delusions of Von Sottendorff and His Squared Mind, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Evolution S.L.</developer>
+		<manufacturer>Delirium Studios</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dementium Remastered (USA)" index="" image="">
+		<description>Dementium Remastered (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Renegade Kid</developer>
+		<manufacturer>Renegade Kid</manufacturer>
+		<year>2015</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - M (Mature)</rating>
+	</game>
+	<game name="Demon King Box (USA)" index="" image="">
+		<description>Demon King Box (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent.</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="DENPA MEN, THE - They Came By Wave (USA)" index="" image="">
+		<description>DENPA MEN, THE: They Came By Wave (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Genius Sorority</developer>
+		<manufacturer>Genius Sorority</manufacturer>
+		<year>2012</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="DENPA MEN, THE 2 - Beyond the Waves (USA)" index="" image="">
+		<description>DENPA MEN, THE 2: Beyond the Waves (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Genius Sorority</developer>
+		<manufacturer>Genius Sorority</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="DENPA MEN, THE 3 - The Rise of Digitoll (USA)" index="" image="">
+		<description>DENPA MEN, THE 3: The Rise of Digitoll (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Genius Sorority</developer>
+		<manufacturer>Genius Sorority</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Digger Dan DX (Europe)" index="" image="">
+		<description>Digger Dan DX (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Four Horses</developer>
+		<manufacturer>Four Horses</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Dillon&apos;s Rolling Western - The Last Ranger (USA)" index="" image="">
+		<description>Dillon&apos;s Rolling Western: The Last Ranger (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Vanpool</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Dillon&apos;s Rolling Western (USA)" index="" image="">
+		<description>Dillon&apos;s Rolling Western (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Vanpool</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Doll Fashion Atelier (Europe)" index="" image="">
+		<description>Doll Fashion Atelier (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mebius</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="DOOORS (USA)" index="" image="">
+		<description>DOOORS (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>PUMO</developer>
+		<manufacturer>PUMO</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dot Runner - Complete Edition (Europe)" index="" image="">
+		<description>Dot Runner: Complete Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intense Co.</developer>
+		<manufacturer>Intense Co.</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Dr. Mario - Miracle Cure (World)" index="" image="">
+		<description>Dr. Mario: Miracle Cure (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dragon Fantasy - The Black Tome of Ice (USA)" index="" image="">
+		<description>Dragon Fantasy: The Black Tome of Ice (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Muteki</developer>
+		<manufacturer>Choice Provisions</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Dragon Fantasy - The Volumes of Westeria (USA)" index="" image="">
+		<description>Dragon Fantasy: The Volumes of Westeria (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Muteki Corporation</developer>
+		<manufacturer>Choice Provisions</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Dragon Lapis (USA)" index="" image="">
+		<description>Dragon Lapis (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2018</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dragon Sinker - Descendants of Legend (USA)" index="" image="">
+		<description>Dragon Sinker: Descendants of Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Drancia Saga (USA)" index="" image="">
+		<description>Drancia Saga (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Skipmore</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dress to Play - Cute Witches! (USA)" index="" image="">
+		<description>Dress to Play: Cute Witches! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CoderChild</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Dress to Play - Magic Bubbles! (Europe)" index="" image="">
+		<description>Dress to Play: Magic Bubbles! (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CoderChild</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Drop Zone - Under Fire (USA)" index="" image="">
+		<description>Drop Zone: Under Fire (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Edge (USA)" index="true" image="e">
+		<description>Edge (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Two Tribes Publishing</developer>
+		<manufacturer>Two Tribes Publishing</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Elliot Quest (Europe)" index="" image="">
+		<description>Elliot Quest (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>PlayEveryWare</developer>
+		<manufacturer>PlayEveryWare</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Elminage Original (USA)" index="" image="">
+		<description>Elminage Original (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Starfish</developer>
+		<manufacturer>Ninja Games</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Epic Word Search - Collection 2 (Europe)" index="" image="">
+		<description>Epic Word Search: Collection 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lightwood Games</developer>
+		<manufacturer>Lightwood Games</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Escape from Zombie City (USA)" index="" image="">
+		<description>Escape from Zombie City (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Tom Create</developer>
+		<manufacturer>Tom Create</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="escapeVektor (USA)" index="" image="">
+		<description>escapeVektor (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nnooo</developer>
+		<manufacturer>Nnooo</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="European Conqueror 3D (USA)" index="" image="">
+		<description>European Conqueror 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent.</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Excave (USA)" index="" image="">
+		<description>Excave (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mechanic Arms</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Excave II - Wizard of the Underworld (USA)" index="" image="">
+		<description>Excave II: Wizard of the Underworld (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mechanic Arms</developer>
+		<manufacturer>Rising Star Games</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Excave III - Tower of Destiny (Europe)" index="" image="">
+		<description>Excave III: Tower of Destiny (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mechanic Arms</developer>
+		<manufacturer>Bergsala Lightweight</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Fairune (USA)" index="true" image="f">
+		<description>Fairune (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Urara-Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Fairune 2 (USA)" index="" image="">
+		<description>Fairune 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Skipmore</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Family Bowling 3D (USA)" index="" image="">
+		<description>Family Bowling 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Bowling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Family Fishing (Europe)" index="" image="">
+		<description>Family Fishing (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2016</year>
+		<genre>Sports/Fishing</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Family Kart 3D (Europe)" index="" image="">
+		<description>Family Kart 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2014</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Family Tennis 3D (Europe)" index="" image="">
+		<description>Family Tennis 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Tennis</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Fantasy Pirates (Europe)" index="" image="">
+		<description>Fantasy Pirates (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Fifteen (USA) (New 3DS)" index="" image="">
+		<description>Fifteen (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>RCMADIAX</developer>
+		<manufacturer>RCMADIAX</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Fish On 3D (Europe)" index="" image="">
+		<description>Fish On 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>SIMS</developer>
+		<manufacturer>Agetec</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Fishing</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Fishdom H2O - Hidden Odyssey (Europe)" index="" image="">
+		<description>Fishdom H2O: Hidden Odyssey (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cypronia</developer>
+		<manufacturer>Cypronia</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Flick Golf 3D (Europe)" index="" image="">
+		<description>Flick Golf 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Full Fat Games</developer>
+		<manufacturer>Full Fat Games</manufacturer>
+		<year>2015</year>
+		<genre>Sports/Golf</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Fluidity - Spin Cycle (USA)" index="" image="">
+		<description>Fluidity: Spin Cycle (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Curve Digital</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Football Up 3D (Europe)" index="" image="">
+		<description>Football Up 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Soccer</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Fractured Soul (Europe)" index="" image="">
+		<description>Fractured Soul (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Endgame Studios</developer>
+		<manufacturer>Endgame Studios</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Frontier Days - Founding Pioneers (Europe)" index="" image="">
+		<description>Frontier Days: Founding Pioneers (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Fun! Fun! Minigolf Touch! (USA)" index="" image="">
+		<description>Fun! Fun! Minigolf Touch! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Shin&apos;en Multimedia</developer>
+		<manufacturer>Shin&apos;en Multimedia</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Futuridium Extended Play Deluxe (USA) (New 3DS)" index="" image="">
+		<description>Futuridium Extended Play Deluxe (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mixed Bag</developer>
+		<manufacturer>Mixed Bag</manufacturer>
+		<year>2016</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Geki Yaba Runner Deluxe (USA)" index="true" image="g">
+		<description>Geki Yaba Runner Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>QubicGames</developer>
+		<manufacturer>QubicGames</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Glory of Generals (Europe)" index="" image="">
+		<description>Glory of Generals (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent./Easytech</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Glory of Generals - The Pacific (Europe)" index="" image="">
+		<description>Glory of Generals: The Pacific (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent./Easytech</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Strategy</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Go! Go! Kokopolo 3D - Space Recipe for Disaster (USA)" index="" image="">
+		<description>Go! Go! Kokopolo 3D: Space Recipe for Disaster (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Tanukii Studios</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Gotcha Racing (USA)" index="" image="">
+		<description>Gotcha Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Natsume</manufacturer>
+		<year>2015</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Gotta Protectors (USA)" index="" image="">
+		<description>Gotta Protectors (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Ancient</developer>
+		<manufacturer>Ancient</manufacturer>
+		<year>2016</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Gourmet Dream (USA)" index="" image="">
+		<description>Gourmet Dream (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Governor of Poker (Europe)" index="" image="">
+		<description>Governor of Poker (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Youda Games</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2014</year>
+		<genre>Casino</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Grinsia (USA)" index="" image="">
+		<description>Grinsia (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nicalis</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Groove Heaven (Europe)" index="" image="">
+		<description>Groove Heaven (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Fun Unit</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2013</year>
+		<genre>Rhythm</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Gunman Clive (USA)" index="" image="">
+		<description>Gunman Clive (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Horberg Productions</developer>
+		<manufacturer>Horberg Productions</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Gunman Clive 2 (USA)" index="" image="">
+		<description>Gunman Clive 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Horberg Productions</developer>
+		<manufacturer>Horberg Productions</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Gunslugs (USA)" index="" image="">
+		<description>Gunslugs (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Orangepixel</developer>
+		<manufacturer>Engine Software</manufacturer>
+		<year>2016</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Gunslugs 2 (USA)" index="" image="">
+		<description>Gunslugs 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Orangepixel</developer>
+		<manufacturer>Engine Software</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Gurumin 3D - A Monstrous Adventure (Europe)" index="" image="">
+		<description>Gurumin 3D: A Monstrous Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nihon Falcom</developer>
+		<manufacturer>Mastiff</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Happy Circus (Europe)" index="true" image="h">
+		<description>Happy Circus (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Moving Player</developer>
+		<manufacturer>Moving Player</manufacturer>
+		<year>2013</year>
+		<genre>Educational</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="HarmoKnight (USA)" index="" image="">
+		<description>HarmoKnight (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Game Freak</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Rhythm</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Hazumi (USA)" index="" image="">
+		<description>Hazumi (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EyeCancer</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Heart Beaten (Europe)" index="" image="">
+		<description>Heart Beaten (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Springloaded</developer>
+		<manufacturer>Springloaded</manufacturer>
+		<year>2015</year>
+		<genre>Mini-Games</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Heavy Fire - Black Arms 3D (Europe)" index="" image="">
+		<description>Heavy Fire: Black Arms 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 16 (Everyone 16+)</rating>
+	</game>
+	<game name="Heavy Fire - Special Operations 3D (Europe)" index="" image="">
+		<description>Heavy Fire: Special Operations 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 16 (Everyone 16+)</rating>
+	</game>
+	<game name="I am an Air Traffic Controller - Airport Hero - Hawaii (Europe)" index="" image="">
+		<description>I am an Air Traffic Controller: Airport Hero - Hawaii (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="I am an Air Traffic Controller - Airport Hero - Osaka-KIX (USA)" index="true" image="i">
+		<description>I am an Air Traffic Controller: Airport Hero - Osaka-KIX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Ice Station Z (USA)" index="" image="">
+		<description>Ice Station Z (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Wobbly Tooth</developer>
+		<manufacturer>Wobbly Tooth</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Ikachan (USA)" index="" image="">
+		<description>Ikachan (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nicalis</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Inazuma Eleven (USA)" index="" image="">
+		<description>Inazuma Eleven (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-6</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Infinite Dunamis (USA)" index="" image="">
+		<description>Infinite Dunamis (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Iron Combat - War in the Air (USA)" index="" image="">
+		<description>Iron Combat: War in the Air (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Amzy</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="IronFall Invasion (USA)" index="" image="">
+		<description>IronFall Invasion (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>VD-DEV</developer>
+		<manufacturer>VD-DEV</manufacturer>
+		<year>2015</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="I&apos;ve Got to Run - Complete Edition! (USA)" index="" image="">
+		<description>I&apos;ve Got to Run: Complete Edition! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>4 Corner Games</developer>
+		<manufacturer>5 Corner Games</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Japanese Rail Sim 3D - Journey in Suburbs No. 1 (USA)" index="true" image="j">
+		<description>Japanese Rail Sim 3D: Journey in Suburbs No. 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2015</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Japanese Rail Sim 3D - Journey to Kyoto (Europe)" index="" image="">
+		<description>Japanese Rail Sim 3D: Journey to Kyoto (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Japanese Rail Sim 3D - Monorail Trip to Okinawa (Europe)" index="" image="">
+		<description>Japanese Rail Sim 3D: Monorail Trip to Okinawa (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Jett Rocket II - The Wrath of Taikai (Europe)" index="" image="">
+		<description>Jett Rocket II: The Wrath of Taikai (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Shin&apos;en Multimedia</developer>
+		<manufacturer>Shin&apos;en Multimedia</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Johnny HotShot (USA)" index="" image="">
+		<description>Johnny HotShot (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>UFO Interactive</developer>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Mini-Games</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Johnny Kung Fu (USA)" index="" image="">
+		<description>Johnny Kung Fu (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>UFO Interactive</developer>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Johnny&apos;s Payday Panic (USA)" index="" image="">
+		<description>Johnny&apos;s Payday Panic (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Office Create</developer>
+		<manufacturer>Office Create</manufacturer>
+		<year>2015</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Journey to Kreisia (Europe)" index="" image="">
+		<description>Journey to Kreisia (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Justice Chronicles (USA)" index="" image="">
+		<description>Justice Chronicles (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HitPoint</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="KAMI (USA)" index="true" image="k">
+		<description>KAMI (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>State of Play</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Karous - The Beast of Re-Eden (USA)" index="" image="">
+		<description>Karous: The Beast of Re-Eden (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Klon</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Keep, The (USA)" index="" image="">
+		<description>Keep, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cinemax</developer>
+		<manufacturer>Cinemax</manufacturer>
+		<year>2018</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="KemonoMix + (USA)" index="" image="">
+		<description>KemonoMix + (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Rocket Studio</developer>
+		<manufacturer>Rocket Studio</manufacturer>
+		<year>2014</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kersploosh! (USA)" index="" image="">
+		<description>Kersploosh! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Poisoft</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Ketzal&apos;s Corridors (USA)" index="" image="">
+		<description>Ketzal&apos;s Corridors (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kingdom&apos;s Item Shop (USA)" index="" image="">
+		<description>Kingdom&apos;s Item Shop (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Asobox/Pumo</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kirby&apos;s Blowout Blast (World)" index="" image="">
+		<description>Kirby&apos;s Blowout Blast (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAL Laboratory</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2017</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kirby Fighters Deluxe (USA)" index="" image="">
+		<description>Kirby Fighters Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kokuga (USA)" index="" image="">
+		<description>Kokuga (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>G.Rev</developer>
+		<manufacturer>G.Rev</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kung Fu Rabbit (USA)" index="" image="">
+		<description>Kung Fu Rabbit (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Ctools</developer>
+		<manufacturer>Neko Entertainment</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Apple (USA)" index="" image="">
+		<description>Kutar Apple (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Burger Factory (USA)" index="" image="">
+		<description>Kutar Burger Factory (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Concert Staff (USA)" index="" image="">
+		<description>Kutar Concert Staff (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar End Credits (USA)" index="" image="">
+		<description>Kutar End Credits (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Jump Rope (USA)" index="" image="">
+		<description>Kutar Jump Rope (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Magic Ball (USA)" index="" image="">
+		<description>Kutar Magic Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Powder Factory (USA)" index="" image="">
+		<description>Kutar Powder Factory (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Quiz (USA)" index="" image="">
+		<description>Kutar Quiz (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Quiz</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Ski Lift (USA)" index="" image="">
+		<description>Kutar Ski Lift (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Kutar Tube Rider (USA)" index="" image="">
+		<description>Kutar Tube Rider (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="League of Heroes (USA)" index="true" image="l">
+		<description>League of Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Legend of Dark Witch Episode 2, The - The Price of Desire (USA)" index="" image="">
+		<description>Legend of Dark Witch Episode 2, The: The Price of Desire (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inside System</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Legend of Dark Witch Episode 3, The - Wisdom and Lunacy (USA)" index="" image="">
+		<description>Legend of Dark Witch Episode 3, The: Wisdom and Lunacy (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inside System/M2</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Legend of Dark Witch, The (USA)" index="" image="">
+		<description>Legend of Dark Witch, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inside System</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Legna Tactica (USA)" index="" image="">
+		<description>Legna Tactica (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HitPoint</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>	
+	<game name="Let&apos;s Golf 3D (USA)" index="" image="">
+		<description>Let&apos;s Golf 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gameloft</developer>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2011</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Liberation Maiden (USA)" index="" image="">
+		<description>Liberation Maiden (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Lionel City Builder 3D - Rise of the Rails (USA)" index="" image="">
+		<description>Lionel City Builder 3D: Rise of the Rails (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Lola&apos;s ABC Party (USA)" index="" image="">
+		<description>Lola&apos;s ABC Party (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>BeiZ</developer>
+		<manufacturer>BeiZ</manufacturer>
+		<year>2014</year>
+		<genre>Educational</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Lola&apos;s Math Train (Europe)" index="" image="">
+		<description>Lola&apos;s Math Train (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>BeiZ</developer>
+		<manufacturer>BeiZ</manufacturer>
+		<year>2013</year>
+		<genre>Educational</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Machine Knight (USA)" index="true" image="m">
+		<description>Machine Knight (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HitPoint</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2018</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mad Dog McCree (Europe)" index="" image="">
+		<description>Mad Dog McCree (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Digital Leisure</developer>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2012</year>
+		<genre>Gun</genre>
+		<rating>PEGI - 16 (Everyone 16+)</rating>
+	</game>
+	<game name="Magic Hammer, The (USA)" index="" image="">
+		<description>Magic Hammer, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Wobbly Tooth</developer>
+		<manufacturer>Wobbly Tooth</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mahjong 3D - Essentials (USA)" index="" image="">
+		<description>Mahjong 3D: Essentials (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Engine Software</developer>
+		<manufacturer>Treva Entertainment2013</manufacturer>
+		<year>2013</year>
+		<genre>Tabletop</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mario &amp; Sonic at the London 2012 Olympic Games - Virtual Card Album (Europe)" index="" image="">
+		<description>Mario &amp; Sonic at the London 2012 Olympic Games: Virtual Card Album (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Miscellaneous</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Mario and Donkey Kong - Minis on the Move (USA)" index="" image="">
+		<description>Mario and Donkey Kong: Minis on the Move (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mario vs. Donkey Kong - Tipping Stars (USA)" index="" image="">
+		<description>Mario vs. Donkey Kong: Tipping Stars (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Marvel Pinball 3D (USA)" index="" image="">
+		<description>Marvel Pinball 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Zen Studios</developer>
+		<manufacturer>Zen Studios</manufacturer>
+		<year>2012</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Mercenaries Saga 2 - Order of the Silver Eagle (Europe)" index="" image="">
+		<description>Mercenaries Saga 2: Order of the Silver Eagle (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Rideon Games</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Mercenaries Saga 3 - Gray Wolves of War (USA)" index="" image="">
+		<description>Mercenaries Saga 3: Gray Wolves of War (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Rideon Games</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Mes Comptines (USA)" index="" image="">
+		<description>Mes Comptines (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>RingZero Games</developer>
+		<manufacturer>RingZero Games</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mighty Gunvolt (USA)" index="" image="">
+		<description>Mighty Gunvolt (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inti Creates</developer>
+		<manufacturer>Inti Creates</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mighty Gunvolt Burst (USA)" index="" image="">
+		<description>Mighty Gunvolt Burst (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Inti Creates</developer>
+		<manufacturer>Inti Creates</manufacturer>
+		<year>2017</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mighty Switch Force! (USA)" index="" image="">
+		<description>Mighty Switch Force! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>WayForward</developer>
+		<manufacturer>WayForward</manufacturer>
+		<year>2011</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Mighty Switch Force! 2 (USA)" index="" image="">
+		<description>Mighty Switch Force! 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>WayForward</developer>
+		<manufacturer>WayForward</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="MindFeud (Europe)" index="" image="">
+		<description>MindFeud (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Engine Software</developer>
+		<manufacturer>Engine Software</manufacturer>
+		<year>2014</year>
+		<genre>Board Games</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Mini Mario &amp; Friends - amiibo Challenge (USA)" index="" image="">
+		<description>Mini Mario &amp; Friends: amiibo Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mom Hid My Game! (USA) (New 3DS)" index="" image="">
+		<description>Mom Hid My Game! (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Kemco</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mononoke Forest (Europe)" index="" image="">
+		<description>Mononoke Forest (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>cribee</developer>
+		<manufacturer>Gamedo</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Monster Combine TD (Europe)" index="" image="">
+		<description>Monster Combine TD (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Collavier</developer>
+		<manufacturer>Collavier</manufacturer>
+		<year>2015</year>
+		<genre>Board Games</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Monster Shooter (Europe)" index="" image="">
+		<description>Monster Shooter (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Moon Chronicles (USA)" index="" image="">
+		<description>Moon Chronicles (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Renegade Kid</developer>
+		<manufacturer>Renegade Kid</manufacturer>
+		<year>2014</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Mutant Mudds - Super Challenge (USA)" index="" image="">
+		<description>Mutant Mudds: Super Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Renegade Kid</developer>
+		<manufacturer>Atooi</manufacturer>
+		<year>2016</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Mutant Mudds (USA)" index="" image="">
+		<description>Mutant Mudds (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Renegade Kid</developer>
+		<manufacturer>Atooi</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="My First Songs (USA)" index="" image="">
+		<description>My First Songs (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>RingZero Games</developer>
+		<manufacturer>RingZero Games</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="My First Songs 2 (Europe)" index="" image="">
+		<description>My First Songs 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>RingZero Games</developer>
+		<manufacturer>RingZero Games</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="My Nintendo Picross - The Legend of Zelda - Twilight Princess (World)" index="" image="">
+		<description>My Nintendo Picross: The Legend of Zelda - Twilight Princess (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="My Style Studio - Hair Salon (USA)" index="" image="">
+		<description>My Style Studio: Hair Salon (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Cypronia</developer>
+		<manufacturer>Cypronia</manufacturer>
+		<year>2013</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Nano Assault EX (USA)" index="true" image="n">
+		<description>Nano Assault EX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Shin&apos;en Multimedia</developer>
+		<manufacturer>Shin&apos;en Multimedia</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="NightSky (USA)" index="" image="">
+		<description>NightSky (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nifflas</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Ninja Battle Heroes (USA)" index="" image="">
+		<description>Ninja Battle Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Tom Create</developer>
+		<manufacturer>Tom Create</manufacturer>
+		<year>2014</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Ninja Usagimaru - The Gem of Blessings (USA)" index="" image="">
+		<description>Ninja Usagimaru: The Gem of Blessings (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Nintendo Badge Arcade (USA)" index="" image="">
+		<description>Nintendo Badge Arcade (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Nintendo Pocket Football Club (Europe)" index="" image="">
+		<description>Nintendo Pocket Football Club (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Paritybit</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Sports/Soccer</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Noah&apos;s Cradle (USA)" index="" image="">
+		<description>Noah&apos;s Cradle (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silver Star</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Noitu Love - Devolution (USA)" index="" image="">
+		<description>Noitu Love: Devolution (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>MP2 Games</developer>
+		<manufacturer>MP2 Games</manufacturer>
+		<year>2016</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Ocean Runner (Europe)" index="true" image="o">
+		<description>Ocean Runner (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Of Mice and Sand (USA)" index="" image="">
+		<description>Of Mice and Sand (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="OlliOlli (USA)" index="" image="">
+		<description>OlliOlli (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Carbon / Roll7</developer>
+		<manufacturer>Curve Digital</manufacturer>
+		<year>2015</year>
+		<genre>Sports/Skateboarding</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Parascientific Escape - Crossing at the Farthest Horizon (USA)" index="true" image="p">
+		<description>Parascientific Escape: Crossing at the Farthest Horizon (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intense</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Parascientific Escape - Cruise in the Distant Seas (USA)" index="" image="">
+		<description>Parascientific Escape: Cruise in the Distant Seas (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intense</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Parascientific Escape - Gear Detective (USA)" index="" image="">
+		<description>Parascientific Escape: Gear Detective (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intense</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2017</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Parking Star 3D (Europe)" index="" image="">
+		<description>Parking Star 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Easytech</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Phantom Thief Stina and 30 Jewels, The (USA)" index="" image="">
+		<description>Phantom Thief Stina and 30 Jewels, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silver Star</developer>
+		<manufacturer>Agetec</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney - Dual Destinies (USA)" index="" image="">
+		<description>Phoenix Wright: Ace Attorney - Dual Destinies (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Capcom</developer>
+		<manufacturer>Capcom</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - M (Mature)</rating>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney - Spirit of Justice (USA)" index="" image="">
+		<description>Phoenix Wright: Ace Attorney - Spirit of Justice (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Capcom</developer>
+		<manufacturer>Capcom</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney Trilogy (USA)" index="" image="">
+		<description>Phoenix Wright: Ace Attorney Trilogy (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Capcom</developer>
+		<manufacturer>Capcom</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Pic-a-Pix Color (USA)" index="" image="">
+		<description>Pic-a-Pix Color (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lightwood Games</developer>
+		<manufacturer>Lightwood Games</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picdun 2 - Witch&apos;s Curse (USA)" index="" image="">
+		<description>Picdun 2: Witch&apos;s Curse (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intense Co.</developer>
+		<manufacturer>Intense Co.</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Pick-A-Gem (Europe)" index="" image="">
+		<description>Pick-A-Gem (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e (USA)" index="" image="">
+		<description>Picross e (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e2 (USA)" index="" image="">
+		<description>Picross e2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e3 (USA)" index="" image="">
+		<description>Picross e3 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e4 (USA)" index="" image="">
+		<description>Picross e4 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e5 (USA)" index="" image="">
+		<description>Picross e5 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e6 (USA)" index="" image="">
+		<description>Picross e6 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e7 (USA)" index="" image="">
+		<description>Picross e7 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Picross e8 (USA)" index="" image="">
+		<description>Picross e8 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Pirate Pop Plus (USA) (New 3DS)" index="" image="">
+		<description>Pirate Pop Plus (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>dadako</developer>
+		<manufacturer>13AM Games</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="PIX3D (USA)" index="" image="">
+		<description>PIX3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Plain Video Poker (USA)" index="" image="">
+		<description>Plain Video Poker (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>PouncingKitten Games</developer>
+		<manufacturer>PouncingKitten Games</manufacturer>
+		<year>2014</year>
+		<genre>Casino</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Planet Crashers (Europe)" index="" image="">
+		<description>Planet Crashers (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Renegade Kid</developer>
+		<manufacturer>UTV Ignition</manufacturer>
+		<year>2012</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Plantera (USA)" index="" image="">
+		<description>Plantera (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Ratalaika Games</developer>
+		<manufacturer>Ratalaika Games</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Pocket Card Jockey (USA)" index="" image="">
+		<description>Pocket Card Jockey (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Game Freak</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Pokedex 3D Pro (World)" index="" image="">
+		<description>Pokedex 3D Pro (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Creatures </developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Pokemon Dream Radar (Europe)" index="" image="">
+		<description>Pokemon Dream Radar (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Miscellaneous</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Pokemon Link - Battle! (Europe)" index="" image="">
+		<description>Pokemon Link: Battle! (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Genius Sorority</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Pokemon Picross (World)" index="" image="">
+		<description>Pokemon Picross (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Pokemon Shuffle (World)" index="" image="">
+		<description>Pokemon Shuffle (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Genius Sorority</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Polara (USA)" index="" image="">
+		<description>Polara (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Hope This Works Games</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Pong Pong Candy (USA)" index="" image="">
+		<description>Pong Pong Candy (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lionant</developer>
+		<manufacturer>Lionant</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Power Disc Slam (USA)" index="" image="">
+		<description>Power Disc Slam (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Chequered Cow Games</developer>
+		<manufacturer>Chequered Cow Games</manufacturer>
+		<year>2016</year>
+		<genre>Sports/Futuristic</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Proun+ (Europe)" index="" image="">
+		<description>Proun+ (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Engine Software</developer>
+		<manufacturer>Engine Software</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Psycho Pigs (Europe)" index="" image="">
+		<description>Psycho Pigs (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mechanic Arms/Clarice</developer>
+		<manufacturer>Bergsala Lightweight</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Punch Club - The Dark Fist (USA)" index="" image="">
+		<description>Punch Club: The Dark Fist (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lazy Bear Games</developer>
+		<manufacturer>tinyBuild Games</manufacturer>
+		<year>2017</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Pure Chess (Europe)" index="" image="">
+		<description>Pure Chess (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>VooFoo Studios</developer>
+		<manufacturer>Ripstone</manufacturer>
+		<year>2014</year>
+		<genre>Board Games</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Pushmo (USA)" index="" image="">
+		<description>Pushmo (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intelligent Systems</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="PUZZLEBOX Setup (USA)" index="" image="">
+		<description>PUZZLEBOX Setup (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Bplus</developer>
+		<manufacturer>Bplus</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Puzzle Labyrinth (USA)" index="" image="">
+		<description>Puzzle Labyrinth (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intense</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Pyramids (USA)" index="" image="">
+		<description>Pyramids (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Enjoy Gaming</developer>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Pyramids 2 (USA)" index="" image="">
+		<description>Pyramids 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Enjoy Gaming</developer>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Quell Memento (USA)" index="true" image="q">
+		<description>Quell Memento (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>FK Digital</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Quell Reflect (USA)" index="" image="">
+		<description>Quell Reflect (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>FK Digital</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Quest of Dungeons (USA)" index="" image="">
+		<description>Quest of Dungeons (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Upfall Studios</developer>
+		<manufacturer>Upfall Studios</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Rabi Laby Episode 3 (USA)" index="true" image="r">
+		<description>Rabi Laby Episode 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silver Star Japan</developer>
+		<manufacturer>Silver Star Japan</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Race to the Line (USA)" index="" image="">
+		<description>Race to the Line (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Enjoy Gaming</developer>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Radio Hammer (USA)" index="" image="">
+		<description>Radio Hammer (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Rage of the Gladiator (USA)" index="" image="">
+		<description>Rage of the Gladiator (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Retro City Rampage DX (USA)" index="" image="">
+		<description>Retro City Rampage DX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Vblank Entertainment</developer>
+		<manufacturer>Vblank Entertainment</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Rising Board (USA)" index="" image="">
+		<description>Rising Board (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>odenis studio</developer>
+		<manufacturer>odenis studio</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="River City - Knights of Justice (USA)" index="" image="">
+		<description>River City: Knights of Justice (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Natsume</manufacturer>
+		<year>2017</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Robot Rescue 3D (USA)" index="" image="">
+		<description>Robot Rescue 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="RTO - Reptile Take Over (USA) (New 3DS)" index="" image="">
+		<description>RTO: Reptile Take Over (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>nuGAME</developer>
+		<manufacturer>nuGAME</manufacturer>
+		<year>2017</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Runny Egg (USA)" index="" image="">
+		<description>Runny Egg (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Tom Create</developer>
+		<manufacturer>Tom Create</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Rusty&apos;s Real Deal Baseball (USA)" index="" image="">
+		<description>Rusty&apos;s Real Deal Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="RV-7 My Drone (USA)" index="" image="">
+		<description>RV-7 My Drone (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Sadame (USA)" index="true" image="s">
+		<description>Sadame (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mebius</developer>
+		<manufacturer>Rising Star Games</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Sakura Samurai - Art of the Sword (USA)" index="" image="">
+		<description>Sakura Samurai: Art of the Sword (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Samurai Defender (USA)" index="" image="">
+		<description>Samurai Defender (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Link Kit</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2015</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Samurai G (USA)" index="" image="">
+		<description>Samurai G (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>UFO Interactive</developer>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Samurai Sword Destiny (USA)" index="" image="">
+		<description>Samurai Sword Destiny (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>UFO Interactive</developer>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Samurai Warriors - Chronicles 3 (USA)" index="" image="">
+		<description>Samurai Warriors: Chronicles 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Koei Tecmo</developer>
+		<manufacturer>Koei Tecmo</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Sanrio Characters Picross (Europe)" index="" image="">
+		<description>Sanrio Characters Picross (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Jupiter</developer>
+		<manufacturer>Jupiter</manufacturer>
+		<year>2018</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Secret Journeys - Cities of the World (USA)" index="" image="">
+		<description>Secret Journeys: Cities of the World (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Severed (USA)" index="" image="">
+		<description>Severed (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>DrinkBox Studios</developer>
+		<manufacturer>DrinkBox Studios</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Shakedown Hawaii (USA)" index="" image="">
+		<description>Shakedown Hawaii (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Vblank Entertainment</developer>
+		<manufacturer>Vblank Entertainment</manufacturer>
+		<year>2019</year>
+		<genre>Simulation</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Shift DX (USA)" index="" image="">
+		<description>Shift DX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Choice Provisions</developer>
+		<manufacturer>Choice Provisions</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Shovel Knight + Shovel Knight - Plague of Shadows (USA)" index="" image="">
+		<description>Shovel Knight + Shovel Knight: Plague of Shadows (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Yacht Club Games</developer>
+		<manufacturer>Yacht Club Games</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (USA)" index="" image="">
+		<description>Shovel Knight: Treasure Trove (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Yacht Club Games</developer>
+		<manufacturer>Yacht Club Games</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Siesta Fiesta (USA)" index="" image="">
+		<description>Siesta Fiesta (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mojo Bones</developer>
+		<manufacturer>Mojo Bones</manufacturer>
+		<year>2014</year>
+		<genre>Breakout</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Skater Cat (Europe)" index="" image="">
+		<description>Skater Cat (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Fun Unit</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2014</year>
+		<genre>Sports/Skateboarding</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Skypeace (USA)" index="" image="">
+		<description>Skypeace (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Slice It! (USA)" index="" image="">
+		<description>Slice It! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>COM2US/Arc System Works</developer>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Smash Cat Heroes (USA)" index="" image="">
+		<description>Smash Cat Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Tom Create</developer>
+		<manufacturer>Tom Create</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="SmileBASIC (USA)" index="" image="">
+		<description>SmileBASIC (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>SmileBoom</developer>
+		<manufacturer>SmileBoom</manufacturer>
+		<year>2015</year>
+		<genre>Educational</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Snow Moto Racing 3D (Europe)" index="" image="">
+		<description>Snow Moto Racing 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Zordix AB</developer>
+		<manufacturer>Zordix AB</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Soccer Up Online (USA)" index="" image="">
+		<description>Soccer Up Online (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2015</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Space Lift Danger Panic! (USA)" index="" image="">
+		<description>Space Lift Danger Panic! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Springloaded</developer>
+		<manufacturer>Springloaded</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="SpeedX 3D - Hyper Edition (USA)" index="" image="">
+		<description>SpeedX 3D: Hyper Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="SpeedX 3D (USA)" index="" image="">
+		<description>SpeedX 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Gamelion</developer>
+		<manufacturer>Gamelion</manufacturer>
+		<year>2012</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Squareboy vs Bullies - Arena Edition (Europe)" index="" image="">
+		<description>Squareboy vs Bullies - Arena Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Ratalaika Games/Rohan Narang</developer>
+		<manufacturer>Ratalaika Games</manufacturer>
+		<year>2017</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Squids Odyssey (USA)" index="" image="">
+		<description>Squids Odyssey (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>The Game Bakers</developer>
+		<manufacturer>The Game Bakers</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Star Wars Pinball (USA)" index="" image="">
+		<description>Star Wars Pinball (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Zen Studios</developer>
+		<manufacturer>Zen Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Starship Damrey, The (USA)" index="" image="">
+		<description>Starship Damrey, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2012</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="SteamWorld Dig (USA)" index="" image="">
+		<description>SteamWorld Dig (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Image &amp; Form</developer>
+		<manufacturer>Image &amp; Form</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="SteamWorld Dig 2 (USA)" index="" image="">
+		<description>SteamWorld Dig 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Image &amp; Form</developer>
+		<manufacturer>Image &amp; Form</manufacturer>
+		<year>2018</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="SteamWorld Heist (USA)" index="" image="">
+		<description>SteamWorld Heist (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Image &amp; Form</developer>
+		<manufacturer>Image &amp; Form</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Steel Diver - Sub Wars (USA)" index="" image="">
+		<description>Steel Diver: Sub Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Steel Empire (Europe)" index="" image="">
+		<description>Steel Empire (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Starfish SD</developer>
+		<manufacturer>Teyon</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 7 (Everyone 7+)</rating>
+	</game>
+	<game name="Stretchmo (USA)" index="" image="">
+		<description>Stretchmo (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Intelligent Systems</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Strike Force Foxx (USA)" index="" image="">
+		<description>Strike Force Foxx (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Sudoku by Nikoli (Europe)" index="" image="">
+		<description>Sudoku by Nikoli (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAMSTER</developer>
+		<manufacturer>HAMSTER</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Sumico (Europe)" index="" image="">
+		<description>Sumico (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Engine Software</developer>
+		<manufacturer>Engine Software</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Super Little Acorns 3D Turbo (USA)" index="" image="">
+		<description>Super Little Acorns 3D Turbo (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Pixel Toys</developer>
+		<manufacturer>Pixel Toys</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Super Strike Beach Volleyball (Europe)" index="" image="">
+		<description>Super Strike Beach Volleyball (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Natsume</manufacturer>
+		<year>2016</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Sweet Memories Blackjack (USA)" index="" image="">
+		<description>Sweet Memories Blackjack (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2012</year>
+		<genre>Casino</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Swords &amp; Darkness (USA)" index="" image="">
+		<description>Swords &amp; Darkness (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Swords &amp; Soldiers 3D (Europe)" index="" image="">
+		<description>Swords &amp; Soldiers 3D (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent.</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2013</year>
+		<genre>Strategy</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Symphony of Eternity (USA)" index="" image="">
+		<description>Symphony of Eternity (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Kemco</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2017</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Tangram Attack (USA)" index="true" image="t">
+		<description>Tangram Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Square One Games</developer>
+		<manufacturer>Square One Games</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Tangram Style (Europe)" index="" image="">
+		<description>Tangram Style (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Moving Player</developer>
+		<manufacturer>Moving Player</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Tank Troopers (USA)" index="" image="">
+		<description>Tank Troopers (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nintendo</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2017</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Tappingo (USA)" index="" image="">
+		<description>Tappingo (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Goodbye Galaxy G.</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Tappingo 2 (USA)" index="" image="">
+		<description>Tappingo 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Goodbye Galaxy G.</developer>
+		<manufacturer>Goodbye Galaxy G.</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Team Kirby Clash Deluxe (Europe)" index="" image="">
+		<description>Team Kirby Clash Deluxe (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>HAL Laboratory</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2017</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Thorium Wars - Attack of the Skyfighter (USA)" index="" image="">
+		<description>Thorium Wars: Attack of the Skyfighter (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Big John Games</developer>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Tiny Games - Knights &amp; Dragons (Europe)" index="" image="">
+		<description>Tiny Games: Knights &amp; Dragons (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>REACTOR</developer>
+		<manufacturer>REACTOR</manufacturer>
+		<year>2014</year>
+		<genre>Board Games</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Titan Attacks! (USA)" index="" image="">
+		<description>Titan Attacks! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Carbon/Puppygames</developer>
+		<manufacturer>Curve Digital</manufacturer>
+		<year>2015</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Toki Tori (USA)" index="" image="">
+		<description>Toki Tori (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Two Tribes Publishing</developer>
+		<manufacturer>Two Tribes Publishing</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Tokyo Crash Mobs (USA)" index="" image="">
+		<description>Tokyo Crash Mobs (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mitchell Corp.</developer>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Touch Battle Tank 3D (USA)" index="" image="">
+		<description>Touch Battle Tank 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silver Star</developer>
+		<manufacturer>Agetec</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Touch Battle Tank 3D 2 (USA)" index="" image="">
+		<description>Touch Battle Tank 3D 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Silver Star</developer>
+		<manufacturer>Agetec</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Toy Defense (USA)" index="" image="">
+		<description>Toy Defense (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CIRCLE Ent./Melesta</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Toy Stunt Bike (USA)" index="" image="">
+		<description>Toy Stunt Bike (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Wobbly Tooth</developer>
+		<manufacturer>Wobbly Tooth</manufacturer>
+		<year>2014</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Toys vs Monsters (USA)" index="" image="">
+		<description>Toys vs Monsters (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2014</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Turtle Tale (USA)" index="" image="">
+		<description>Turtle Tale (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Saturnine Games</developer>
+		<manufacturer>Saturnine Games</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Unchained Blades (USA)" index="true" image="u">
+		<description>Unchained Blades (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>FuRyu</developer>
+		<manufacturer>XSEED Games</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Undead Bowling (USA)" index="" image="">
+		<description>Undead Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>G-Style</developer>
+		<manufacturer>G-Style</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Bowling</genre>
+		<rating>ESRB - M (Mature)</rating>
+	</game>
+	<game name="Undead Storm Nightmare (USA)" index="" image="">
+		<description>Undead Storm Nightmare (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>G-Style</developer>
+		<manufacturer>G-Style</manufacturer>
+		<year>2015</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Unholy Heights (USA)" index="" image="">
+		<description>Unholy Heights (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Mebius</developer>
+		<manufacturer>Bergsala Lightweight</manufacturer>
+		<year>2016</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Unlucky Mage (USA)" index="" image="">
+		<description>Unlucky Mage (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Exe Create</developer>
+		<manufacturer>Kemco</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Urban Trial Freestyle (Europe)" index="" image="">
+		<description>Urban Trial Freestyle (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Tate Media</developer>
+		<manufacturer>Tate Media</manufacturer>
+		<year>2013</year>
+		<genre>Motorcycle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Urban Trial Freestyle 2 (USA)" index="" image="">
+		<description>Urban Trial Freestyle 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Teyon</developer>
+		<manufacturer>Tate Media</manufacturer>
+		<year>2017</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Vacation Adventures - Park Ranger (Europe)" index="true" image="v">
+		<description>Vacation Adventures: Park Ranger (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Microvalue</developer>
+		<manufacturer>Microvalue</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Vacation Adventures - Park Ranger 2 (Europe)" index="" image="">
+		<description>Vacation Adventures: Park Ranger 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Microvalue</developer>
+		<manufacturer>Microvalue</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Van Helsing Sniper Zx100 (Europe)" index="" image="">
+		<description>Van Helsing Sniper Zx100 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>EnjoyUp Games</developer>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2014</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="VectorRacing (USA)" index="" image="">
+		<description>VectorRacing (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Arc System Works</developer>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2012</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="VVVVVV (USA)" index="" image="">
+		<description>VVVVVV (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Nicalis</developer>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2011</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Wakedas (Europe)" index="true" image="w">
+		<description>Wakedas (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>F K Digital</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2013</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Waku Waku Sweets - Happy Sweets Making (Europe)" index="" image="">
+		<description>Waku Waku Sweets: Happy Sweets Making (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Sonic Powered</developer>
+		<manufacturer>Sonic Powered</manufacturer>
+		<year>2018</year>
+		<genre>Simulation</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Weapon Shop de Omasse (USA)" index="" image="">
+		<description>Weapon Shop de Omasse (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>LEVEL-5</developer>
+		<manufacturer>LEVEL-5</manufacturer>
+		<year>2014</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Wild Adventures - Ultimate Deer Hunt 3D (USA)" index="" image="">
+		<description>Wild Adventures: Ultimate Deer Hunt 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>eV Interactive</developer>
+		<manufacturer>eV Interactive</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Hunting</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Wind-Up Knight 2 (USA) (New 3DS)" index="" image="">
+		<description>Wind-Up Knight 2 (USA) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Robot Invader</developer>
+		<manufacturer>Unity Games</manufacturer>
+		<year>2016</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Witch and Hero (USA)" index="" image="">
+		<description>Witch and Hero (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>F K Digital</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Witch and Hero II (USA)" index="" image="">
+		<description>Witch and Hero II (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Flyhigh Works</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Without Escape (Europe) (New 3DS)" index="" image="">
+		<description>Without Escape (Europe) (New 3DS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Bumpy Trail Games</developer>
+		<manufacturer>Bumpy Trail Games</manufacturer>
+		<year>2019</year>
+		<genre>Adventure</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+	</game>
+	<game name="Wizdom (Europe)" index="" image="">
+		<description>Wizdom (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Moving Player</developer>
+		<manufacturer>Moving Player</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Woah Dave! (USA)" index="" image="">
+		<description>Woah Dave! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>MiniVisions</developer>
+		<manufacturer>Choice Provisions</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Worcle Worlds (Europe)" index="" image="">
+		<description>Worcle Worlds (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lightwood Games</developer>
+		<manufacturer>Lightwood Games</manufacturer>
+		<year>2017</year>
+		<genre>Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+	</game>
+	<game name="Word Puzzles by POWGI (USA)" index="" image="">
+		<description>Word Puzzles by POWGI (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lightwood Games</developer>
+		<manufacturer>Lightwood Games</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="World Conqueror 3D (USA)" index="" image="">
+		<description>World Conqueror 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Lionant</developer>
+		<manufacturer>CIRCLE Ent.</manufacturer>
+		<year>2013</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Xeodrifter (USA)" index="true" image="x">
+		<description>Xeodrifter (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Atooi</developer>
+		<manufacturer>Atooi</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Yumi&apos;s Odd Odyssey (USA)" index="true" image="y">
+		<description>Yumi&apos;s Odd Odyssey (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Agatsuma Entertainment</developer>
+		<manufacturer>Natsume</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Zen Pinball 3D (USA)" index="true" image="z">
+		<description>Zen Pinball 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Zen Studios</developer>
+		<manufacturer>Zen Studios</manufacturer>
+		<year>2012</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+	</game>
+	<game name="Zombie Incident (USA)" index="" image="">
+		<description>Zombie Incident (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>CoderChild</developer>
+		<manufacturer>CoderChild</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+	</game>
+	<game name="Zombie Panic in Wonderland DX (USA)" index="" image="">
+		<description>Zombie Panic in Wonderland DX (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>Akaoni Studio</developer>
+		<manufacturer>Akaoni Studio</manufacturer>
+		<year>2014</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+	<game name="Zombie Slayer Diox (USA)" index="" image="">
+		<description>Zombie Slayer Diox (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<developer>UFO Interactive</developer>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Rhythm</genre>
+		<rating>ESRB - T (Teen)</rating>
+	</game>
+</menu>

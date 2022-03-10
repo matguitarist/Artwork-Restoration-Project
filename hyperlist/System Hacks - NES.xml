@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<header>
+		<listname>Nintendo Entertainment System Hacks</listname>
+		<lastlistupdate>08/24/202020</lastlistupdate>
+		<listversion>2.1</listversion>
+		<exporterversion>Excel 2020
+Copywrite (c) 2020 Signum</exporterversion>
+	</header>
+	<game name="Alien 3 Plus (USA) (Hack)" index="true" image="a">
+		<description>Alien 3 Plus (USA) (Hack)</description>
+		<crc>CC789A58</crc>
+		<manufacturer>the jabu</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Angry Birds (USA) (Hack)">
+		<description>Angry Birds (USA) (Hack)</description>
+		<crc>56744107</crc>
+		<manufacturer>Googie</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman &amp; Robin - Shadows of Gotham (USA) (Hack)" index="true" image="b">
+		<description>Batman &amp; Robin - Shadows of Gotham (USA) (Hack)</description>
+		<crc>F47A23EE</crc>
+		<manufacturer>Magnus nilsson</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Trouble in Little China (USA) (Hack)">
+		<description>Big Trouble in Little China (USA) (Hack)</description>
+		<crc>440AFDBE</crc>
+		<manufacturer>pacnsacdave</manufacturer>
+		<year>2019</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain America - The Winter Soldier (USA) (Hack)" index="true" image="c">
+		<description>Captain America - The Winter Soldier (USA) (Hack)</description>
+		<crc>CBF79B63</crc>
+		<manufacturer>pacnsacdave</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Blood Moon (USA) (Hack)">
+		<description>Castlevania - Blood Moon (USA) (Hack)</description>
+		<crc>0E3BF357</crc>
+		<manufacturer>Redrum</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Chorus of Mysteries (USA) (Hack)">
+		<description>Castlevania - Chorus of Mysteries (USA) (Hack)</description>
+		<crc>BAD05634</crc>
+		<manufacturer>Optomon</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Orchestra of Despair (USA) (Hack)">
+		<description>Castlevania - Orchestra of Despair (USA) (Hack)</description>
+		<crc>58B18066</crc>
+		<manufacturer>Dr. Mario</manufacturer>
+		<year>2005</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Overflow Darkness (USA) (Hack)">
+		<description>Castlevania - Overflow Darkness (USA) (Hack)</description>
+		<crc>0B43E40A</crc>
+		<manufacturer>Luto Akino</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - The Holy Relics (USA) (Hack)">
+		<description>Castlevania - The Holy Relics (USA) (Hack)</description>
+		<crc>8603CBBB</crc>
+		<manufacturer>Optomon</manufacturer>
+		<year>2017</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania II - Simon's Quest Redaction (USA) (Hack)">
+		<description>Castlevania II - Simon's Quest Redaction (USA) (Hack)</description>
+		<crc>B5132DE0</crc>
+		<manufacturer>The Almighty Guru</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra - Revenge of the Red Falcon (USA) (Hack)">
+		<description>Contra - Revenge of the Red Falcon (USA) (Hack)</description>
+		<crc>FA28193B</crc>
+		<manufacturer>Trax</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darkwing Duck New Levels (USA) (Hack)" index="true" image="d">
+		<description>Darkwing Duck New Levels (USA) (Hack)</description>
+		<crc>D39BADAE</crc>
+		<manufacturer>spiiin</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon Chuck Norris Edition (USA) (Hack)">
+		<description>Double Dragon Chuck Norris Edition (USA) (Hack)</description>
+		<crc>99FEA285</crc>
+		<manufacturer>pacnsacdave</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy - Negative One (USA) (Hack)" index="true" image="f">
+		<description>Final Fantasy - Negative One (USA) (Hack)</description>
+		<crc>4A243525</crc>
+		<manufacturer>Pinkpuff</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

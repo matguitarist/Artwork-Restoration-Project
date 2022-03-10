@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+<listname>PC Games</listname>
+<lastlistupdate>10/09/2021</lastlistupdate>
+<listversion>0.1</listversion>
+</header>
+<game name="Alex Kidd in Miracle World DX" index="true" image="0">
+<description>Alex Kidd in Miracle World DX</description>
+<manufacturer>Merge Games</manufacturer>
+<year>2021</year>
+<genre>Platform</genre>
+<score>0.65</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Broforce" index="true" image="0">
+<description>Broforce</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2014</year>
+<genre>Action</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Castle Crashers" index="true" image="0">
+<description>Castle Crashers</description>
+<manufacturer>The Behemoth</manufacturer>
+<year>2012</year>
+<genre>Beat-'Em-Up</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Guacamelee 2" index="true" image="0">
+<description>Guacamelee 2</description>
+<manufacturer>Drinkbox Studios</manufacturer>
+<year>2018</year>
+<genre>Adventure</genre>
+<score>0.85</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Mega Man 11" index="true" image="0">
+<description>Mega Man 11</description>
+<manufacturer>Capcom</manufacturer>
+<year>2018</year>
+<genre>Platform</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Sonic Mania" index="true" image="0">
+<description>Sonic Mania</description>
+<manufacturer>SEGA</manufacturer>
+<year>2017</year>
+<genre>Platform</genre>
+<score>0.85</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Streets of Rage 4" index="true" image="0">
+<description>Streets of Rage 4</description>
+<manufacturer>Dotemu</manufacturer>
+<year>2020</year>
+<genre>Beat-'Em-Up</genre>
+<score>0.85</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>	<game name="Super Meat Boy Forever" index="true" image="0">
+<description>Super Meat Boy Forever</description>
+<manufacturer>Team Meat</manufacturer>
+<year>2020</year>
+<genre>Platform</genre>
+<score>0.65</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Dragon Ball FighterZ" index="true" image="0">
+<description>Dragon Ball FighterZ</description>
+<manufacturer>Bandai Namco</manufacturer>
+<year>2017</year>
+<genre>Fighting</genre>
+<score>0.85</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Mortal Kombat XL" index="true" image="0">
+<description>Mortal Kombat XL</description>
+<manufacturer>NetherRealm Studios</manufacturer>
+<year>2015</year>
+<genre>Fighting</genre>
+<score>0.85</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Street Fighter V Champion Edition" index="true" image="0">
+<description>Street Fighter V Champion Edition</description>
+<manufacturer>Capcom</manufacturer>
+<year>2020</year>
+<genre>Fighting</genre>
+<score>0.8</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Ultimate Marvel vs. Capcom 3" index="true" image="0">
+<description>Ultimate Marvel vs. Capcom 3</description>
+<manufacturer>Capcom</manufacturer>
+<year>2011</year>
+<genre>Fighting</genre>
+<score>0.75</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Celeste" index="true" image="0">
+<description>Celeste</description>
+<manufacturer>exok</manufacturer>
+<year>2018</year>
+<genre>Platform</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Cuphead" index="true" image="0">
+<description>Cuphead</description>
+<manufacturer>Studio MDHR</manufacturer>
+<year>2017</year>
+<genre>Platform</genre>
+<score>0.9</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Hollow Knight" index="true" image="0">
+<description>Hollow Knight</description>
+<manufacturer>Team Cherry</manufacturer>
+<year>2017</year>
+<genre>Platform</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Shovel Knight" index="true" image="0">
+<description>Shovel Knight: Treasure Trove</description>
+<manufacturer>Yacht Club Games</manufacturer>
+<year>2014</year>
+<genre>Platform</genre>
+<score>0.85</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="GTA III" index="true" image="0">
+<description>GTA III</description>
+<manufacturer>Rockstar Games</manufacturer>
+<year>2001</year>
+<genre>Action</genre>
+<score>0.95</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="GTA IV The Complete Edition" index="true" image="0">
+<description>GTA IV The Complete Edition</description>
+<manufacturer>Rockstar Games</manufacturer>
+<year>2010</year>
+<genre>Action</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="GTA San Andreas" index="true" image="0">
+<description>GTA San Andreas</description>
+<manufacturer>Rockstar Games</manufacturer>
+<year>2004</year>
+<genre>Action</genre>
+<score>0.95</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="GTA Vice City" index="true" image="0">
+<description>GTA Vice City</description>
+<manufacturer>Rockstar Games</manufacturer>
+<year>2002</year>
+<genre>Action</genre>
+<score>0.95</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Ikaruga" index="true" image="0">
+<description>Ikaruga</description>
+<manufacturer>Atari</manufacturer>
+<year>2014</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Astebreed" index="true" image="0">
+<description>Astebreed: Definitive Edition</description>
+<manufacturer>Edelweiss</manufacturer>
+<year>2014</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.85</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Raiden V - Directors Cut" index="true" image="0">
+<description>Raiden V - Directors Cut</description>
+<manufacturer>MOSS</manufacturer>
+<year>2016</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.75</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Sine Mora EX" index="true" image="0">
+<description>Sine Mora EX</description>
+<manufacturer>THQ Nordic</manufacturer>
+<year>2012</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.85</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Aces of the Luftwaffe - Squadron Extended Edition" index="true" image="0">
+<description>Aces of the Luftwaffe - Squadron Extended Edition</description>
+<manufacturer>Handy Games</manufacturer>
+<year>2017</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.7</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="R-Type Final 2" index="true" image="0">
+<description>R-Type Final 2</description>
+<manufacturer>NIS America</manufacturer>
+<year>2021</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Crimzon Clover - World Ignition" index="true" image="0">
+<description>Crimzon Clover - World Ignition</description>
+<manufacturer>Degica Games</manufacturer>
+<year>2011</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.9</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="DARIUSBURST Chronicle Saviours" index="true" image="0">
+<description>DARIUSBURST Chronicle Saviours</description>
+<manufacturer>Degica Games</manufacturer>
+<year>2015</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.9</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="DoDonPachi Resurrection" index="true" image="0">
+<description>DoDonPachi Resurrection</description>
+<manufacturer>Cave</manufacturer>
+<year>2016</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.9</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Sky Force Reloaded" index="true" image="0">
+<description>Sky Force Reloaded</description>
+<manufacturer>Infinite Dreams</manufacturer>
+<year>2012</year>
+<genre>Shoot-'Em-Up</genre>
+<score>0.85</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Crash Bandicoot N Sane Trilogy" index="true" image="0">
+<description>Crash Bandicoot N. Sane Trilogy</description>
+<manufacturer>Activision</manufacturer>
+<year>2017</year>
+<genre>Platform</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Spyro Reignited Trilogy" index="true" image="0">
+<description>Spyro Reignited Trilogy</description>
+<manufacturer>Activision</manufacturer>
+<year>2018</year>
+<genre>Platform</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Yooka-Laylee" index="true" image="0">
+<description>Yooka-Laylee</description>
+<manufacturer>Playtonic Games</manufacturer>
+<year>2017</year>
+<genre>Platform</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Yooka-Laylee and the Impossible Lair" index="true" image="0">
+<description>Yooka-Laylee and the Impossible Lair</description>
+<manufacturer>Playtonic Games</manufacturer>
+<year>2019</year>
+<genre>Platform</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Assault Android Cactus Plus" index="true" image="0">
+<description>Assault Android Cactus Plus</description>
+<manufacturer>Witch Beam</manufacturer>
+<year>2015</year>
+<genre>Twin Stick</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Furi" index="true" image="0">
+<description>Furi</description>
+<manufacturer>The Game Bakers</manufacturer>
+<year>2016</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Enter the Gungeon" index="true" image="0">
+<description>Enter the Gungeon</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2016</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Guns, Gore & Cannoli 2" index="true" image="0">
+<description>Guns, Gore & Cannoli 2</description>
+<manufacturer>Crazy Monkey Studios</manufacturer>
+<year>2018</year>
+<genre>Twin Stick</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Halo Spartan Strike" index="true" image="0">
+<description>Halo: Spartan Strike</description>
+<manufacturer>Microsoft Studios</manufacturer>
+<year>2014</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="The Ascent" index="true" image="0">
+<description>The Ascent</description>
+<manufacturer>Curve Digital</manufacturer>
+<year>2021</year>
+<genre>Twin Stick</genre>
+<score>0.95</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Hotline Miami 2 - Wrong Number" index="true" image="0">
+<description>Hotline Miami 2 - Wrong Number</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2015</year>
+<genre>Twin Stick</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Shadow Complex Remastered" index="true" image="0">
+<description>Shadow Complex Remastered</description>
+<manufacturer>Epic</manufacturer>
+<year>2015</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="My Friend Pedro" index="true" image="0">
+<description>My Friend Pedro</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2019</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="The Binding of Isaac Rebirth" index="true" image="0">
+<description>The Binding of Isaac Rebirth</description>
+<manufacturer>Nicalis</manufacturer>
+<year>2014</year>
+<genre>Twin Stick</genre>
+<score>0.95</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Assault Android Cactus Plus" index="true" image="0">
+<description>Assault Android Cactus Plus</description>
+<manufacturer>Witch Beam</manufacturer>
+<year>2015</year>
+<genre>Twin Stick</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Furi" index="true" image="0">
+<description>Furi</description>
+<manufacturer>The Game Bakers</manufacturer>
+<year>2016</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Enter the Gungeon" index="true" image="0">
+<description>Enter the Gungeon</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2016</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>2</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Guns, Gore & Cannoli 2" index="true" image="0">
+<description>Guns, Gore & Cannoli 2</description>
+<manufacturer>Crazy Monkey Studios</manufacturer>
+<year>2018</year>
+<genre>Twin Stick</genre>
+<score>0.75</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Halo Spartan Strike" index="true" image="0">
+<description>Halo: Spartan Strike</description>
+<manufacturer>Microsoft Studios</manufacturer>
+<year>2014</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="The Ascent" index="true" image="0">
+<description>The Ascent</description>
+<manufacturer>Curve Digital</manufacturer>
+<year>2021</year>
+<genre>Twin Stick</genre>
+<score>0.95</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Hotline Miami 2 - Wrong Number" index="true" image="0">
+<description>Hotline Miami 2 - Wrong Number</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2015</year>
+<genre>Twin Stick</genre>
+<score>0.8</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="Shadow Complex Remastered" index="true" image="0">
+<description>Shadow Complex Remastered</description>
+<manufacturer>Epic</manufacturer>
+<year>2015</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="My Friend Pedro" index="true" image="0">
+<description>My Friend Pedro</description>
+<manufacturer>Devolver Digital</manufacturer>
+<year>2019</year>
+<genre>Twin Stick</genre>
+<score>0.9</score>
+<players>1</players>
+<enabled>Yes</enabled>
+</game>
+<game name="The Binding of Isaac Rebirth" index="true" image="0">
+<description>The Binding of Isaac Rebirth</description>
+<manufacturer>Nicalis</manufacturer>
+<year>2014</year>
+<genre>Twin Stick</genre>
+<score>0.95</score>
+<players>4</players>
+<enabled>Yes</enabled>
+</game>
+</menu>
+

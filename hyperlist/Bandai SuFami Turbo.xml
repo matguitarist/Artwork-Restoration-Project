@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+	<header>
+        <listname>Bandai SuFami Turbo</listname>
+        <listversion>2.0</listversion>
+        <lastlistupdate>12/26/2016</lastlistupdate>
+        <exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+    </header>
+    <game name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)" index="true" image="b">
+        <description>Bishoujo Senshi Sailor Moon Sailor Stars: Fuwafuwa Panic 2 (Japan)</description>
+        <cloneof></cloneof>
+        <crc>BB5C4238</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Puzzle</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)" index="true" image="c">
+        <description>Crayon Shin-chan: Nagagutsu Dobon!! (Japan)</description>
+        <cloneof></cloneof>
+        <crc>8EB753F3</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Puzzle</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="Gegege no Kitarou - Youkai Donjara (Japan)" index="true" image="g">
+        <description>Gegege no Kitarou: Youkai Donjara (Japan)</description>
+        <cloneof></cloneof>
+        <crc>4296500D</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Puzzle</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)" index="" image="">
+        <description>Gekisou Sentai Carranger: Zenkai! Racer Senshi (Japan)</description>
+        <cloneof></cloneof>
+        <crc>14C66FCA</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Driving</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="Poi Poi Ninja World (Japan)" index="true" image="p">
+        <description>Poi Poi Ninjya World (Japan)</description>
+        <cloneof></cloneof>
+        <crc>32B2B3DD</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Action</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Gundam Generation - Axis Senki (Japan)" index="true" image="s">
+        <description>SD Gundam Generation: Axis Senki (Japan)</description>
+        <cloneof></cloneof>
+        <crc>72B4235F</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Strategy</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Gundam Generation - Babylonia Kenkoku Senki (Japan)" index="" image="">
+        <description>SD Gundam Generation: Babylonia Kenkoku Senki (Japan)</description>
+        <cloneof></cloneof>
+        <crc>792D884C</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Strategy</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Gundam Generation - Gryps Senki (Japan)" index="" image="">
+        <description>SD Gundam Generation: Gryps Senki (Japan)</description>
+        <cloneof></cloneof>
+        <crc>48ECAE44</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Strategy</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Gundam Generation - Ichinen Sensouki (Japan)" index="" image="">
+        <description>SD Gundam Generation: Ichinen Sensouki (Japan)</description>
+        <cloneof></cloneof>
+        <crc>AFD74DCB</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Strategy</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Gundam Generation - Zanscare Senki (Japan)" index="" image="">
+        <description>SD Gundam Generation: Zanscare Senki (Japan)</description>
+        <cloneof></cloneof>
+        <crc>EFD3A865</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Strategy</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Gundam Generation - Colony Kakutouki (Japan)" index="" image="">
+        <description>SD Gundam Generations: Colony Kakutouki (Japan)</description>
+        <cloneof></cloneof>
+        <crc>C5DFA8FD</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Strategy</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Ultra Battle - Seven Densetsu (Japan)" index="" image="">
+        <description>SD Ultra Battle: Seven Densetsu (Japan)</description>
+        <cloneof></cloneof>
+        <crc>43AD5A45</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Action</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+    <game name="SD Ultra Battle - Ultraman Densetsu (Japan)" index="" image="">
+        <description>SD Ultra Battle: Ultraman Densetsu (Japan)</description>
+        <cloneof></cloneof>
+        <crc>4939D14</crc>
+        <manufacturer>Bandai</manufacturer>
+        <year>1996</year>
+        <genre>Action</genre>
+        <rating>HSRS - GA (General Audience)</rating>
+        <enabled>Yes</enabled>
+    </game>
+</menu>

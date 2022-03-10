@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>12/11/2020</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>Excel 2020						 			Copyrite (c) 2020 Signum</exporterversion>
+	</header>
+	<game name="Another Super Mario Bros. Wii (Hack)" index="true" image="a">
+		<description>Another Super Mario Bros. Wii (Hack)</description>
+		<manufacturer>Newer Team</manufacturer>
+		<crc>5F66BE1D</crc>
+		<genre>Platform</genre>
+		<year>2010</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DU Super Mario Bros. Anniversary Edition (Hack)" index="true" image="d">
+		<description>DU Super Mario Bros. Anniversary Edition (Hack)</description>
+		<manufacturer>Dark Umbra</manufacturer>
+		<crc>A5F32582</crc>
+		<genre>Platform</genre>
+		<year>2009</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DU Super Mario Bros. Find That Princess (Hack)">
+		<description>DU Super Mario Bros. Find That Princess (Hack)</description>
+		<manufacturer>Dark Umbra</manufacturer>
+		<crc>34C84894</crc>
+		<genre>Platform</genre>
+		<year>2010</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newer Super Luigi Wii Dark Moon (Hack)" index="true n">
+		<description>Newer Super Luigi Wii Dark Moon (Hack)</description>
+		<manufacturer>New Luigi Team</manufacturer>
+		<crc>D03EC516</crc>
+		<genre>Platform</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newer Super Mario Bros. Falling Leaf (Hack)">
+		<description>Newer Super Mario Bros. Falling Leaf (Hack)</description>
+		<manufacturer>Newer Team</manufacturer>
+		<crc>6A35C0F6</crc>
+		<genre>Platform</genre>
+		<year>2014</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newer Super Mario Bros. Holiday Special (Hack)">
+		<description>Newer Super Mario Bros. Holiday Special (Hack)</description>
+		<manufacturer>Newer Team</manufacturer>
+		<crc>365354EE</crc>
+		<genre>Platform</genre>
+		<year>2011</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newer Super Mario Bros. Summer Sun (Hack)">
+		<description>Newer Super Mario Bros. Summer Sun (Hack)</description>
+		<manufacturer>Newer Team</manufacturer>
+		<crc>4CF510D8</crc>
+		<genre>Platform</genre>
+		<year>2012</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newer Super Mario Bros. Wii (Hack)">
+		<description>Newer Super Mario Bros. Wii (Hack)</description>
+		<manufacturer>Newer Team</manufacturer>
+		<crc>49F20606</crc>
+		<genre>Platform</genre>
+		<year>2013</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game/>
+</menu>

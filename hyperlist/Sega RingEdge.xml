@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega RingEdge</listname>
+		<lastlistupdate>07/03/2022</lastlistupdate>
+		<listversion>0.1</listversion>
+		<exporterversion>Created by JonahUK for CORE Type R</exporterversion>
+	</header>
+	<game name="Blade Arcus from Shining">
+		<description>Blade Arcus from Shining</description>
+		<manufacturer>Studio Saizensen</manufacturer>
+		<year>2014</year>
+		<genre>Fighting</genre>
+		<score>0.75</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blade Strangers">
+		<description>Blade Strangers</description>
+		<manufacturer>Studio Saizensen</manufacturer>
+		<year>2018</year>
+		<genre>Fighting</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Border Break Scramble">
+		<description>Border Break Scramble</description>
+		<manufacturer>Sega AM2</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<score>0.7</score>		
+		<players>40</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CaladriusAC">
+		<description>Caladrius AC</description>
+		<manufacturer>Moss</manufacturer>
+		<year>2013</year>
+		<genre>Shooter</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dead or Alive 5 Ultimate">
+		<description>Dead or Alive 5 Ultimate</description>
+		<manufacturer>Team Ninja</manufacturer>
+		<year>2013</year>
+		<genre>Fighting</genre>
+		<score>0.9</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fighting Climax Ignition">
+		<description>Dengeki Bunko: Fighting Climax Ignition</description>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2014</year>
+		<genre>Fighting</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fighting Climax">
+		<description>Dengeki Bunko: Fighting Climax</description>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2014</year>
+		<genre>Fighting</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ge-Sen Love - Plus pengo!">
+		<description>Ge-Sen Love: Plus pengo!</description>
+		<manufacturer>Triangle Service</manufacturer>
+		<year>2012</year>
+		<genre>Shooter</genre>
+		<score>0.85</score>		
+		<players>8</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guilty Gear Xrd - Rev 2">
+		<description>Guilty Gear Xrd REV 2</description>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2017</year>
+		<genre>Fighting</genre>
+		<score>0.9</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guilty Gear Xrd - Sign">
+		<description>Guilty Gear Xrd -SIGN-</description>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2017</year>
+		<genre>Fighting</genre>
+		<score>0.8</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guilty Gear XX Accent Core Plus R">
+		<description>Guilty Gear XX Accent Core Plus R</description>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2012</year>
+		<genre>Fighting</genre>
+		<score>0.95</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Initial D Arcade Stage 6 AA">
+		<description>Initial D Arcade Stage 6 AA</description>
+		<manufacturer>Sega</manufacturer>
+		<year>2011</year>
+		<genre>Racing</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Initial D Arcade Stage 7 AA">
+		<description>Initial D Arcade Stage 7 AA</description>
+		<manufacturer>Sega AM1</manufacturer>
+		<year>2012</year>
+		<genre>Racing</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Initial D Arcade Stage 8 Infinity">
+		<description>Initial D Arcade Stage 8 Infinity</description>
+		<manufacturer>Sega</manufacturer>
+		<year>2014</year>
+		<genre>Racing</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Koihime Enbu">
+		<description>Koihime Enbu</description>
+		<manufacturer>M2 Co.,LTD</manufacturer>
+		<year>2016</year>
+		<genre>Fighting</genre>
+		<score>0.75</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mai Mai Green">
+		<description>Mai Mai</description>
+		<manufacturer>Sega AM1</manufacturer>
+		<year>2013</year>
+		<genre>Fighting</genre>
+		<score>0.5</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Melty Blood Actress Again">
+		<description>Melty Blood Actress Again Version A</description>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<score>0.75</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom Breaker Another Code">
+		<description>Phantom Breaker: Another Code</description>
+		<manufacturer>5pb.</manufacturer>
+		<year>2013</year>
+		<genre>Fighting</genre>
+		<score>0.7</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Project Diva">
+		<description>Hatsune Miku: Project DIVA Arcade</description>
+		<manufacturer>Sega</manufacturer>
+		<year>2010</year>
+		<genre>Music</genre>
+		<score>0.9</score>		
+		<players>1</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puyo Puyo Quest Arcade">
+		<description>Puyo Puyo Quest Arcade</description>
+		<manufacturer>Sega R&D1</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<score>0.5</score>		
+		<players>1</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Force Cross Elysion">
+		<description>Shining Force: Cross Elysion</description>
+		<manufacturer>Sega AM2</manufacturer>
+		<year>2012</year>
+		<genre>Role-Playing</genre>
+		<score>0.8</score>		
+		<players>1</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Force Cross Raid">
+		<description>Shining Force: Cross Raid</description>
+		<manufacturer>Sega AM2</manufacturer>
+		<year>2011</year>
+		<genre>Role-Playing</genre>
+		<score>0.8</score>		
+		<players>1</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transformers Human Alliance">
+		<description>Transformers: Human Alliance</description>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Shooter</genre>
+		<score>0.85</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Under Defeat HD+">
+		<description>Under Defeat HD+</description>
+		<manufacturer>G.Rev</manufacturer>
+		<year>2013</year>
+		<genre>Shooter</genre>
+		<score>0.9</score>		
+		<players>1</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Under Night In-Birth Exe Late St">
+		<description>Under Night In-Birth Exe Late St</description>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2015</year>
+		<genre>Fighting</genre>
+		<score>0.65</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Under Night In-Birth Exe Late">
+		<description>Under Night In-Birth Exe Late</description>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2013</year>
+		<genre>Fighting</genre>
+		<score>0.8</score>		
+		<players>2</players>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtua Tennis 4">
+		<description>Virtua Tennis 4</description>
+		<manufacturer>Sega AM2</manufacturer>
+		<year>2011</year>
+		<genre>Sports</genre>
+		<score>0.9</score>		
+		<players>4</players>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

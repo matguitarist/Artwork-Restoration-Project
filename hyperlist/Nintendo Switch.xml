@@ -1,0 +1,1836 @@
+﻿<menu>
+  <header>
+    <listname>Nintendo Switch</listname>
+    <listversion>v1.0</listversion>
+    <lastlistupdate>7/31/2018</lastlistupdate>
+    <exporterversion>HyperTools 4.3.25</exporterversion>
+  </header>
+	<game name="1-2-Switch (World)" index="" image="">
+		<description>1-2-Switch (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>8C61EAB</crc>
+		<genre>Party</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3D MiniGolf (World)" index="" image="">
+		<description>3D MiniGolf (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Joindots</manufacturer>
+		<crc>6909D742</crc>
+		<genre>Sports</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="88 Heroes - 98 Heroes Edition (World)" index="" image="">
+		<description>88 Heroes - 98 Heroes Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Rising Star Games</manufacturer>
+		<crc>10319086</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ao no Kanata no Four Rhythm for Nintendo Switch (Japan)" index="" image="">
+		<description>Ao no Kanata no Four Rhythm for Nintendo Switch (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Sprite</manufacturer>
+		<crc>3A978C60</crc>
+		<genre>Music</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aqua Moto Racing Utopia (USA)" index="" image="">
+		<description>Aqua Moto Racing Utopia (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<crc>50B3B88C</crc>
+		<genre>Racing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armed Blue Gunvolt - Striker Pack (Japan)" index="" image="">
+		<description>Armed Blue Gunvolt - Striker Pack (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nighthawk Interactive</manufacturer>
+		<crc>E035290F</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ARMS (World)" index="" image="">
+		<description>ARMS (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>AED9EE84</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asonde Shogi ga Tsuyokunaru Ginsei Shogi DX (Japan)" index="" image="">
+		<description>Asonde Shogi ga Tsuyokunaru Ginsei Shogi DX (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Silver Star</manufacturer>
+		<crc>121809A9</crc>
+		<genre>Board Game</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atelier Lydie &amp; Suelle - The Alchemists and the Mysterious Paintings (Europe)" index="" image="">
+		<description>Atelier Lydie &amp; Suelle - The Alchemists and the Mysterious Paintings (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Koei Tecmo</manufacturer>
+		<crc>A712F6C0</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Attack on Titan 2 (USA)" index="" image="">
+		<description>Attack on Titan 2 (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO GAMES CO., LTD.</manufacturer>
+		<crc>E3E0F1F4</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Axiom Verge (USA)" index="" image="">
+		<description>Axiom Verge (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Thomas Happ Games LLC</manufacturer>
+		<crc>9F0BA331</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Azure Striker Gunvolt - Striker Pack (Europe)" index="" image="">
+		<description>Azure Striker Gunvolt - Striker Pack (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Inti Creates</manufacturer>
+		<crc>8385FA</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - The Telltale Series (World)" index="" image="">
+		<description>Batman - The Telltale Series (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Telltale Games</manufacturer>
+		<crc>8DFEFFB1</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Chasers - Nightwar (World)" index="" image="">
+		<description>Battle Chasers - Nightwar (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>THQ Nordic</manufacturer>
+		<crc>9307B8E4</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bayonetta (Japan)" index="" image="">
+		<description>Bayonetta (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Sega</manufacturer>
+		<crc>7B23EC10</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bayonetta 2 (World)" index="" image="">
+		<description>Bayonetta 2 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Sega</manufacturer>
+		<crc>DEB42326</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ben 10 (World)" index="" image="">
+		<description>Ben 10 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Outright Games</manufacturer>
+		<crc>DB62E0FC</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Binding of Isaac, The - Afterbirth+ (USA)" index="" image="">
+		<description>Binding of Isaac, The - Afterbirth+ (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nicalis</manufacturer>
+		<crc>D2042AE8</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BlazBlue - Cross Tag Battle (Japan)" index="" image="">
+		<description>BlazBlue - Cross Tag Battle (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Arc System Works</manufacturer>
+		<crc>EA2CD7DC</crc>
+		<genre>Fighting</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brawlout (Europe)" index="" image="">
+		<description>Brawlout (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Angry Mob Games</manufacturer>
+		<crc>E62D9663</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cars 3 - Driven to Win (USA)" index="" image="">
+		<description>Cars 3 - Driven to Win (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<crc>5AC594D0</crc>
+		<genre>Racing</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartoon Network - Battle Crashers (Europe)" index="" image="">
+		<description>Cartoon Network - Battle Crashers (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Maximum Games</manufacturer>
+		<crc>E616062A</crc>
+		<genre>Fighting</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cave Story+ (USA)" index="" image="">
+		<description>Cave Story+ (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nicalis</manufacturer>
+		<crc>28F0AC77</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Count Lucanor, The (World)" index="" image="">
+		<description>Count Lucanor, The (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Merge Games</manufacturer>
+		<crc>2D366253</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Bandicoot N. Sane Trilogy (World)" index="" image="">
+		<description>Crash Bandicoot N. Sane Trilogy (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Activision</manufacturer>
+		<crc>380D21D0</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cube Creator X (Japan)" index="" image="">
+		<description>Cube Creator X (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Arc System Works</manufacturer>
+		<crc>81E7AB20</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darkest Dungeon - Ancestral Edition (USA)" index="" image="">
+		<description>Darkest Dungeon - Ancestral Edition (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Merge Games</manufacturer>
+		<crc>6726135E</crc>
+		<genre>Role-Playing</genre>
+		<year>2016</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="de Blob (World)" index="" image="">
+		<description>de Blob (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>THQ</manufacturer>
+		<crc>1E728014</crc>
+		<genre>Puzzle</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disgaea 5 Complete (USA)" index="" image="">
+		<description>Disgaea 5 Complete (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>9149FDF9</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Country - Tropical Freeze (World)" index="" image="">
+		<description>Donkey Kong Country - Tropical Freeze (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>A9AEF8FD</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DOOM (World)" index="" image="">
+		<description>DOOM (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bethesda Softworks</manufacturer>
+		<crc>92725972</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Xenoverse 2 (World)" index="" image="">
+		<description>Dragon Ball Xenoverse 2 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bandai Namco Entertainment</manufacturer>
+		<crc>A2342B8C</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Quest - Heroes I.II (for Nintendo Switch) (Japan)" index="" image="">
+		<description>Dragon Quest - Heroes I.II (for Nintendo Switch) (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Square Enix</manufacturer>
+		<crc>5E3782C5</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Quest Builders (Europe)" index="" image="">
+		<description>Dragon Quest Builders (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Square Enix</manufacturer>
+		<crc>9A13C48A</crc>
+		<genre>Role-Playing</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="End is Nigh, The (USA)" index="" image="">
+		<description>End is Nigh, The (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nicalis, Inc.</manufacturer>
+		<crc>E64C3612</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fallen Legion - Rise To Glory (World)" index="" image="">
+		<description>Fallen Legion - Rise To Glory (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>772FE217</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Farming Simulator - Nintendo Switch Edition (World)" index="" image="">
+		<description>Farming Simulator - Nintendo Switch Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Giants Software</manufacturer>
+		<crc>B5E14632</crc>
+		<genre>Simulation</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fate Extella - The Umbral Star (World)" index="" image="">
+		<description>Fate Extella - The Umbral Star (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Marvelous USA</manufacturer>
+		<crc>F649E85E</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 18 (World)" index="" image="">
+		<description>FIFA 18 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Electronic Arts</manufacturer>
+		<crc>B0747E75</crc>
+		<genre>Sports</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Emblem Musou (Japan)" index="" image="">
+		<description>Fire Emblem Musou (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO GAMES CO., LTD.</manufacturer>
+		<crc>259CD18</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Emblem Warriors (Europe)" index="" image="">
+		<description>Fire Emblem Warriors (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>A9798043</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Firefighters - Airport Fire Department (USA)" index="" image="">
+		<description>Firefighters - Airport Fire Department (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>United Independent Entertainment</manufacturer>
+		<crc>AD60BD6F</crc>
+		<genre>Simulation</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flame in the Flood, The (Europe)" index="" image="">
+		<description>Flame in the Flood, The (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Curve Digital</manufacturer>
+		<crc>DD57E9C0</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flashback - 25th Anniversary (USA)" index="" image="">
+		<description>Flashback - 25th Anniversary (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Microïds</manufacturer>
+		<crc>80431F62</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fushigi no Gensoukyou TOD -RELOADED- (Asia)" index="" image="">
+		<description>Fushigi no Gensoukyou TOD -RELOADED- (Asia)</description>
+		<cloneof></cloneof>
+		<manufacturer>Mediascape</manufacturer>
+		<crc>FDEB5C96</crc>
+		<genre>Role-Playing</genre>
+		<year>2016</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gal Gun 2 (Europe)" index="" image="">
+		<description>Gal Gun 2 (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Pqube</manufacturer>
+		<crc>4688DB5</crc>
+		<genre>Adventure</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gal Metal! (Japan)" index="" image="">
+		<description>Gal Metal! (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Marvelous</manufacturer>
+		<crc>BEDCB048</crc>
+		<genre>Party</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gear.Club Unlimited (World)" index="" image="">
+		<description>Gear.Club Unlimited (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Microïds</manufacturer>
+		<crc>690E8F5B</crc>
+		<genre>Racing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gem Smashers (Germany)" index="" image="">
+		<description>Gem Smashers (Germany)</description>
+		<cloneof></cloneof>
+		<manufacturer>TREVA Entertainment GmbH</manufacturer>
+		<crc>CDA94621</crc>
+		<genre>Puzzle</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="God Wars - Nihon Shinwa Taisen (Japan)" index="" image="">
+		<description>God Wars - Nihon Shinwa Taisen (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>CD916356</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gotouchi Tetsudou for Nintendo Switch (Japan)" index="" image="">
+		<description>Gotouchi Tetsudou for Nintendo Switch (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bandai Namco</manufacturer>
+		<crc>72ACC935</crc>
+		<genre>Board Game</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Birthdays (World)" index="" image="">
+		<description>Happy Birthdays (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>BBDE32E9</crc>
+		<genre>Simulation</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon - Light of Hope - Special Edition (USA)" index="" image="">
+		<description>Harvest Moon - Light of Hope - Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ring Star Games</manufacturer>
+		<crc>6544E790</crc>
+		<genre>Simulation</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Has-Been Heroes (World)" index="" image="">
+		<description>Has-Been Heroes (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>GameTrust Games</manufacturer>
+		<crc>BA506B11</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty - Kruisers with Sanrio Friends (World)" index="" image="">
+		<description>Hello Kitty - Kruisers with Sanrio Friends (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Rising Star Games</manufacturer>
+		<crc>88C61E63</crc>
+		<genre>Racing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Human - Fall Flat (Europe)" index="" image="">
+		<description>Human - Fall Flat (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Curve Digital</manufacturer>
+		<crc>CE876238</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunting Simulator (Europe)" index="" image="">
+		<description>Hunting Simulator (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<crc>CED0541E</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyrule Warriors - Definitive Edition (USA)" index="" image="">
+		<description>Hyrule Warriors - Definitive Edition (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>BFAFC40A</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="I Am Setsuna (World)" index="" image="">
+		<description>I Am Setsuna (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Square Enix</manufacturer>
+		<crc>D8CB83CB</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Island Flight Simulator (Europe)" index="" image="">
+		<description>Island Flight Simulator (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Joindots</manufacturer>
+		<crc>7B56CB78</crc>
+		<genre>Simulation</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ittle Dew 2+ (USA)" index="" image="">
+		<description>Ittle Dew 2+ (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nicalis</manufacturer>
+		<crc>B75EA181</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2017 (World)" index="" image="">
+		<description>Just Dance 2017 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ubisoft</manufacturer>
+		<crc>A82824CD</crc>
+		<genre>Music</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2018 (World)" index="" image="">
+		<description>Just Dance 2018 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ubisoft</manufacturer>
+		<crc>643B529B</crc>
+		<genre>Music</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby Star Allies (World)" index="" image="">
+		<description>Kirby Star Allies (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>104011A6</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="L.A. Noire (World)" index="" image="">
+		<description>L.A. Noire (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Rockstar Games</manufacturer>
+		<crc>423A1C36</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Kay Anniversary (World)" index="" image="">
+		<description>Legend of Kay Anniversary (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>THQ Nordic</manufacturer>
+		<crc>20E18873</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - Breath of the Wild (World)" index="" image="">
+		<description>Legend of Zelda, The - Breath of the Wild (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>C1C2DE6E</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO City Undercover (USA)" index="" image="">
+		<description>LEGO City Undercover (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<crc>21FBAD3C</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Marvel Super Heroes 2 (USA)" index="" image="">
+		<description>LEGO Marvel Super Heroes 2 (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<crc>B79929C</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO NINJAGO Movie Videogame (USA)" index="" image="">
+		<description>LEGO NINJAGO Movie Videogame (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<crc>7EEE68DD</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO The Incredibles (USA)" index="" image="">
+		<description>LEGO The Incredibles (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<crc>2FA558E0</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Worlds (World)" index="" image="">
+		<description>LEGO Worlds (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<crc>98DA5F52</crc>
+		<genre>Sandbox</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lets Sing 10 (Spain)" index="" image="">
+		<description>Lets Sing 10 (Spain)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ravens Court</manufacturer>
+		<crc>511E0500</crc>
+		<genre>Music</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lets Sing 2018 (Europe)" index="" image="">
+		<description>Lets Sing 2018 (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Plug In Digital</manufacturer>
+		<crc>B80795E3</crc>
+		<genre>Music</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Nightmares Complete Edition (World)" index="" image="">
+		<description>Little Nightmares Complete Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>BANDAI NAMCO Entertainment</manufacturer>
+		<crc>BBC89D8B</crc>
+		<genre>Adventure</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Longest 5 Minutes, The (World)" index="" image="">
+		<description>Longest 5 Minutes, The (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>E1E6321F</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Sphear (World)" index="" image="">
+		<description>Lost Sphear (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Square Enix</manufacturer>
+		<crc>C90CF5D7</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lumo (World)" index="" image="">
+		<description>Lumo (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Rising Star Games</manufacturer>
+		<crc>1363E82A</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lydie &amp; Soeur no Atelier - Fushigi na Kaiga no Renkinjutsushi (Japan)" index="" image="">
+		<description>Lydie &amp; Soeur no Atelier - Fushigi na Kaiga no Renkinjutsushi (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Koei Temo Games</manufacturer>
+		<crc>1B1BFA54</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahjong, The (Japan)" index="" image="">
+		<description>Mahjong, The (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<crc>B55B51C4</crc>
+		<genre>Puzzle</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Makai Senki Disgaea 5 (Japan)" index="" image="">
+		<description>Makai Senki Disgaea 5 (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>AF6016A3</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario + Rabbids Kingdom Battle (World)" index="" image="">
+		<description>Mario + Rabbids Kingdom Battle (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ubisoft</manufacturer>
+		<crc>F881E402</crc>
+		<genre>Strategy</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Kart 8 Deluxe (World)" index="" image="">
+		<description>Mario Kart 8 Deluxe (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>707F7839</crc>
+		<genre>Racing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Tennis Aces (World)" index="" image="">
+		<description>Mario Tennis Aces (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>13FF9B95</crc>
+		<genre>Sports</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Max - The Curse of Brotherhood (World)" index="" image="">
+		<description>Max - The Curse of Brotherhood (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>StageClearStudios</manufacturer>
+		<crc>A239F8A5</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man - Legacy Collection (USA)" index="" image="">
+		<description>Mega Man - Legacy Collection (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Capcom</manufacturer>
+		<crc>9A774160</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minecraft - Story Mode - The Complete Adventure (World)" index="" image="">
+		<description>Minecraft - Story Mode - The Complete Adventure (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Telltale Games</manufacturer>
+		<crc>C1544C36</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minna de Waiwai! Spelunker (Japan)" index="" image="">
+		<description>Minna de Waiwai! Spelunker (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Square Enix</manufacturer>
+		<crc>E9945BD0</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monopoly for Nintendo Switch (World)" index="" image="">
+		<description>Monopoly for Nintendo Switch (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ubisoft</manufacturer>
+		<crc>12FB8824</crc>
+		<genre>Puzzle</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Energy Supercross - The Official Videogame (USA)" index="" image="">
+		<description>Monster Energy Supercross - The Official Videogame (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Milestone</manufacturer>
+		<crc>6E095B81</crc>
+		<genre>Racing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Hunter - Double Cross - Nintendo Switch Ver. (Japan)" index="" image="">
+		<description>Monster Hunter - Double Cross - Nintendo Switch Ver. (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Capcom</manufacturer>
+		<crc>E306E3AA</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Jam - Crush It! (USA)" index="" image="">
+		<description>Monster Jam - Crush It! (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>MADCOW</manufacturer>
+		<crc>5E7C592A</crc>
+		<genre>Racing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MotoGP 18 (Europe)" index="" image="">
+		<description>MotoGP 18 (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Milestone</manufacturer>
+		<crc>7AD7E415</crc>
+		<genre>Racing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Musou Orochi 2 Ultimate (Japan)" index="" image="">
+		<description>Musou Orochi 2 Ultimate (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO</manufacturer>
+		<crc>1DE267B8</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MUSYNX (USA)" index="" image="">
+		<description>MUSYNX (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>PM Studios</manufacturer>
+		<crc>5276939</crc>
+		<genre>Music</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MXGP3 - The Official Motocross Videogame (World)" index="" image="">
+		<description>MXGP3 - The Official Motocross Videogame (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Milestone</manufacturer>
+		<crc>D7F4F1B5</crc>
+		<genre>Racing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Naruto Shippuden Ultimate Ninja Storm Trilogy (Japan)" index="" image="">
+		<description>Naruto Shippuden Ultimate Ninja Storm Trilogy (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bandai Namco</manufacturer>
+		<crc>3A88FC1B</crc>
+		<genre>Fighting</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA 2K18 (World)" index="" image="">
+		<description>NBA 2K18 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>2K Games</manufacturer>
+		<crc>E0E2989</crc>
+		<genre>Sports</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Atlas 1469 (Japan)" index="" image="">
+		<description>Neo Atlas 1469 (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Artdink</manufacturer>
+		<crc>78769523</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nights of Azure 2 - Bride of the New Moon (World)" index="" image="">
+		<description>Nights of Azure 2 - Bride of the New Moon (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO EUROPE</manufacturer>
+		<crc>57294460</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nintendo Labo Toy-Con 01 - Variety Kit (World)" index="" image="">
+		<description>Nintendo Labo Toy-Con 01 - Variety Kit (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Variety Kit</manufacturer>
+		<crc>CECA0E9</crc>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nintendo Labo Toy-Con 02 - Robot Kit (World)" index="" image="">
+		<description>Nintendo Labo Toy-Con 02 - Robot Kit (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Variety Kit</manufacturer>
+		<crc>4407114E</crc>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga no Yabou - Taishi (Japan)" index="" image="">
+		<description>Nobunaga no Yabou - Taishi (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Koei Tecmo</manufacturer>
+		<crc>16883DAD</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One Piece - Pirate Warriors 3 - Deluxe Edition (World)" index="" image="">
+		<description>One Piece - Pirate Warriors 3 - Deluxe Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bandai Namco</manufacturer>
+		<crc>331A002B</crc>
+		<genre>Action</genre>
+		<year>2016</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One Piece - Unlimited World Red - Deluxe Edition (World)" index="" image="">
+		<description>One Piece - Unlimited World Red - Deluxe Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bandai Namco</manufacturer>
+		<crc>C370BF5</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ostwind - Das Spiel (Germany)" index="" image="">
+		<description>Ostwind - Das Spiel (Germany)</description>
+		<cloneof></cloneof>
+		<manufacturer>EuroVideo Medien</manufacturer>
+		<crc>BE4BB4A0</crc>
+		<genre>Adventure</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Overcooked! - Special Edition (World)" index="" image="">
+		<description>Overcooked! - Special Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Team17</manufacturer>
+		<crc>C5DAE485</crc>
+		<genre>Party</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Owlboy (World)" index="" image="">
+		<description>Owlboy (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>D-pad Studio</manufacturer>
+		<crc>3C082E9D</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Party Planet (USA)" index="" image="">
+		<description>Party Planet (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Mastiff</manufacturer>
+		<crc>DCFD117C</crc>
+		<genre>Party</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Payday 2 (World)" index="" image="">
+		<description>Payday 2 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Starbreeze AB</manufacturer>
+		<crc>9D425336</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penny-Punching Princess (World)" index="" image="">
+		<description>Penny-Punching Princess (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>A15AE7DE</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Poi - Explorer Edition (USA)" index="" image="">
+		<description>Poi - Explorer Edition (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>PolyKid</manufacturer>
+		<crc>F04C1089</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokken Tournament DX (World)" index="" image="">
+		<description>Pokken Tournament DX (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>The Pokémon Company</manufacturer>
+		<crc>89C07C6A</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Portal Knights (World)" index="" image="">
+		<description>Portal Knights (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>505 Games</manufacturer>
+		<crc>71C294AB</crc>
+		<genre>Role-Playing</genre>
+		<year>2016</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PriPara - All Idol Perfect Stage (Japan)" index="" image="">
+		<description>PriPara - All Idol Perfect Stage (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Takara Tommy Arts</manufacturer>
+		<crc>4698914F</crc>
+		<genre>Music</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puyo Puyo Tetris (USA)" index="" image="">
+		<description>Puyo Puyo Tetris (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Sega</manufacturer>
+		<crc>CCFB7ABE</crc>
+		<genre>Puzzle</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puyo Puyo Tetris S (Japan)" index="" image="">
+		<description>Puyo Puyo Tetris S (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Sega</manufacturer>
+		<crc>892AC792</crc>
+		<genre>Puzzle</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball 2017 (USA)" index="" image="">
+		<description>R.B.I. Baseball 2017 (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>MLB.com</manufacturer>
+		<crc>EF567512</crc>
+		<genre>Sports</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rabi x Laby Puzzle out Stories (Japan)" index="" image="">
+		<description>Rabi x Laby Puzzle out Stories (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Silver Star</manufacturer>
+		<crc>5BB5EF11</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman Legends - Definitive Edition (World)" index="" image="">
+		<description>Rayman Legends - Definitive Edition (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ubisoft</manufacturer>
+		<crc>17043230</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Resident Evil - Revelations (Europe)" index="" image="">
+		<description>Resident Evil - Revelations (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Capcom</manufacturer>
+		<crc>1CF05F46</crc>
+		<genre>Survival horror</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Retro City Rampage DX (USA)" index="" image="">
+		<description>Retro City Rampage DX (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>VBlank Entertainment</manufacturer>
+		<crc>621D465E</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RiME (World)" index="" image="">
+		<description>RiME (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Grey Box</manufacturer>
+		<crc>24F6DEFD</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket League (World)" index="" image="">
+		<description>Rocket League (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Psyonix</manufacturer>
+		<crc>65F2F5D2</crc>
+		<genre>Sports</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Runner 3 (USA)" index="" image="">
+		<description>Runner 3 (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Choice Provisions</manufacturer>
+		<crc>5115E18C</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Schlag den Star (Germany)" index="" image="">
+		<description>Schlag den Star (Germany)</description>
+		<cloneof></cloneof>
+		<manufacturer>bitComposer Games</manufacturer>
+		<crc>78D82538</crc>
+		<genre>Party</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scribblenauts - Showdown (Europe)" index="" image="">
+		<description>Scribblenauts - Showdown (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>WB Games</manufacturer>
+		<crc>9ECA4E86</crc>
+		<genre>Party</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SD Gundam - G Generation Genesis for Nintendo Switch (Japan)" index="" image="">
+		<description>SD Gundam - G Generation Genesis for Nintendo Switch (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>BANDAI NAMCO Games</manufacturer>
+		<crc>B5F137DB</crc>
+		<genre>Strategy</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seiken Densetsu Collection (World)" index="" image="">
+		<description>Seiken Densetsu Collection (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Square Enix</manufacturer>
+		<crc>961D6C44</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sengoku Musou Sanada Maru (Japan)" index="" image="">
+		<description>Sengoku Musou Sanada Maru (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Koei Tecmo Games</manufacturer>
+		<crc>C9D3CA93</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shantae - Half-Genie Hero - Ultimate Edition! (USA)" index="" image="">
+		<description>Shantae - Half-Genie Hero - Ultimate Edition! (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>WayForward</manufacturer>
+		<crc>2769985D</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaq Fu - A Legend Reborn (World)" index="" image="">
+		<description>Shaq Fu - A Legend Reborn (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Saber Interactive Incorporated</manufacturer>
+		<crc>3ADBE359</crc>
+		<genre>Fighting</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shin Sangoku Musou 7 Empires (Japan)" index="" image="">
+		<description>Shin Sangoku Musou 7 Empires (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO GAMES CO., LTD.</manufacturer>
+		<crc>ECBEE915</crc>
+		<genre>Beat' em up</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sine Mora EX (World)" index="" image="">
+		<description>Sine Mora EX (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>THQ Nordic</manufacturer>
+		<crc>D1889055</crc>
+		<genre>Shooter</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders - Imaginators (World)" index="" image="">
+		<description>Skylanders - Imaginators (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Activision</manufacturer>
+		<crc>A8CB8DA5</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snack World, The - Trejarers Gold (Japan)" index="" image="">
+		<description>Snack World, The - Trejarers Gold (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Level 5</manufacturer>
+		<crc>5233ACFA</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snipperclips Plus - Cut it Out, Together! (World)" index="" image="">
+		<description>Snipperclips Plus - Cut it Out, Together! (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>B657452</crc>
+		<genre>Puzzle</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snow Moto Racing Freedom (Europe)" index="" image="">
+		<description>Snow Moto Racing Freedom (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<crc>6431E02F</crc>
+		<genre>Racing</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soldam - Drop, Connect, Erase (USA)" index="" image="">
+		<description>Soldam - Drop, Connect, Erase (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Dispatch Games</manufacturer>
+		<crc>19F501D7</crc>
+		<genre>Puzzle</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Forces (USA)" index="" image="">
+		<description>Sonic Forces (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Sega</manufacturer>
+		<crc>72839FE7</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="South Park - The Fractured But Whole (World)" index="" image="">
+		<description>South Park - The Fractured But Whole (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Ubisoft</manufacturer>
+		<crc>5C02DF2A</crc>
+		<genre>Adventure</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Splatoon 2 (USA)" index="" image="">
+		<description>Splatoon 2 (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>4429ECF8</crc>
+		<genre>Shooter</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Steamworld Dig 2 (World)" index="" image="">
+		<description>Steamworld Dig 2 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Image &amp; Form</manufacturer>
+		<crc>90E12921</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stern Pinball Arcade (World)" index="" image="">
+		<description>Stern Pinball Arcade (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>FarSight Studios</manufacturer>
+		<crc>FBAE69CB</crc>
+		<genre>Simulation</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter - 30th Anniversary Collection (World)" index="" image="">
+		<description>Street Fighter - 30th Anniversary Collection (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Capcom</manufacturer>
+		<crc>CF84B2FA</crc>
+		<genre>Fighting</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sumikko Gurashi - Sumikko Park e Youkoso (Japan)" index="" image="">
+		<description>Sumikko Gurashi - Sumikko Park e Youkoso (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nippon Columbia</manufacturer>
+		<crc>CACE7B7C</crc>
+		<genre>Party</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bomberman R (World)" index="" image="">
+		<description>Super Bomberman R (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Konami</manufacturer>
+		<crc>56B33E99</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Chariot (Europe)" index="" image="">
+		<description>Super Chariot (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Microïds</manufacturer>
+		<crc>A74BAB15</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Odyssey (World)" index="" image="">
+		<description>Super Mario Odyssey (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>A017E561</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Putty Squad (Europe)" index="" image="">
+		<description>Super Putty Squad (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>System 3 Software</manufacturer>
+		<crc>BFB0D6BB</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SUPERBEAT - XONiC (USA)" index="" image="">
+		<description>SUPERBEAT - XONiC (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Rising Star Games</manufacturer>
+		<crc>C6BD3713</crc>
+		<genre>Music</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sushi Striker - The Way of Sushido (USA)" index="" image="">
+		<description>Sushi Striker - The Way of Sushido (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>6BDE2B53</crc>
+		<genre>Puzzle</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Syberia 2 (Europe)" index="" image="">
+		<description>Syberia 2 (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Microïds</manufacturer>
+		<crc>2FC89E60</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of the Tiny Planet (World)" index="" image="">
+		<description>Tales of the Tiny Planet (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Joindots</manufacturer>
+		<crc>EF50AEB4</crc>
+		<genre>Puzzle</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis World Tour (Europe)" index="" image="">
+		<description>Tennis World Tour (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<crc>AE547D39</crc>
+		<genre>Sports</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="The Elder Scrolls V - Skyrim (USA)" index="" image="">
+		<description>The Elder Scrolls V - Skyrim (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bethesda Softworks</manufacturer>
+		<crc>BD3B3295</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="The Lost Child (USA)" index="" image="">
+		<description>The Lost Child (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>559378FD</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thimbleweed Park (USA)" index="" image="">
+		<description>Thimbleweed Park (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Terrible Toybox</manufacturer>
+		<crc>C950756F</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="This is the Police (World)" index="" image="">
+		<description>This is the Police (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>THQ Nordic</manufacturer>
+		<crc>4FE9971F</crc>
+		<genre>Adventure</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Barbarian DX (USA)" index="" image="">
+		<description>Tiny Barbarian DX (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nicalis</manufacturer>
+		<crc>ADA9FA7A</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Troopers Joint Ops XL (Germany)" index="" image="">
+		<description>Tiny Troopers Joint Ops XL (Germany)</description>
+		<cloneof></cloneof>
+		<manufacturer>Wired Productions</manufacturer>
+		<crc>765511E8</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Touhou Kobuto V - Burst Battle (World)" index="" image="">
+		<description>Touhou Kobuto V - Burst Battle (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>A4A61354</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troll and I (World)" index="" image="">
+		<description>Troll and I (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Maximum Games</manufacturer>
+		<crc>77AC8C09</crc>
+		<genre>Action</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultra Street Fighter II - The Final Challengers (USA)" index="" image="">
+		<description>Ultra Street Fighter II - The Final Challengers (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Capcom</manufacturer>
+		<crc>2CD591F</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unbox - Newbies Adventure (World)" index="" image="">
+		<description>Unbox - Newbies Adventure (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Merge Games Ltd.</manufacturer>
+		<crc>8C198914</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Trial Playground (Europe)" index="" image="">
+		<description>Urban Trial Playground (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Tate Multimedia</manufacturer>
+		<crc>D0A7CB07</crc>
+		<genre>Racing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Usotsuki Hime to Moumoku Ouji (Japan)" index="" image="">
+		<description>Usotsuki Hime to Moumoku Ouji (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nippon Ichi Software</manufacturer>
+		<crc>6822018D</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vegas Party (Europe)" index="" image="">
+		<description>Vegas Party (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Funbox Media</manufacturer>
+		<crc>ED4200CD</crc>
+		<genre>Board Game</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voez (Japan)" index="" image="">
+		<description>Voez (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Flyhigh Works</manufacturer>
+		<crc>180B4B52</crc>
+		<genre>Music</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Guns Reloaded (USA)" index="" image="">
+		<description>Wild Guns Reloaded (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Natsume Inc.</manufacturer>
+		<crc>4410016D</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winning Post 8 2017 (Japan)" index="" image="">
+		<description>Winning Post 8 2017 (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO</manufacturer>
+		<crc>E225A814</crc>
+		<genre>Simulation</genre>
+		<year>2017</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winning Post 8 2018 (Japan)" index="" image="">
+		<description>Winning Post 8 2018 (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO</manufacturer>
+		<crc>567F0DBD</crc>
+		<genre>Simulation</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolfenstein II - The New Colossus (USA)" index="" image="">
+		<description>Wolfenstein II - The New Colossus (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>Bethesda Game Studios</manufacturer>
+		<crc>5D08AA18</crc>
+		<genre>Action</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Boy - The Dragons Trap (USA)" index="" image="">
+		<description>Wonder Boy - The Dragons Trap (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>DotEmu</manufacturer>
+		<crc>3123C73</crc>
+		<genre>Platform</genre>
+		<year>2017</year>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWE 2K18 (World)" index="" image="">
+		<description>WWE 2K18 (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>2K Games</manufacturer>
+		<crc>4CE1D1C9</crc>
+		<genre>Fighting</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenoblade 2 (Japan)" index="" image="">
+		<description>Xenoblade 2 (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>D83BB618</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenoblade Chronicles 2 (Europe)" index="" image="">
+		<description>Xenoblade Chronicles 2 (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Nintendo</manufacturer>
+		<crc>195475C5</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yesterday Origins (Europe)" index="" image="">
+		<description>Yesterday Origins (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Microïds</manufacturer>
+		<crc>C1BCFE28</crc>
+		<genre>Adventure</genre>
+		<year>2018</year>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoku's Island Express (World)" index="" image="">
+		<description>Yoku's Island Express (World)</description>
+		<cloneof></cloneof>
+		<manufacturer>Team17</manufacturer>
+		<crc>F9DD02CA</crc>
+		<genre>Platform</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yonder - The Cloud Catcher Chronicles (Europe)" index="" image="">
+		<description>Yonder - The Cloud Catcher Chronicles (Europe)</description>
+		<cloneof></cloneof>
+		<manufacturer>Prideful Sloth</manufacturer>
+		<crc>28113DB1</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoru no Nai Kuni 2 - Shingetsu no Hanayome (Japan)" index="" image="">
+		<description>Yoru no Nai Kuni 2 - Shingetsu no Hanayome (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>Koei Tecmo Games</manufacturer>
+		<crc>85C4743</crc>
+		<genre>Role-Playing</genre>
+		<year>2017</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ys VIII - Lacrimosa of DANA (USA)" index="" image="">
+		<description>Ys VIII - Lacrimosa of DANA (USA)</description>
+		<cloneof></cloneof>
+		<manufacturer>NIS America</manufacturer>
+		<crc>CBFFF610</crc>
+		<genre>Role-Playing</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zelda Musou - Hyrule All Stars DX (Japan)" index="" image="">
+		<description>Zelda Musou - Hyrule All Stars DX (Japan)</description>
+		<cloneof></cloneof>
+		<manufacturer>KOEI TECMO</manufacturer>
+		<crc>EDE0C87A</crc>
+		<genre>Beat' em up</genre>
+		<year>2018</year>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

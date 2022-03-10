@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Main</listname>
+	</header>
+	<game name="SHUTDOWN" image=".">
+		<description>SHUTDOWN</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>EXIT</manufacturer>
+	</game>
+</menu>
